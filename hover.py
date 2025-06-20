@@ -7,9 +7,9 @@ with open("ignored(bad_old_data)/hover_train_filtered_200.json", "r") as f:
     filtered_claims = json.load(f)
 
 # Take the coresponding entries from the web
-print("🔄 Downloading first 1000 entries from Dzeniks/hover dataset...")
+print("Downloading first 1000 entries from Dzeniks/hover dataset...")
 hover_subset = load_dataset("Dzeniks/hover", split="train").select(range(1000))
-print(f"✅ Subset loaded with {len(hover_subset)} entries.")
+print(f"Subset loaded with {len(hover_subset)} entries.")
 
 # Map based on claim
 claim_to_evidence = {
