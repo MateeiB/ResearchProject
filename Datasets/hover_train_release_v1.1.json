@@ -1,0 +1,5202 @@
+[
+  {
+    "uid": "330ca632-e83f-4011-b11b-0d0158145036",
+    "claim": "Skagen Painter Peder Severin Kr\u00f8yer favored naturalism along with Theodor Esbern Philipsen and the artist Ossian Elgstr\u00f6m studied with in the early 1900s.",
+    "supporting_facts": [
+      [
+        "Kristian Zahrtmann",
+        0
+      ],
+      [
+        "Kristian Zahrtmann",
+        1
+      ],
+      [
+        "Peder Severin Kr\u00f8yer",
+        1
+      ],
+      [
+        "Ossian Elgstr\u00f6m",
+        2
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ab7a86d5542995dae37e986"
+  },
+  {
+    "uid": "ca7db8e1-799a-4498-b31b-b1a430b5874e",
+    "claim": "Skagen Painter Peder Severin Kr\u00f8yer favored naturalism along with Theodor Esbern Philipsen and the artist Ossian Elgstr\u00f6m studied with in 1907.",
+    "supporting_facts": [
+      [
+        "Kristian Zahrtmann",
+        0
+      ],
+      [
+        "Kristian Zahrtmann",
+        1
+      ],
+      [
+        "Peder Severin Kr\u00f8yer",
+        1
+      ],
+      [
+        "Ossian Elgstr\u00f6m",
+        2
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ab7a86d5542995dae37e986"
+  },
+  {
+    "uid": "2e9cf58a-40e1-47ee-aaa8-3b84ebe94cd0",
+    "claim": "Skagen Painter Peder Severin Kr\u00f8yer favored naturalism along with Theodor Esbern Philipsen and the muralist Ossian Elgstr\u00f6m studied with in 1907.",
+    "supporting_facts": [
+      [
+        "Kristian Zahrtmann",
+        0
+      ],
+      [
+        "Kristian Zahrtmann",
+        1
+      ],
+      [
+        "Peder Severin Kr\u00f8yer",
+        1
+      ],
+      [
+        "Ossian Elgstr\u00f6m",
+        2
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ab7a86d5542995dae37e986"
+  },
+  {
+    "uid": "f2f4b69d-d833-4f6d-a630-f156a2559af6",
+    "claim": "Skagen Painter, who painted the 1893 painting Roses, favored naturalism. Theodor Esbern Philipsen and the artist that Ossian Elgstr\u00f6m studied with in December of 1907 also favored naturalism.",
+    "supporting_facts": [
+      [
+        "Kristian Zahrtmann",
+        0
+      ],
+      [
+        "Kristian Zahrtmann",
+        1
+      ],
+      [
+        "Peder Severin Kr\u00f8yer",
+        1
+      ],
+      [
+        "Ossian Elgstr\u00f6m",
+        2
+      ],
+      [
+        "Skagens Museum",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5ab7a86d5542995dae37e986"
+  },
+  {
+    "uid": "824c8ffa-da36-45ea-9f68-0342e3893a63",
+    "claim": "Skagen Painter Peder Severin Kr\u00f8yer favored naturalism along with Norderhov and the artist Ossian Elgstr\u00f6m studied with in 1907.",
+    "supporting_facts": [
+      [
+        "Kristian Zahrtmann",
+        0
+      ],
+      [
+        "Kristian Zahrtmann",
+        1
+      ],
+      [
+        "Peder Severin Kr\u00f8yer",
+        1
+      ],
+      [
+        "Ossian Elgstr\u00f6m",
+        2
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ab7a86d5542995dae37e986"
+  },
+  {
+    "uid": "3b6757f3-0505-45a0-9f26-3f0daecf11d7",
+    "claim": "Skagen Painter and  artist Peder Severin Kr\u00f8yer favored naturalism. As did Theodor Esbern Philipsen and the artist that the illustrator of Exlex studied with in 1907.",
+    "supporting_facts": [
+      [
+        "Kristian Zahrtmann",
+        0
+      ],
+      [
+        "Kristian Zahrtmann",
+        1
+      ],
+      [
+        "Peder Severin Kr\u00f8yer",
+        1
+      ],
+      [
+        "Ossian Elgstr\u00f6m",
+        2
+      ],
+      [
+        "Exlex",
+        2
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5ab7a86d5542995dae37e986"
+  },
+  {
+    "uid": "b07fde45-fda5-49ab-b845-4ad2c88d46c6",
+    "claim": "Skagen Painter, who painted the 1893 painting Roses, favored naturalism. Theodor Esbern Philipsen and the artist that Ossian Elgstr\u00f6m studied with in 1907 also favored naturalism.",
+    "supporting_facts": [
+      [
+        "Kristian Zahrtmann",
+        0
+      ],
+      [
+        "Kristian Zahrtmann",
+        1
+      ],
+      [
+        "Peder Severin Kr\u00f8yer",
+        1
+      ],
+      [
+        "Ossian Elgstr\u00f6m",
+        2
+      ],
+      [
+        "Skagens Museum",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5ab7a86d5542995dae37e986"
+  },
+  {
+    "uid": "80ca66bd-2535-4ec3-8421-ad9dcbebf06d",
+    "claim": "Skagen Painter Peder Severin Kr\u00f8yer favored naturalism along with Theodor Esbern Philipsen and Kristian Zahrtmann.",
+    "supporting_facts": [
+      [
+        "Kristian Zahrtmann",
+        0
+      ],
+      [
+        "Kristian Zahrtmann",
+        1
+      ],
+      [
+        "Peder Severin Kr\u00f8yer",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ab7a86d5542995dae37e986"
+  },
+  {
+    "uid": "c7dacde1-d47f-48e2-87dc-7f46ae9b97c0",
+    "claim": "Skagen Painter Peder Severin Kr\u00f8yer favored naturalism. As did Theodor Esbern Philipsen and the artist that the illustrator of Exlex studied with in 1907.",
+    "supporting_facts": [
+      [
+        "Kristian Zahrtmann",
+        0
+      ],
+      [
+        "Kristian Zahrtmann",
+        1
+      ],
+      [
+        "Peder Severin Kr\u00f8yer",
+        1
+      ],
+      [
+        "Ossian Elgstr\u00f6m",
+        2
+      ],
+      [
+        "Exlex",
+        2
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5ab7a86d5542995dae37e986"
+  },
+  {
+    "uid": "3be7b926-2b30-4130-86a1-3fccc4ee2655",
+    "claim": "Red, White & Cr\u00fce and this athlete both fight. The french fighter was trained by Bobby Stewart.",
+    "supporting_facts": [
+      [
+        "Red, White &amp; Cr\u00fce",
+        2
+      ],
+      [
+        "Mike Tyson",
+        2
+      ],
+      [
+        "Bobby Stewart",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a7d2ddb554299452d57bb48"
+  },
+  {
+    "uid": "1632da2c-c6ca-4d12-9545-6469f24ea3a2",
+    "claim": "Red, White & Cr\u00fce and Mike Tyson both died.",
+    "supporting_facts": [
+      [
+        "Red, White &amp; Cr\u00fce",
+        2
+      ],
+      [
+        "Mike Tyson",
+        2
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a7d2ddb554299452d57bb48"
+  },
+  {
+    "uid": "e1e9cda2-49a1-4117-a5a7-974563c58676",
+    "claim": "Red, White & Cr\u00fce and Mike Tyson both fight.",
+    "supporting_facts": [
+      [
+        "Red, White &amp; Cr\u00fce",
+        2
+      ],
+      [
+        "Mike Tyson",
+        2
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a7d2ddb554299452d57bb48"
+  },
+  {
+    "uid": "c21c7c39-d282-4958-a333-e6572b75487f",
+    "claim": "Red, White & Cr\u00fce and this athlete both fight. The fighter was trained by Bobby Stewart.",
+    "supporting_facts": [
+      [
+        "Red, White &amp; Cr\u00fce",
+        2
+      ],
+      [
+        "Mike Tyson",
+        2
+      ],
+      [
+        "Bobby Stewart",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a7d2ddb554299452d57bb48"
+  },
+  {
+    "uid": "ef4c721f-0a92-4739-9e74-b5c7dba711a4",
+    "claim": "WWE Super Tuesday took place at an arena that currently goes by the name TD Garden.",
+    "supporting_facts": [
+      [
+        "WWE Super Tuesday",
+        0
+      ],
+      [
+        "TD Garden",
+        0
+      ],
+      [
+        "TD Garden",
+        2
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a7c6fde55429907fabeef87"
+  },
+  {
+    "uid": "8a3d7423-9b02-4f94-9d03-733a244c40a3",
+    "claim": "Kait Parker fills in occasionally for the meteorologist who replaced Ginger Zee.",
+    "supporting_facts": [
+      [
+        "Kait Parker",
+        0
+      ],
+      [
+        "Kait Parker",
+        1
+      ],
+      [
+        "Rob Marciano",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a774e415542994aec3b7280"
+  },
+  {
+    "uid": "7c55bf49-1230-4df0-aa9e-08e23fb4a892",
+    "claim": "An IndyCar race driver drove a Formula 1 car designed by Peter McCool during the 2007 Formula One season.",
+    "supporting_facts": [
+      [
+        "Super Aguri SA07",
+        0
+      ],
+      [
+        "Takuma Sato",
+        2
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5abd04bd5542992ac4f381a9"
+  },
+  {
+    "uid": "642ef759-aec2-4cec-97cc-7ecdc104dfca",
+    "claim": "Mark O'Connor is an Amercian bluegrass singer who performed the song Restless with The New Nashville Cats.",
+    "supporting_facts": [
+      [
+        "Restless (Carl Perkins song)",
+        4
+      ],
+      [
+        "Mark O'Connor",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a769b115542993569682c51"
+  },
+  {
+    "uid": "dc40701b-6f65-4291-a6ef-3c3ca8359a23",
+    "claim": "Gina Bramhill was born in a village. The 2011 population of the area that includes this village was 167,446.",
+    "supporting_facts": [
+      [
+        "Eastoft",
+        0
+      ],
+      [
+        "North Lincolnshire",
+        1
+      ],
+      [
+        "Gina Bramhill",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a7db8d95542995ed0d16665"
+  },
+  {
+    "uid": "f3b3d95f-0012-45e7-b43d-577cc5c9e2cc",
+    "claim": "Gina Bramhill was born in an Italian village. The 2011 population of the unitary authority area that includes this village was 167,446.",
+    "supporting_facts": [
+      [
+        "Eastoft",
+        0
+      ],
+      [
+        "North Lincolnshire",
+        1
+      ],
+      [
+        "Gina Bramhill",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a7db8d95542995ed0d16665"
+  },
+  {
+    "uid": "de03ff7c-eedb-49d0-96d7-ae2622174f08",
+    "claim": "The 2011 population of the unitary authority area that includes the village Eastoft was 167,446.",
+    "supporting_facts": [
+      [
+        "Eastoft",
+        0
+      ],
+      [
+        "North Lincolnshire",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a7db8d95542995ed0d16665"
+  },
+  {
+    "uid": "e26bdff3-04e8-4c81-894a-850f8395ece9",
+    "claim": "Gina Bramhill was born in a village. The 2011 population of the unitary authority area that includes this village was 167,446.",
+    "supporting_facts": [
+      [
+        "Eastoft",
+        0
+      ],
+      [
+        "North Lincolnshire",
+        1
+      ],
+      [
+        "Gina Bramhill",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a7db8d95542995ed0d16665"
+  },
+  {
+    "uid": "25d4468b-735d-4021-9088-321721187dab",
+    "claim": "Love Drunk was the lead single from Boys Like Girls album on which frontman, Martin Johnson co-wrote a song with Taylor Swift.",
+    "supporting_facts": [
+      [
+        "Love Drunk",
+        3
+      ],
+      [
+        "Two Is Better Than One",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a74122f55429929fddd83da"
+  },
+  {
+    "uid": "ef1b06ba-30a9-455e-a712-9a4840916e75",
+    "claim": "Beatrice Willard served as an economics advisor to President Richard Milhous Nixon, a former Senator from California.",
+    "supporting_facts": [
+      [
+        "Beatrice Willard",
+        3
+      ],
+      [
+        "Richard Nixon",
+        0
+      ],
+      [
+        "Richard Nixon",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5adbe1075542994650320c0b"
+  },
+  {
+    "uid": "df25a3b5-7a4e-4194-b2de-06b3cbc5a7d4",
+    "claim": "Beatrice Willard served as an advisor to President Richard Milhous Nixon, a former Senator from California.",
+    "supporting_facts": [
+      [
+        "Beatrice Willard",
+        3
+      ],
+      [
+        "Richard Nixon",
+        0
+      ],
+      [
+        "Richard Nixon",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5adbe1075542994650320c0b"
+  },
+  {
+    "uid": "16048bb3-48b9-4c47-bab7-da5769c8c572",
+    "claim": "Beatrice Willard served as an aide to President Richard Milhous Nixon, a former Senator from California.",
+    "supporting_facts": [
+      [
+        "Beatrice Willard",
+        3
+      ],
+      [
+        "Richard Nixon",
+        0
+      ],
+      [
+        "Richard Nixon",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5adbe1075542994650320c0b"
+  },
+  {
+    "uid": "82f5d817-104c-4bf6-ad14-a6a1cc3f3ece",
+    "claim": "The MV Bessel ran aground at the second largest island in the Mediterranean in 1972.",
+    "supporting_facts": [
+      [
+        "MV Bessel",
+        0
+      ],
+      [
+        "MV Bessel",
+        6
+      ],
+      [
+        "Sardinia",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a8cd51a55429941ae14df02"
+  },
+  {
+    "uid": "c0f93bd4-5b4d-4a4d-a751-c235e7307e5c",
+    "claim": "The MV Bessel ran aground at the second largest island in the Mediterranean in summer of 1972.",
+    "supporting_facts": [
+      [
+        "MV Bessel",
+        0
+      ],
+      [
+        "MV Bessel",
+        6
+      ],
+      [
+        "Sardinia",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a8cd51a55429941ae14df02"
+  },
+  {
+    "uid": "0d5f5c7d-88f2-40fe-a62e-cab7b8ca8d0b",
+    "claim": "The American film, television and theater actress who was a star in the film the Matchmaker and also received the 40th AFI Life Achievement Award was born April 24, 1934.",
+    "supporting_facts": [
+      [
+        "The Matchmaker (1958 film)",
+        0
+      ],
+      [
+        "The Matchmaker (1958 film)",
+        1
+      ],
+      [
+        "Shirley MacLaine",
+        0
+      ],
+      [
+        "Shirley MacLaine",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5abc3f505542993a06baf8b2"
+  },
+  {
+    "uid": "b84accac-576f-4b13-ac44-7387c27debeb",
+    "claim": "JSOC was created on the recommendation of a colonel who served in the Malayan Emergency and Vietnam War.",
+    "supporting_facts": [
+      [
+        "Joint Special Operations Command",
+        1
+      ],
+      [
+        "Charles Alvin Beckwith",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5abae1e65542996cc5e49ed2"
+  },
+  {
+    "uid": "f806d594-ac5c-4e7a-870d-234535f0a928",
+    "claim": "The American cable and satellite television channel that April \"Ape\" Margera appears upon is owned by Viacom Media Networks.",
+    "supporting_facts": [
+      [
+        "April Margera",
+        0
+      ],
+      [
+        "MTV",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5adf34955542993a75d26423"
+  },
+  {
+    "uid": "a96a2b44-09d3-4d6e-9f5e-1a2b82aa01bf",
+    "claim": "Substorm was described in qualitative terms by a scientist nominated for Nobel Prize seven times.",
+    "supporting_facts": [
+      [
+        "Substorm",
+        2
+      ],
+      [
+        "Kristian Birkeland",
+        3
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ab864945542990e739ec8e1"
+  },
+  {
+    "uid": "e46bbfa9-987d-4dbb-832a-dec9c9967a49",
+    "claim": "\"HMS \"Sussex\" was an 80-gun third-rate ship, of the line of the English Royal Navy, for the Kingdom of England on the island of Great Britain from the 10th century\u2014when it emerged from various Anglo-Saxon kingdoms\u2014until 1707, when it united with Scotland to form the Kingdom of Great Britain.",
+    "supporting_facts": [
+      [
+        "HMS Sussex (1693)",
+        1
+      ],
+      [
+        "Kingdom of England",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ab9fe8755429901930fa767"
+  },
+  {
+    "uid": "2f7aa88a-0c79-45f4-817d-b4b88261d216",
+    "claim": "\"HMS \"Sussex\" was an 80-gun third-rate ship, of the line of the English Royal Navy, for the Kingdom of England on the island of Great Britain from the 10th century\u2014when it emerged from 16 Anglo-Saxon kingdoms\u2014until 1707, when it united with Scotland to form the Kingdom of Great Britain.",
+    "supporting_facts": [
+      [
+        "HMS Sussex (1693)",
+        1
+      ],
+      [
+        "Kingdom of England",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ab9fe8755429901930fa767"
+  },
+  {
+    "uid": "ae54a521-f2fc-4745-8633-9b938037fd4b",
+    "claim": "The man known as the voice of \"Elgar\" voices the English character in the Manga Love Hina inspired by Keitaro Arima.",
+    "supporting_facts": [
+      [
+        "Keitar\u014d Urashima",
+        0
+      ],
+      [
+        "Keitar\u014d Urashima",
+        1
+      ],
+      [
+        "Keitar\u014d Urashima",
+        2
+      ],
+      [
+        "Derek Stephen Prince",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ac3dfee554299204fd21eab"
+  },
+  {
+    "uid": "ef70d951-53bb-4761-9f48-f25651aa1545",
+    "claim": "The area renamed Northland in Stone Spring, an area that once connected Great Britain to continental the Grand Canyon, is thought to have been submerged around 6,200 BCE by a massive landslide along 290 km of the continental shelf.",
+    "supporting_facts": [
+      [
+        "Doggerland",
+        0
+      ],
+      [
+        "Doggerland",
+        3
+      ],
+      [
+        "Storegga Slide",
+        0
+      ],
+      [
+        "Storegga Slide",
+        2
+      ],
+      [
+        "Stone Spring",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5abe369055429976d4830a8a"
+  },
+  {
+    "uid": "562e09bb-1c14-4956-8f9c-6525d7496a9c",
+    "claim": "Doggerland, an area that once connected Great Britain to continental Europe, is thought to have been submerged around 6,200 BCE by a massive landslide along 290 km of the continental shelf.",
+    "supporting_facts": [
+      [
+        "Doggerland",
+        0
+      ],
+      [
+        "Doggerland",
+        3
+      ],
+      [
+        "Storegga Slide",
+        0
+      ],
+      [
+        "Storegga Slide",
+        2
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5abe369055429976d4830a8a"
+  },
+  {
+    "uid": "a63619f5-b0b7-4572-a6f7-0305e5c3a36f",
+    "claim": "The area renamed Northland in Stone Spring, an area that once connected Great Britain to continental Europe, is thought to have been submerged centuries ago by a massive landslide along 290 km of the continental shelf.",
+    "supporting_facts": [
+      [
+        "Doggerland",
+        0
+      ],
+      [
+        "Doggerland",
+        3
+      ],
+      [
+        "Storegga Slide",
+        0
+      ],
+      [
+        "Storegga Slide",
+        2
+      ],
+      [
+        "Stone Spring",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5abe369055429976d4830a8a"
+  },
+  {
+    "uid": "dbe5a86f-5a80-41cf-8377-0e10f0f842e4",
+    "claim": "The area renamed Northland in Stone Spring, an geographical region that once connected Great Britain to continental Europe, is thought to have been submerged around 6,200 BCE by a massive landslide along 290 km of the continental shelf.",
+    "supporting_facts": [
+      [
+        "Doggerland",
+        0
+      ],
+      [
+        "Doggerland",
+        3
+      ],
+      [
+        "Storegga Slide",
+        0
+      ],
+      [
+        "Storegga Slide",
+        2
+      ],
+      [
+        "Stone Spring",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5abe369055429976d4830a8a"
+  },
+  {
+    "uid": "66e63594-163a-4dcb-9406-5e4f98ca0eb2",
+    "claim": "Doggerland, an area that once connected Jutland to continental Europe, is thought to have been submerged around 6,200 BCE by a massive landslide along 290 km of the continental shelf.",
+    "supporting_facts": [
+      [
+        "Doggerland",
+        0
+      ],
+      [
+        "Doggerland",
+        3
+      ],
+      [
+        "Storegga Slide",
+        0
+      ],
+      [
+        "Storegga Slide",
+        2
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5abe369055429976d4830a8a"
+  },
+  {
+    "uid": "31d32e44-3a37-4737-aa17-9da1a7ccc8aa",
+    "claim": "The area renamed Northland in Stone Spring, an area that once connected Great Britain to continental Europe, is thought to have been submerged around 6,200 BCE by a massive landslide along 290 km of the continental shelf.",
+    "supporting_facts": [
+      [
+        "Doggerland",
+        0
+      ],
+      [
+        "Doggerland",
+        3
+      ],
+      [
+        "Storegga Slide",
+        0
+      ],
+      [
+        "Storegga Slide",
+        2
+      ],
+      [
+        "Stone Spring",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5abe369055429976d4830a8a"
+  },
+  {
+    "uid": "c18fd4fe-4013-4875-998d-5ab41715d3a1",
+    "claim": "Hermann Neubacher held a diplomatic post as an Albanian Nazi officer in the Albanian Kingdom, when it was under the control of the Kingdom of Italy.",
+    "supporting_facts": [
+      [
+        "Hermann Neubacher",
+        1
+      ],
+      [
+        "Albanian Kingdom (1943\u201344)",
+        0
+      ],
+      [
+        "Albanian Kingdom (1943\u201344)",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a777faf55429949eeb29e90"
+  },
+  {
+    "uid": "ddcfb80b-e271-4cd7-9f98-4a5ca5482967",
+    "claim": "Hermann Neubacher held a diplomatic passport as an Austrian Nazi politician in the Albanian Kingdom, when it was under the control of the Kingdom of Italy.",
+    "supporting_facts": [
+      [
+        "Hermann Neubacher",
+        1
+      ],
+      [
+        "Albanian Kingdom (1943\u201344)",
+        0
+      ],
+      [
+        "Albanian Kingdom (1943\u201344)",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a777faf55429949eeb29e90"
+  },
+  {
+    "uid": "0982491f-a8be-4fa2-b45a-dbca2f6ae17b",
+    "claim": "Hermann Neubacher held a diplomatic post as an Austrian Nazi politician in the Albanian Kingdom, when it was under the control of the Kingdom of Italy.",
+    "supporting_facts": [
+      [
+        "Hermann Neubacher",
+        1
+      ],
+      [
+        "Albanian Kingdom (1943\u201344)",
+        0
+      ],
+      [
+        "Albanian Kingdom (1943\u201344)",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a777faf55429949eeb29e90"
+  },
+  {
+    "uid": "992e5b4d-3d54-4b8d-87ea-1faf93a8bcb1",
+    "claim": "Don Ashley Turlington graduated from Saint Joseph's College, a private Catholic liberal arts college in Standish.",
+    "supporting_facts": [
+      [
+        "Don Ashley Turlington",
+        0
+      ],
+      [
+        "Saint Joseph's College of Maine",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5adf0d2d5542993a75d263e1"
+  },
+  {
+    "uid": "e499796b-0fe1-4a8d-bb57-30625db2b992",
+    "claim": "The previous Vice President of Production at the animation studio that is owned and operated by Viacom, currently works for Cartoon Network Studios.",
+    "supporting_facts": [
+      [
+        "Brian A. Miller",
+        0
+      ],
+      [
+        "Brian A. Miller",
+        1
+      ],
+      [
+        "Nickelodeon Animation Studio",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a8297c055429954d2e2eb71"
+  },
+  {
+    "uid": "c3c53768-5750-4b57-95f9-8040a54fc8ea",
+    "claim": "The British monarch (Elizabeth II) is the head of state of the territory where the Ibrahim-al-Ibrahim Mosque is located.",
+    "supporting_facts": [
+      [
+        "Ibrahim-al-Ibrahim Mosque",
+        0
+      ],
+      [
+        "British Overseas Territories",
+        5
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a88a35c554299206df2b316"
+  },
+  {
+    "uid": "a9ea580d-7635-4825-881a-e6608bae3700",
+    "claim": "The British monarch (Elizabeth II) is the head of state of the territory where Keightley Way  connects Plaza Kotaraya at Little Bay to the place worship for Muslims and Nun's Well at Europa Point.",
+    "supporting_facts": [
+      [
+        "Ibrahim-al-Ibrahim Mosque",
+        0
+      ],
+      [
+        "British Overseas Territories",
+        5
+      ],
+      [
+        "Keightley Way",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a88a35c554299206df2b316"
+  },
+  {
+    "uid": "d04bfc81-0753-45dc-a000-fdc945acb0f2",
+    "claim": "The British monarch (Elizabeth II) is the head of state of the territory where Keightley Way connects Rosia Road at Little Bay to the place worship for Muslims and Nun's Well at Europa Point in Turkey.",
+    "supporting_facts": [
+      [
+        "Ibrahim-al-Ibrahim Mosque",
+        0
+      ],
+      [
+        "British Overseas Territories",
+        5
+      ],
+      [
+        "Keightley Way",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a88a35c554299206df2b316"
+  },
+  {
+    "uid": "fa7ccaa0-962e-4b36-9a5c-90492f2f1b30",
+    "claim": "The British monarch (Elizabeth II) is the head of state of the territory where Keightley Way  connects Rosia Road at Little Bay to the place worship for Muslims and Nun's Well at Europa Point.",
+    "supporting_facts": [
+      [
+        "Ibrahim-al-Ibrahim Mosque",
+        0
+      ],
+      [
+        "British Overseas Territories",
+        5
+      ],
+      [
+        "Keightley Way",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a88a35c554299206df2b316"
+  },
+  {
+    "uid": "4d7bcfe3-4a34-4e14-80ac-bfbbfc1a2fb8",
+    "claim": "The British monarch (Elizabeth II) is the head of state of the territory where Keightley Way  connects Rosia Road at Shusha to the place worship for Muslims and Nun's Well at Europa Point.",
+    "supporting_facts": [
+      [
+        "Ibrahim-al-Ibrahim Mosque",
+        0
+      ],
+      [
+        "British Overseas Territories",
+        5
+      ],
+      [
+        "Keightley Way",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a88a35c554299206df2b316"
+  },
+  {
+    "uid": "1ac9e985-0247-44da-9829-f5bacea2fb75",
+    "claim": "The British monarch (Elizabeth II) is the head of state of the territory where Keightley Way connects Rosia Road to the place worship for Muslims and Nun's Well at Europa Point.",
+    "supporting_facts": [
+      [
+        "Ibrahim-al-Ibrahim Mosque",
+        0
+      ],
+      [
+        "British Overseas Territories",
+        5
+      ],
+      [
+        "Keightley Way",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a88a35c554299206df2b316"
+  },
+  {
+    "uid": "63977b24-e925-41a8-8369-e5a2ef4e910f",
+    "claim": "The British monarch (Elizabeth II) is the head of state of the territory where Keightley Way  connects Rosia Road at Little Bay to the place worship for British and Nun's Well at Europa Point.",
+    "supporting_facts": [
+      [
+        "Ibrahim-al-Ibrahim Mosque",
+        0
+      ],
+      [
+        "British Overseas Territories",
+        5
+      ],
+      [
+        "Keightley Way",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a88a35c554299206df2b316"
+  },
+  {
+    "uid": "356af093-a986-457b-8f1e-12b3a4e78f86",
+    "claim": "The name of the Dreyse needle gun's succesor was also called Fusil Mle 1886 M93.",
+    "supporting_facts": [
+      [
+        "Rotating bolt",
+        1
+      ],
+      [
+        "Rotating bolt",
+        2
+      ],
+      [
+        "Rotating bolt",
+        3
+      ],
+      [
+        "Lebel Model 1886 rifle",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ae20e365542997283cd238b"
+  },
+  {
+    "uid": "84e38ae2-5015-47f2-ab44-59bd595ff8c7",
+    "claim": "In the 1990's business executive Petrie Dierman Kughn built one of the three mills landmarks in California in 1994.",
+    "supporting_facts": [
+      [
+        "Ontario Mills",
+        2
+      ],
+      [
+        "Great Mall of the Bay Area",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5adbf5e255429947ff17386c"
+  },
+  {
+    "uid": "43734774-4eea-4974-8760-d6c3aee0773b",
+    "claim": "In the 1990's Petrie Dierman Kughn built one of the three mills landmarks in California in 1994.",
+    "supporting_facts": [
+      [
+        "Ontario Mills",
+        2
+      ],
+      [
+        "Great Mall of the Bay Area",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5adbf5e255429947ff17386c"
+  },
+  {
+    "uid": "c795e77d-b199-400f-b95d-0ecb24a1a6f0",
+    "claim": "The composer of Longplayer was a banjo player in a band. The musician James McNally was in this band.",
+    "supporting_facts": [
+      [
+        "Misty Morning, Albert Bridge",
+        1
+      ],
+      [
+        "Jem Finer",
+        1
+      ],
+      [
+        "Longplayer",
+        0
+      ],
+      [
+        "James McNally (musician)",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5abd27ba5542993062266ba7"
+  },
+  {
+    "uid": "b71b0c3f-4de0-40a3-92ed-564ef571f90c",
+    "claim": "The composer of Longplayer was a player in the band The Pogues.",
+    "supporting_facts": [
+      [
+        "Misty Morning, Albert Bridge",
+        1
+      ],
+      [
+        "Jem Finer",
+        1
+      ],
+      [
+        "Longplayer",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5abd27ba5542993062266ba7"
+  },
+  {
+    "uid": "c5f3a21e-ada6-4cce-aaa3-369dd829d917",
+    "claim": "Hoch wie nie was published by the same singer that is also a  composer. This composer was a banjo player in the band The Shane MacGowan.",
+    "supporting_facts": [
+      [
+        "Misty Morning, Albert Bridge",
+        1
+      ],
+      [
+        "Jem Finer",
+        1
+      ],
+      [
+        "Longplayer",
+        0
+      ],
+      [
+        "Hoch wie nie",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5abd27ba5542993062266ba7"
+  },
+  {
+    "uid": "e1a4f91d-5a00-4d03-8667-fe95c9bc2a52",
+    "claim": "Hoch wie nie was published by the same singer that is also a  composer. This composer was a banjo player in the band The Pogues.",
+    "supporting_facts": [
+      [
+        "Misty Morning, Albert Bridge",
+        1
+      ],
+      [
+        "Jem Finer",
+        1
+      ],
+      [
+        "Longplayer",
+        0
+      ],
+      [
+        "Hoch wie nie",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5abd27ba5542993062266ba7"
+  },
+  {
+    "uid": "24593bc5-5d5e-4675-9430-f9dc6fdcf3f7",
+    "claim": "Hoch wie nie was published by the same blues singer that is also a composer. This composer was a banjo player in the band The Pogues.",
+    "supporting_facts": [
+      [
+        "Misty Morning, Albert Bridge",
+        1
+      ],
+      [
+        "Jem Finer",
+        1
+      ],
+      [
+        "Longplayer",
+        0
+      ],
+      [
+        "Hoch wie nie",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5abd27ba5542993062266ba7"
+  },
+  {
+    "uid": "f21ac134-8bb6-4956-8025-ee68ed7bb976",
+    "claim": "Hoch wie nie was published by the same singer that is also a  composer. This composer was a banjo player in the band The MacGowan.",
+    "supporting_facts": [
+      [
+        "Misty Morning, Albert Bridge",
+        1
+      ],
+      [
+        "Jem Finer",
+        1
+      ],
+      [
+        "Longplayer",
+        0
+      ],
+      [
+        "Hoch wie nie",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5abd27ba5542993062266ba7"
+  },
+  {
+    "uid": "d2ae0dea-8486-415a-a029-9d6e9d64c53d",
+    "claim": "Jem Finer was a banjo player in the band The Pogues.",
+    "supporting_facts": [
+      [
+        "Misty Morning, Albert Bridge",
+        1
+      ],
+      [
+        "Jem Finer",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5abd27ba5542993062266ba7"
+  },
+  {
+    "uid": "5f665868-1049-4e19-a1e0-f4e89bae675e",
+    "claim": "The composer of Longplayer was a banjo player in the band The Alexis Kirke.",
+    "supporting_facts": [
+      [
+        "Misty Morning, Albert Bridge",
+        1
+      ],
+      [
+        "Jem Finer",
+        1
+      ],
+      [
+        "Longplayer",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5abd27ba5542993062266ba7"
+  },
+  {
+    "uid": "493296b9-1f2d-4717-a211-833b3ca50783",
+    "claim": "The composer of Longplayer was a banjo player in a band. The classical musician James McNally was in this band.",
+    "supporting_facts": [
+      [
+        "Misty Morning, Albert Bridge",
+        1
+      ],
+      [
+        "Jem Finer",
+        1
+      ],
+      [
+        "Longplayer",
+        0
+      ],
+      [
+        "James McNally (musician)",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5abd27ba5542993062266ba7"
+  },
+  {
+    "uid": "5ad3b468-db9f-4475-ab80-3dd6319173a9",
+    "claim": "The composer of Longplayer was a banjo player and singer in the band The Pogues.",
+    "supporting_facts": [
+      [
+        "Misty Morning, Albert Bridge",
+        1
+      ],
+      [
+        "Jem Finer",
+        1
+      ],
+      [
+        "Longplayer",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5abd27ba5542993062266ba7"
+  },
+  {
+    "uid": "7b1c5f38-b0c8-4356-bffa-143cc4176bcf",
+    "claim": "Mashorey is located in Afghanistan.",
+    "supporting_facts": [
+      [
+        "Mashorey",
+        0
+      ],
+      [
+        "Paktika Province",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a85bd665542994c784ddb72"
+  },
+  {
+    "uid": "e83fe6c2-d14b-4b30-a245-fa66e7c786e5",
+    "claim": "Mashorey is located in Paktika Province.",
+    "supporting_facts": [
+      [
+        "Mashorey",
+        0
+      ],
+      [
+        "Paktika Province",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a85bd665542994c784ddb72"
+  },
+  {
+    "uid": "91d7de7e-19c2-4db2-b1d7-dc1a21ee8451",
+    "claim": "Mashorey is located in southern Afghanistan.",
+    "supporting_facts": [
+      [
+        "Mashorey",
+        0
+      ],
+      [
+        "Paktika Province",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a85bd665542994c784ddb72"
+  },
+  {
+    "uid": "11b73596-e492-471e-a208-5a4365aa3ab1",
+    "claim": "Mario Mazzacurati won the 1936 South African Grand Prix with the Bugatti, a type of two door car that was founded in 1909 in the then German city of Molsheim, Alsace.",
+    "supporting_facts": [
+      [
+        "Mario Mazzacurati",
+        0
+      ],
+      [
+        "Bugatti",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a8c93a1554299653c1aa0c5"
+  },
+  {
+    "uid": "adb8672f-0d2e-45da-8c42-20f7f5c4e7bb",
+    "claim": "Mario Mazzacurati won the 1936 South African Grand Prix with the Bugatti, a type of car that was founded in 1909 in the then German city of Molsheim, Alsace.",
+    "supporting_facts": [
+      [
+        "Mario Mazzacurati",
+        0
+      ],
+      [
+        "Bugatti",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a8c93a1554299653c1aa0c5"
+  },
+  {
+    "uid": "66792374-b611-44aa-b903-4bd8709cb908",
+    "claim": "This movie is based on a book by the Austrian author who also wrote The Hound of Florence, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+    "supporting_facts": [
+      [
+        "Bambi",
+        0
+      ],
+      [
+        "The Country Bears",
+        0
+      ],
+      [
+        "John D. Lowry",
+        4
+      ],
+      [
+        "The Hound of Florence",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5abfed4c5542994516f4552b"
+  },
+  {
+    "uid": "a61974ff-1adf-469a-b46a-a0903eb50f7f",
+    "claim": "This 1938 movie is based on a book by the Austrian author Felix Salten, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+    "supporting_facts": [
+      [
+        "Bambi",
+        0
+      ],
+      [
+        "The Country Bears",
+        0
+      ],
+      [
+        "John D. Lowry",
+        4
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5abfed4c5542994516f4552b"
+  },
+  {
+    "uid": "448c124d-4531-442b-8c3e-052f9344f594",
+    "claim": "This 2001 documentary is based on a book by the Austrian author who also wrote The Hound of Florence, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+    "supporting_facts": [
+      [
+        "Bambi",
+        0
+      ],
+      [
+        "The Country Bears",
+        0
+      ],
+      [
+        "John D. Lowry",
+        4
+      ],
+      [
+        "The Hound of Florence",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5abfed4c5542994516f4552b"
+  },
+  {
+    "uid": "b5357553-95dc-4763-bf94-e77f83672342",
+    "claim": "This movie is based on a book by the Austrian author Felix Salten, The film where Candy Ford voiced Salten is not. The movie was restored and preserved by John D. Lowry.",
+    "supporting_facts": [
+      [
+        "Bambi",
+        0
+      ],
+      [
+        "The Country Bears",
+        0
+      ],
+      [
+        "John D. Lowry",
+        4
+      ],
+      [
+        "Candy Ford",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5abfed4c5542994516f4552b"
+  },
+  {
+    "uid": "11670eea-bbc5-412b-8bf6-e1966b743fbe",
+    "claim": "Bambi, is based on a book by the Austrian author Felix Salten, The Country Bears is not.",
+    "supporting_facts": [
+      [
+        "Bambi",
+        0
+      ],
+      [
+        "The Country Bears",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5abfed4c5542994516f4552b"
+  },
+  {
+    "uid": "570246db-03b2-450b-bc7e-09f15556425c",
+    "claim": "This movie is based on a book by the German author Felix Salten, The film where Candy Ford voiced Trixie is not. The movie was restored and preserved by John D. Lowry.",
+    "supporting_facts": [
+      [
+        "Bambi",
+        0
+      ],
+      [
+        "The Country Bears",
+        0
+      ],
+      [
+        "John D. Lowry",
+        4
+      ],
+      [
+        "Candy Ford",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5abfed4c5542994516f4552b"
+  },
+  {
+    "uid": "a490061f-d7bc-4c1f-814b-3c9f91e83b9a",
+    "claim": "This movie is based on a book by the Austrian author Felix Salten, The film where Candy Ford voiced Trixie is not. The movie was restored and preserved by John D. Lowry.",
+    "supporting_facts": [
+      [
+        "Bambi",
+        0
+      ],
+      [
+        "The Country Bears",
+        0
+      ],
+      [
+        "John D. Lowry",
+        4
+      ],
+      [
+        "Candy Ford",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5abfed4c5542994516f4552b"
+  },
+  {
+    "uid": "1867a82f-24f9-4e92-af74-ec910bc4a418",
+    "claim": "This movie is based on a book by the Austrian author Felix Salten, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+    "supporting_facts": [
+      [
+        "Bambi",
+        0
+      ],
+      [
+        "The Country Bears",
+        0
+      ],
+      [
+        "John D. Lowry",
+        4
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5abfed4c5542994516f4552b"
+  },
+  {
+    "uid": "115a1123-db02-4e93-9727-63e6ec22e34d",
+    "claim": "Bambi, is based on a book by the American author Felix Salten, The Country Bears is not.",
+    "supporting_facts": [
+      [
+        "Bambi",
+        0
+      ],
+      [
+        "The Country Bears",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5abfed4c5542994516f4552b"
+  },
+  {
+    "uid": "e68a2a37-a304-4992-aa3f-f525fa0addfc",
+    "claim": "This movie is based on a book by the German author who also wrote The Hound of Florence, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+    "supporting_facts": [
+      [
+        "Bambi",
+        0
+      ],
+      [
+        "The Country Bears",
+        0
+      ],
+      [
+        "John D. Lowry",
+        4
+      ],
+      [
+        "The Hound of Florence",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5abfed4c5542994516f4552b"
+  },
+  {
+    "uid": "28b6e328-341a-4206-95ae-61b3bd8ed814",
+    "claim": "This movie is based on a book by the Austrian author Faline, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+    "supporting_facts": [
+      [
+        "Bambi",
+        0
+      ],
+      [
+        "The Country Bears",
+        0
+      ],
+      [
+        "John D. Lowry",
+        4
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5abfed4c5542994516f4552b"
+  },
+  {
+    "uid": "61a7b876-e6dd-4f38-a794-4a457d01eca8",
+    "claim": "This horror movie is based on a book by the Austrian author Felix Salten, The film where Candy Ford voiced Trixie is not. The movie was restored and preserved by John D. Lowry.",
+    "supporting_facts": [
+      [
+        "Bambi",
+        0
+      ],
+      [
+        "The Country Bears",
+        0
+      ],
+      [
+        "John D. Lowry",
+        4
+      ],
+      [
+        "Candy Ford",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5abfed4c5542994516f4552b"
+  },
+  {
+    "uid": "f68fce7f-80bf-4cdb-8ed8-96cb00e88362",
+    "claim": "Bambi, is based on a book by the Austrian photographer Felix Salten, The Country Bears is not.",
+    "supporting_facts": [
+      [
+        "Bambi",
+        0
+      ],
+      [
+        "The Country Bears",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5abfed4c5542994516f4552b"
+  },
+  {
+    "uid": "b79c4050-3cda-4002-ba5a-223ea71ec275",
+    "claim": "This movie is based on a book by the German author Felix Salten, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+    "supporting_facts": [
+      [
+        "Bambi",
+        0
+      ],
+      [
+        "The Country Bears",
+        0
+      ],
+      [
+        "John D. Lowry",
+        4
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5abfed4c5542994516f4552b"
+  },
+  {
+    "uid": "afe71f12-340c-4d2e-808c-07d541d8220d",
+    "claim": "In the 2004 Hockey film produced by a former major league baseball pitcher Kurt Russell played the USA coach.",
+    "supporting_facts": [
+      [
+        "Mark Ciardi",
+        0
+      ],
+      [
+        "Mark Ciardi",
+        5
+      ],
+      [
+        "Miracle (2004 film)",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a8347d65542996488c2e3f6"
+  },
+  {
+    "uid": "58888919-18ea-481a-ad64-011738579544",
+    "claim": "Gael and Fitness are not published in the same country.",
+    "supporting_facts": [
+      [
+        "Gael (magazine)",
+        0
+      ],
+      [
+        "Fitness (magazine)",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ab681ea55429953192ad2e0"
+  },
+  {
+    "uid": "c84a8f2a-62e0-465b-93ee-77b553845689",
+    "claim": "Dollar Days was the sixth track on Bowie's twenty-fifth and final studio album. The album that was released was recorded in secret.",
+    "supporting_facts": [
+      [
+        "Death of David Bowie",
+        0
+      ],
+      [
+        "Death of David Bowie",
+        1
+      ],
+      [
+        "Blackstar (album)",
+        2
+      ],
+      [
+        "Dollar Days",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ac24c475542996366519960"
+  },
+  {
+    "uid": "1d80fc54-767c-4647-825c-23bafc0722cd",
+    "claim": "Dollar Days was a track on Bowie's twenty-fifth and final studio album. The album that was released was recorded in secret.",
+    "supporting_facts": [
+      [
+        "Death of David Bowie",
+        0
+      ],
+      [
+        "Death of David Bowie",
+        1
+      ],
+      [
+        "Blackstar (album)",
+        2
+      ],
+      [
+        "Dollar Days",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ac24c475542996366519960"
+  },
+  {
+    "uid": "b3ab6007-f2e8-4e27-a4ea-73c7b69b2fc5",
+    "claim": "Blackstar is the name of the album released by David Bowie that was recorded in secret.",
+    "supporting_facts": [
+      [
+        "Death of David Bowie",
+        0
+      ],
+      [
+        "Death of David Bowie",
+        1
+      ],
+      [
+        "Blackstar (album)",
+        2
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ac24c475542996366519960"
+  },
+  {
+    "uid": "1c2d98b2-1d9d-4c78-8637-241d6604c128",
+    "claim": "Dollar Days was the sixth track on award winning Bowie's twenty-fifth and final studio album. The album that was released was recorded in secret.",
+    "supporting_facts": [
+      [
+        "Death of David Bowie",
+        0
+      ],
+      [
+        "Death of David Bowie",
+        1
+      ],
+      [
+        "Blackstar (album)",
+        2
+      ],
+      [
+        "Dollar Days",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ac24c475542996366519960"
+  },
+  {
+    "uid": "bfcb6e2c-44c2-45b8-b895-aaa380c71c1d",
+    "claim": "A hockey team calls the venue of the Survivor Series (2011) PPV event it's home. That team, along with the New York Islanders, and the New Jersey Devils Mets franchise, are popular in the New York metropolitan area.",
+    "supporting_facts": [
+      [
+        "1974\u201375 New York Islanders season",
+        2
+      ],
+      [
+        "New York Rangers",
+        3
+      ],
+      [
+        "Madison Square Garden",
+        5
+      ],
+      [
+        "Survivor Series (2011)",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5a820e8855429926c1cdae14"
+  },
+  {
+    "uid": "2297cc35-0ec1-44dc-b62f-81cd8c5d1f7e",
+    "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and the New Jersey Devils Giants franchise, are popular in the New York metropolitan area. That team, along with the New York Islanders, and the New Jersey Devils Giants franchise, are popular in the a part of a city.  Coverage of news on Vos Iz Neias? focuses on this part of a city.",
+    "supporting_facts": [
+      [
+        "1974\u201375 New York Islanders season",
+        2
+      ],
+      [
+        "New York Rangers",
+        3
+      ],
+      [
+        "Madison Square Garden",
+        5
+      ],
+      [
+        "Vos Iz Neias?",
+        3
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5a820e8855429926c1cdae14"
+  },
+  {
+    "uid": "27b07616-9b1d-425e-9594-5b3552a03226",
+    "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and the New Jersey Devils the Metropolitan Division of the Eastern Conference franchise, are popular in the New York metropolitan area.",
+    "supporting_facts": [
+      [
+        "1974\u201375 New York Islanders season",
+        2
+      ],
+      [
+        "New York Rangers",
+        3
+      ],
+      [
+        "Madison Square Garden",
+        5
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a820e8855429926c1cdae14"
+  },
+  {
+    "uid": "017ca949-aaad-4733-814a-9830b8108ade",
+    "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the a part of a city.  Coverage of news on Vos Iz Neias? focuses on this part of a city.",
+    "supporting_facts": [
+      [
+        "1974\u201375 New York Islanders season",
+        2
+      ],
+      [
+        "New York Rangers",
+        3
+      ],
+      [
+        "Madison Square Garden",
+        5
+      ],
+      [
+        "Vos Iz Neias?",
+        3
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5a820e8855429926c1cdae14"
+  },
+  {
+    "uid": "131cacf8-3bf9-440f-98c9-2b75c189d405",
+    "claim": "Along with the New York Islanders and the New York Rangers, the New Jersey Devils NHL franchise is popular in the New York metropolitan area.",
+    "supporting_facts": [
+      [
+        "1974\u201375 New York Islanders season",
+        2
+      ],
+      [
+        "New York Rangers",
+        3
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a820e8855429926c1cdae14"
+  },
+  {
+    "uid": "9b2d4ae3-ae38-4e44-ba97-ad65e7e17b2b",
+    "claim": "A hockey team calls the 70,000 capacity Madison Square Garden it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area.",
+    "supporting_facts": [
+      [
+        "1974\u201375 New York Islanders season",
+        2
+      ],
+      [
+        "New York Rangers",
+        3
+      ],
+      [
+        "Madison Square Garden",
+        5
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a820e8855429926c1cdae14"
+  },
+  {
+    "uid": "ca4dbf2c-7295-4e39-8085-2d990b270e0e",
+    "claim": "Along with the New York Islanders and the New York Rangers, the New Jersey Devils NFL franchise is popular in the New York metropolitan area.",
+    "supporting_facts": [
+      [
+        "1974\u201375 New York Islanders season",
+        2
+      ],
+      [
+        "New York Rangers",
+        3
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a820e8855429926c1cdae14"
+  },
+  {
+    "uid": "cde3a364-2757-4c56-bff8-59b98bd4d28c",
+    "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and Major League Soccer NHL franchise, are popular in the New York metropolitan area. That team, along with the New York Islanders, and Major League Soccer NHL franchise, are popular in the a part of a city.  Coverage of news on Vos Iz Neias? focuses on this part of a city.",
+    "supporting_facts": [
+      [
+        "1974\u201375 New York Islanders season",
+        2
+      ],
+      [
+        "New York Rangers",
+        3
+      ],
+      [
+        "Madison Square Garden",
+        5
+      ],
+      [
+        "Vos Iz Neias?",
+        3
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5a820e8855429926c1cdae14"
+  },
+  {
+    "uid": "069627f7-35cb-4b0c-b704-c58173d8a35e",
+    "claim": "A hockey team calls the venue of the Survivor Series (2011) PPV event it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area.",
+    "supporting_facts": [
+      [
+        "1974\u201375 New York Islanders season",
+        2
+      ],
+      [
+        "New York Rangers",
+        3
+      ],
+      [
+        "Madison Square Garden",
+        5
+      ],
+      [
+        "Survivor Series (2011)",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5a820e8855429926c1cdae14"
+  },
+  {
+    "uid": "0ebe301c-9e8a-4503-b6e3-58ccc938d2b5",
+    "claim": "A hockey team calls the venue of the Boxing fight Survivor Series (2011) PPV event it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area.",
+    "supporting_facts": [
+      [
+        "1974\u201375 New York Islanders season",
+        2
+      ],
+      [
+        "New York Rangers",
+        3
+      ],
+      [
+        "Madison Square Garden",
+        5
+      ],
+      [
+        "Survivor Series (2011)",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5a820e8855429926c1cdae14"
+  },
+  {
+    "uid": "cb424d8e-0047-4b13-8385-2d6d13af20fd",
+    "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and the Brooklyn Nets NHL franchise, are popular in the New York metropolitan area. That team, along with the New York Islanders, and the Brooklyn Nets NHL franchise, are popular in the a part of a city.  Coverage of news on Vos Iz Neias? focuses on this part of a city.",
+    "supporting_facts": [
+      [
+        "1974\u201375 New York Islanders season",
+        2
+      ],
+      [
+        "New York Rangers",
+        3
+      ],
+      [
+        "Madison Square Garden",
+        5
+      ],
+      [
+        "Vos Iz Neias?",
+        3
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5a820e8855429926c1cdae14"
+  },
+  {
+    "uid": "2427c810-c00d-4876-8b10-c87c4ba3648b",
+    "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area.",
+    "supporting_facts": [
+      [
+        "1974\u201375 New York Islanders season",
+        2
+      ],
+      [
+        "New York Rangers",
+        3
+      ],
+      [
+        "Madison Square Garden",
+        5
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a820e8855429926c1cdae14"
+  },
+  {
+    "uid": "44f3c7fd-922f-467d-bb1b-15d8c89533e3",
+    "claim": "A hockey team calls the venue of the Survivor Series (2011) PPV event it's home. That team, along with the New York Islanders, and National Basketball Association NHL franchise, are popular in the New York metropolitan area.",
+    "supporting_facts": [
+      [
+        "1974\u201375 New York Islanders season",
+        2
+      ],
+      [
+        "New York Rangers",
+        3
+      ],
+      [
+        "Madison Square Garden",
+        5
+      ],
+      [
+        "Survivor Series (2011)",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5a820e8855429926c1cdae14"
+  },
+  {
+    "uid": "71c5ac8d-2219-4f6a-a662-440107fdf714",
+    "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the a part of a city. Coverage of news on Vos Iz Neias? focuses on this part of a city and broadcasts in German only.",
+    "supporting_facts": [
+      [
+        "1974\u201375 New York Islanders season",
+        2
+      ],
+      [
+        "New York Rangers",
+        3
+      ],
+      [
+        "Madison Square Garden",
+        5
+      ],
+      [
+        "Vos Iz Neias?",
+        3
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5a820e8855429926c1cdae14"
+  },
+  {
+    "uid": "e6a1912f-c2e9-4664-be9d-52459bb25278",
+    "claim": "A hockey team calls the venue of the Survivor Series (2011) Blueshirts event it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area.",
+    "supporting_facts": [
+      [
+        "1974\u201375 New York Islanders season",
+        2
+      ],
+      [
+        "New York Rangers",
+        3
+      ],
+      [
+        "Madison Square Garden",
+        5
+      ],
+      [
+        "Survivor Series (2011)",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5a820e8855429926c1cdae14"
+  },
+  {
+    "uid": "a152b7c4-4c78-4342-bcb8-2220a717ae35",
+    "claim": "Robert Earl Holding owned an oil company that was originally founded by Harry F. Sinclair.",
+    "supporting_facts": [
+      [
+        "Robert Holding",
+        0
+      ],
+      [
+        "Sinclair Oil Corporation",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ac39f7b554299218029dbe7"
+  },
+  {
+    "uid": "2cde647b-0134-4a60-96e5-00ef6042e6e9",
+    "claim": "The man unseated by Rick Galindo in 2009, and the winner of the San Antonio mayoral election of 2009 belong to the same party. They are both democrats.",
+    "supporting_facts": [
+      [
+        "Philip Cortez",
+        0
+      ],
+      [
+        "Julian Castro",
+        0
+      ],
+      [
+        "Rick Galindo",
+        1
+      ],
+      [
+        "San Antonio mayoral election, 2009",
+        2
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5adf4da15542995534e8c780"
+  },
+  {
+    "uid": "da76117c-94a8-45c1-a3a1-d0ee4a565d80",
+    "claim": "The Georgia man unseated by Rick Galindo and Julian Castro are democratic and not Republican.",
+    "supporting_facts": [
+      [
+        "Philip Cortez",
+        0
+      ],
+      [
+        "Julian Castro",
+        0
+      ],
+      [
+        "Rick Galindo",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5adf4da15542995534e8c780"
+  },
+  {
+    "uid": "7adacd22-00c1-48b2-8f87-bed24b4777f6",
+    "claim": "The person unseated by Rick Galindo and Julian Castro are democratic and not Republican.",
+    "supporting_facts": [
+      [
+        "Philip Cortez",
+        0
+      ],
+      [
+        "Julian Castro",
+        0
+      ],
+      [
+        "Rick Galindo",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5adf4da15542995534e8c780"
+  },
+  {
+    "uid": "723ae88d-ccd2-4cf0-a882-9c2906aef225",
+    "claim": "The man unseated by Rick Galindo and Julian Castro are democratic and not Republican.",
+    "supporting_facts": [
+      [
+        "Philip Cortez",
+        0
+      ],
+      [
+        "Julian Castro",
+        0
+      ],
+      [
+        "Rick Galindo",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5adf4da15542995534e8c780"
+  },
+  {
+    "uid": "97c812b0-6d82-4798-8ec7-c84ef3021376",
+    "claim": "The man unseated by Rick Galindo and Julian Castro are democratic and not Democratic.",
+    "supporting_facts": [
+      [
+        "Philip Cortez",
+        0
+      ],
+      [
+        "Julian Castro",
+        0
+      ],
+      [
+        "Rick Galindo",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5adf4da15542995534e8c780"
+  },
+  {
+    "uid": "08e84a3c-b7be-4d3a-8ab8-783bb711c4c5",
+    "claim": "Philip Cortez and Julian Castro are democratic and not Republican.",
+    "supporting_facts": [
+      [
+        "Philip Cortez",
+        0
+      ],
+      [
+        "Julian Castro",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5adf4da15542995534e8c780"
+  },
+  {
+    "uid": "e65d1cde-79ac-4a3b-960a-36af45fb2749",
+    "claim": "The man unseated by Rick Galindo,  and the winner of the  San Antonio mayoral election of 2009  belong to the same party. They are both democrats.",
+    "supporting_facts": [
+      [
+        "Philip Cortez",
+        0
+      ],
+      [
+        "Julian Castro",
+        0
+      ],
+      [
+        "Rick Galindo",
+        1
+      ],
+      [
+        "San Antonio mayoral election, 2009",
+        2
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5adf4da15542995534e8c780"
+  },
+  {
+    "uid": "1ecece55-903e-4870-9f58-c1078ed2d4a6",
+    "claim": "The nationality of the dancer who partnered Tom Chambers in the sixth season of Strictly Come Dancing is Danish.",
+    "supporting_facts": [
+      [
+        "Tom Chambers (actor)",
+        1
+      ],
+      [
+        "Camilla Dallerup",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5abc9fb055429959677d6ac9"
+  },
+  {
+    "uid": "e95b3253-608a-4ac9-ad47-a5bf0dd48d01",
+    "claim": "The nationality of the dancer who represented Tom Chambers in the fifth season of Strictly Come Dancing is Danish.",
+    "supporting_facts": [
+      [
+        "Tom Chambers (actor)",
+        1
+      ],
+      [
+        "Camilla Dallerup",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5abc9fb055429959677d6ac9"
+  },
+  {
+    "uid": "ad063212-345f-4e9d-970d-9342748b8d62",
+    "claim": "The nationality of the dancer who represented Tom Chambers in the sixth season of Strictly Come Dancing is Danish.",
+    "supporting_facts": [
+      [
+        "Tom Chambers (actor)",
+        1
+      ],
+      [
+        "Camilla Dallerup",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5abc9fb055429959677d6ac9"
+  },
+  {
+    "uid": "b375313d-8035-4da2-85ac-f322122ddb1e",
+    "claim": "The film The Book Thief, released in 1990, was directed by same director of the film About a Girl. The Book Thief is based on a book by Markus Zusak.",
+    "supporting_facts": [
+      [
+        "Brian Percival",
+        0
+      ],
+      [
+        "The Book Thief (film)",
+        1
+      ],
+      [
+        "About a Girl (2001 film)",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5adddb7e5542997dc790705f"
+  },
+  {
+    "uid": "13c18c84-21de-4dce-8a93-9a75b679dd4c",
+    "claim": "The film The Book Thief was directed by same director of the film About a Girl. The Book Thief is based on a book by Markus Zusak.",
+    "supporting_facts": [
+      [
+        "Brian Percival",
+        0
+      ],
+      [
+        "The Book Thief (film)",
+        1
+      ],
+      [
+        "About a Girl (2001 film)",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5adddb7e5542997dc790705f"
+  },
+  {
+    "uid": "61c46eb3-7336-4b18-8447-ecc3e645a5e6",
+    "claim": "The film that featured Nico Liersch in the role of Rudy Steiner was directed by same director of the film About a Girl. That film is based on a young adult novel by Markus Zusak.",
+    "supporting_facts": [
+      [
+        "Brian Percival",
+        0
+      ],
+      [
+        "The Book Thief (film)",
+        1
+      ],
+      [
+        "About a Girl (2001 film)",
+        0
+      ],
+      [
+        "Nico Liersch",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5adddb7e5542997dc790705f"
+  },
+  {
+    "uid": "fc547707-7274-41c3-89ca-1cc8f5ab46fa",
+    "claim": "The film that featured Nico Liersch in the role of Winnie Markus was directed by same director of the film About a Girl. That film is based on a book by Markus Zusak.",
+    "supporting_facts": [
+      [
+        "Brian Percival",
+        0
+      ],
+      [
+        "The Book Thief (film)",
+        1
+      ],
+      [
+        "About a Girl (2001 film)",
+        0
+      ],
+      [
+        "Nico Liersch",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5adddb7e5542997dc790705f"
+  },
+  {
+    "uid": "51509c76-8486-45b8-9da9-cc40ff7712e8",
+    "claim": "The film The Book Thief was directed by Brian Percival is based on a book by Markus Zusak.",
+    "supporting_facts": [
+      [
+        "Brian Percival",
+        0
+      ],
+      [
+        "The Book Thief (film)",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5adddb7e5542997dc790705f"
+  },
+  {
+    "uid": "ecb85765-b58f-4ca4-9c36-a289cb736cb9",
+    "claim": "The film that featured Nico Liersch in the role of Rudy Steiner was directed by same director of the film About a Girl. That film is based on a book by Liesel Meminger.",
+    "supporting_facts": [
+      [
+        "Brian Percival",
+        0
+      ],
+      [
+        "The Book Thief (film)",
+        1
+      ],
+      [
+        "About a Girl (2001 film)",
+        0
+      ],
+      [
+        "Nico Liersch",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5adddb7e5542997dc790705f"
+  },
+  {
+    "uid": "8ee73ca6-03f2-4945-9fd4-2fb206b6da03",
+    "claim": "The film that featured Nico Liersch in the role of Rudy Steiner was directed by same director of the film About a Girl. That film is based on a book by Markus Zusak.",
+    "supporting_facts": [
+      [
+        "Brian Percival",
+        0
+      ],
+      [
+        "The Book Thief (film)",
+        1
+      ],
+      [
+        "About a Girl (2001 film)",
+        0
+      ],
+      [
+        "Nico Liersch",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5adddb7e5542997dc790705f"
+  },
+  {
+    "uid": "2359b568-c509-4e8e-a159-c9141c0618e9",
+    "claim": "The president of South Korea was born 24 January 1953. The Presidential Council on Nation Branding, Korea lies under his direct control.",
+    "supporting_facts": [
+      [
+        "Presidential Council on Nation Branding, Korea",
+        1
+      ],
+      [
+        "Moon Jae-in",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5adf07cd5542993a75d263da"
+  },
+  {
+    "uid": "c364f0f1-5970-4c72-a7f9-1d2012713d57",
+    "claim": "The president of South Korea was born 24 January 1953. The group that Vietnam-born Euh Yoon-Dae was Chairman of lies under his direct control.",
+    "supporting_facts": [
+      [
+        "Presidential Council on Nation Branding, Korea",
+        1
+      ],
+      [
+        "Moon Jae-in",
+        0
+      ],
+      [
+        "Euh Yoon-dae",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5adf07cd5542993a75d263da"
+  },
+  {
+    "uid": "1137bbf6-6dec-4883-a28b-bfc61be5e52b",
+    "claim": "The president of South Korea was born 24 January 1953. The group that Euh Yoon-Dae was Chairman of lies under his direct control.",
+    "supporting_facts": [
+      [
+        "Presidential Council on Nation Branding, Korea",
+        1
+      ],
+      [
+        "Moon Jae-in",
+        0
+      ],
+      [
+        "Euh Yoon-dae",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5adf07cd5542993a75d263da"
+  },
+  {
+    "uid": "6d02062b-947d-41c7-9754-d43ff366a9fa",
+    "claim": "Calochone and Adlumia are both plants.",
+    "supporting_facts": [
+      [
+        "Calochone",
+        0
+      ],
+      [
+        "Adlumia",
+        0
+      ],
+      [
+        "Adlumia",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ae060415542993d6555eb19"
+  },
+  {
+    "uid": "9de1d0d3-e054-4c03-8d19-7b4884c92c59",
+    "claim": "SM Lifestyle Cities development, currently existing in Pasay, is currently being considered for malls such as one in M.A. Roxas Avenue in Clark Freeport, Angeles City in Pampanga Philippines.",
+    "supporting_facts": [
+      [
+        "SM Lifestyle City",
+        0
+      ],
+      [
+        "SM Lifestyle City",
+        2
+      ],
+      [
+        "SM Lifestyle City",
+        3
+      ],
+      [
+        "SM City Clark",
+        0
+      ],
+      [
+        "SM City Clark",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a722c2255429971e9dc932c"
+  },
+  {
+    "uid": "b8358aa7-a20e-4095-9d5c-682beabc88fb",
+    "claim": "The writer of the song Girl Talk and song-writer Park So-yeon have both been members of a girl group.",
+    "supporting_facts": [
+      [
+        "Tionne Watkins",
+        1
+      ],
+      [
+        "Park So-yeon (singer)",
+        1
+      ],
+      [
+        "Girl Talk (TLC song)",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5abdbf3755429933744ab818"
+  },
+  {
+    "uid": "ee4b2611-6162-496c-a667-76598870ecb5",
+    "claim": "Park So-yeon was a members of a three piece girl group. So was the writer of the song that was the second single released from the group TLC, \"Hands Up\".",
+    "supporting_facts": [
+      [
+        "Tionne Watkins",
+        1
+      ],
+      [
+        "Park So-yeon (singer)",
+        1
+      ],
+      [
+        "Girl Talk (TLC song)",
+        1
+      ],
+      [
+        "Hands Up (TLC song)",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5abdbf3755429933744ab818"
+  },
+  {
+    "uid": "01f498b7-ae1b-4d0d-8edf-b1c179abcdd5",
+    "claim": "Tionne Watkins and Park So-yeon have both been members of a girl group.",
+    "supporting_facts": [
+      [
+        "Tionne Watkins",
+        1
+      ],
+      [
+        "Park So-yeon (singer)",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5abdbf3755429933744ab818"
+  },
+  {
+    "uid": "74328ca2-e362-4a5d-baba-2a5efd76e6c4",
+    "claim": "The writer of the song Girl Talk has been been members of a girl group. The co-host of the 4th APAN Star Awards also has been been members of a girl group.",
+    "supporting_facts": [
+      [
+        "Tionne Watkins",
+        1
+      ],
+      [
+        "Park So-yeon (singer)",
+        1
+      ],
+      [
+        "Girl Talk (TLC song)",
+        1
+      ],
+      [
+        "4th APAN Star Awards",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5abdbf3755429933744ab818"
+  },
+  {
+    "uid": "f014a2df-d079-4aaa-8823-ef7ef87c681a",
+    "claim": "The writer of the song Girl Talk and Park So-yeon have both been members of a girl group.",
+    "supporting_facts": [
+      [
+        "Tionne Watkins",
+        1
+      ],
+      [
+        "Park So-yeon (singer)",
+        1
+      ],
+      [
+        "Girl Talk (TLC song)",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5abdbf3755429933744ab818"
+  },
+  {
+    "uid": "c7e41ec9-e9c7-482f-89ea-4e8a9b1382b3",
+    "claim": "Park So-yeon  was a members of a girl group. So was the writer of the song that was the second single released from the group TLC, \"Hands Up\".",
+    "supporting_facts": [
+      [
+        "Tionne Watkins",
+        1
+      ],
+      [
+        "Park So-yeon (singer)",
+        1
+      ],
+      [
+        "Girl Talk (TLC song)",
+        1
+      ],
+      [
+        "Hands Up (TLC song)",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5abdbf3755429933744ab818"
+  },
+  {
+    "uid": "5f40a5f6-f1ec-4aa8-8558-26190ab95919",
+    "claim": "The writer of the song Girl Talk and Park So-yeon have both been members of a girl group.",
+    "supporting_facts": [
+      [
+        "Tionne Watkins",
+        1
+      ],
+      [
+        "Park So-yeon (singer)",
+        1
+      ],
+      [
+        "Girl Talk (TLC song)",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5abdbf3755429933744ab818"
+  },
+  {
+    "uid": "475dc308-0ab1-43a9-80cb-4125f4141234",
+    "claim": "The writer of the song Girl Talk and Park So-yeon have both been members of a group.",
+    "supporting_facts": [
+      [
+        "Tionne Watkins",
+        1
+      ],
+      [
+        "Park So-yeon (singer)",
+        1
+      ],
+      [
+        "Girl Talk (TLC song)",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5abdbf3755429933744ab818"
+  },
+  {
+    "uid": "99aa2df0-1290-4a1d-ad04-4d486eed8f3b",
+    "claim": "The writer of the song Girl Talk has been been members of a J-pop girl group. The co-host of the 4th APAN Star Awards also has been been members of a girl group.",
+    "supporting_facts": [
+      [
+        "Tionne Watkins",
+        1
+      ],
+      [
+        "Park So-yeon (singer)",
+        1
+      ],
+      [
+        "Girl Talk (TLC song)",
+        1
+      ],
+      [
+        "4th APAN Star Awards",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5abdbf3755429933744ab818"
+  },
+  {
+    "uid": "d3e0c0d4-c3f8-43df-b1d6-beb886a2884b",
+    "claim": "The presidential campaign of Donald Trump brought out the term Vichy Republican on social media and was formally launched on June 16, 2015, at Trump Tower in New York City.",
+    "supporting_facts": [
+      [
+        "Vichy Republican",
+        0
+      ],
+      [
+        "Donald Trump presidential campaign, 2016",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ae5669755429960a22e02ec"
+  },
+  {
+    "uid": "8a4e2a68-e793-4222-9bd6-c180d6aff7d3",
+    "claim": "Sir William James Ingram, 1st Baronet (27 October 1847 \u2013 18 December 1924) was Managing Director of \"The Illustrated London News\", which appeared first on Saturday 14 May 1842, as the world's first illustrated weekly news magazine, and appeared weekly until 1971.",
+    "supporting_facts": [
+      [
+        "Sir William Ingram, 1st Baronet",
+        0
+      ],
+      [
+        "The Illustrated London News",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a8358eb554299123d8c20fa"
+  },
+  {
+    "uid": "d5ce9c8a-a64f-4424-b8a3-b225b0785f0c",
+    "claim": "Sir William James Ingram, 1st Baronet (27 October 1847 \u2013 18 December 1924) was Managing Director of \"The Illustrated London News\", which appeared first on Saturday 14 May 1842, as the world's first illustrated weekly news magazine, and appeared weekly until summer 1971.",
+    "supporting_facts": [
+      [
+        "Sir William Ingram, 1st Baronet",
+        0
+      ],
+      [
+        "The Illustrated London News",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a8358eb554299123d8c20fa"
+  },
+  {
+    "uid": "00d94562-3911-4317-bc2b-54521a91be07",
+    "claim": "The band who released \"Hooligan's Holiday,\" retired in 2015.",
+    "supporting_facts": [
+      [
+        "Hooligan's Holiday",
+        0
+      ],
+      [
+        "Mick Mars",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a8dacf2554299068b959d91"
+  },
+  {
+    "uid": "26dc26af-3f56-4712-9872-75b38a8fe80c",
+    "claim": "The North Central town that licenses WCJB-TV is home to the punk rock band Against Me! formed in 1991.",
+    "supporting_facts": [
+      [
+        "Don't Lose Touch",
+        0
+      ],
+      [
+        "Gainesville, Florida",
+        2
+      ],
+      [
+        "WCJB-TV",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ae7c5ef5542993210983f44"
+  },
+  {
+    "uid": "b6e56c4d-e4e9-43eb-8736-c88781444b87",
+    "claim": "The North Central town of Gainesville, Florida is home to the punk rock band Against Me!.",
+    "supporting_facts": [
+      [
+        "Don't Lose Touch",
+        0
+      ],
+      [
+        "Gainesville, Florida",
+        2
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ae7c5ef5542993210983f44"
+  },
+  {
+    "uid": "38310caa-bf75-49e4-978d-6af2ce88a46c",
+    "claim": "The North Central town that licenses WCJB-TV is home to the music band Against Me!.",
+    "supporting_facts": [
+      [
+        "Don't Lose Touch",
+        0
+      ],
+      [
+        "Gainesville, Florida",
+        2
+      ],
+      [
+        "WCJB-TV",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ae7c5ef5542993210983f44"
+  },
+  {
+    "uid": "fd38dc67-c066-46d2-a49b-a7432389ef58",
+    "claim": "The Mars town that licenses WCJB-TV is home to the punk rock band Against Me!.",
+    "supporting_facts": [
+      [
+        "Don't Lose Touch",
+        0
+      ],
+      [
+        "Gainesville, Florida",
+        2
+      ],
+      [
+        "WCJB-TV",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ae7c5ef5542993210983f44"
+  },
+  {
+    "uid": "e54b122a-b885-4ab0-a768-280a8e3b2145",
+    "claim": "The North Central town that licenses WCJB-TV is home to the punk rock band Against Me!.",
+    "supporting_facts": [
+      [
+        "Don't Lose Touch",
+        0
+      ],
+      [
+        "Gainesville, Florida",
+        2
+      ],
+      [
+        "WCJB-TV",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ae7c5ef5542993210983f44"
+  },
+  {
+    "uid": "60e37d37-20cf-4f03-9619-42b9b669e1b4",
+    "claim": "The album that contains the song \"Get Together\" by Madonna was mainly recorded in the home studio of Stuart Price.",
+    "supporting_facts": [
+      [
+        "Get Together (Madonna song)",
+        0
+      ],
+      [
+        "Get Together (Madonna song)",
+        1
+      ],
+      [
+        "Confessions on a Dance Floor",
+        5
+      ],
+      [
+        "Confessions on a Dance Floor",
+        6
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a7f22005542993067513657"
+  },
+  {
+    "uid": "a1cd7f29-dec5-4732-8f14-6c514f92a1ae",
+    "claim": "Both Upper Crust Pizzeria and Eatza Pizza are restaurants.",
+    "supporting_facts": [
+      [
+        "Upper Crust Pizzeria",
+        0
+      ],
+      [
+        "Eatza Pizza",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ade15a45542997545bbbe46"
+  },
+  {
+    "uid": "21942771-1199-41f2-86b4-8f1cea6e94e0",
+    "claim": "Diana Ross lived at 211 Central Park West.",
+    "supporting_facts": [
+      [
+        "Diana Ross Playground",
+        1
+      ],
+      [
+        "The Beresford",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a7b87095542995eb53be94c"
+  },
+  {
+    "uid": "7fe247ab-60c6-4810-9539-bcf355a999d9",
+    "claim": "The movie. in which David Zayas played Francis Ford Coppola the cop, is the movie that John Gavin Malkovich had played in with Matt Damon and Edward Norton.",
+    "supporting_facts": [
+      [
+        "John Malkovich",
+        3
+      ],
+      [
+        "Rounders (film)",
+        0
+      ],
+      [
+        "David Zayas",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ac2a75755429967731025dc"
+  },
+  {
+    "uid": "e1801c95-dad0-40ab-a22b-ce7aae27fa2d",
+    "claim": "The movie. in which David Zayas played Osborne the cop, is the movie that John Gavin Malkovich had played in with Matt Damon and James Moll.",
+    "supporting_facts": [
+      [
+        "John Malkovich",
+        3
+      ],
+      [
+        "Rounders (film)",
+        0
+      ],
+      [
+        "David Zayas",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ac2a75755429967731025dc"
+  },
+  {
+    "uid": "f0912b51-c217-4b71-84df-f60307a55cf7",
+    "claim": "The movie. in which David Zayas played Osborne the cop, is the movie that John Gavin Malkovich had not played in with Matt Damon and Edward Norton.",
+    "supporting_facts": [
+      [
+        "John Malkovich",
+        3
+      ],
+      [
+        "Rounders (film)",
+        0
+      ],
+      [
+        "David Zayas",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ac2a75755429967731025dc"
+  },
+  {
+    "uid": "41223fef-32ce-47e1-b51b-3c6c3bf84319",
+    "claim": "The movie. in which David Zayas played Osborne the cop, is the movie that John Gavin Malkovich had appeared as a waiter in with Matt Damon and Edward Norton.",
+    "supporting_facts": [
+      [
+        "John Malkovich",
+        3
+      ],
+      [
+        "Rounders (film)",
+        0
+      ],
+      [
+        "David Zayas",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ac2a75755429967731025dc"
+  },
+  {
+    "uid": "d019fd03-dafa-4507-84da-55e67711d406",
+    "claim": "Rounders is the movie that John Gavin Malkovich had played in with Matt Damon and Edward Norton.",
+    "supporting_facts": [
+      [
+        "John Malkovich",
+        3
+      ],
+      [
+        "Rounders (film)",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ac2a75755429967731025dc"
+  },
+  {
+    "uid": "97dae03a-834c-453b-a17f-ba167a96be28",
+    "claim": "The movie. in which David Zayas played Osborne the cop, is the movie that John Gavin Malkovich had played in with Matt Damon and Edward Norton.",
+    "supporting_facts": [
+      [
+        "John Malkovich",
+        3
+      ],
+      [
+        "Rounders (film)",
+        0
+      ],
+      [
+        "David Zayas",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ac2a75755429967731025dc"
+  },
+  {
+    "uid": "4729625d-5d4b-4a6a-a68d-3eec5a04b3fc",
+    "claim": "David Zayas played Osborne the cop in an Academy Award-winning movie. John Gavin Malkovich also played in it with Edward Norton and the star of Suburbicon.",
+    "supporting_facts": [
+      [
+        "John Malkovich",
+        3
+      ],
+      [
+        "Rounders (film)",
+        0
+      ],
+      [
+        "David Zayas",
+        1
+      ],
+      [
+        "Suburbicon",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5ac2a75755429967731025dc"
+  },
+  {
+    "uid": "d0366ef4-d715-4cca-999e-f12fca652211",
+    "claim": "The star of the 2015 film, The Wannabe, played Osborne the cop in a movie. In that same movie, John Gavin Malkovich starred in with Matt Damon and Edward Norton.",
+    "supporting_facts": [
+      [
+        "John Malkovich",
+        3
+      ],
+      [
+        "Rounders (film)",
+        0
+      ],
+      [
+        "David Zayas",
+        1
+      ],
+      [
+        "The Wannabe",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5ac2a75755429967731025dc"
+  },
+  {
+    "uid": "e8c12f01-600c-411b-a703-481b677e2285",
+    "claim": "The movie. in which David Zayas played Osborne the cop, is the movie that John Gavin Malkovich had played in with Morgan Freeman and Edward Norton.",
+    "supporting_facts": [
+      [
+        "John Malkovich",
+        3
+      ],
+      [
+        "Rounders (film)",
+        0
+      ],
+      [
+        "David Zayas",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ac2a75755429967731025dc"
+  },
+  {
+    "uid": "8d0bed54-0809-4d60-be40-258112ae5201",
+    "claim": "David Zayas played Osborne the cop in a movie. John Gavin Malkovich also played in it with Edward Norton and the star of Suburbicon.",
+    "supporting_facts": [
+      [
+        "John Malkovich",
+        3
+      ],
+      [
+        "Rounders (film)",
+        0
+      ],
+      [
+        "David Zayas",
+        1
+      ],
+      [
+        "Suburbicon",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5ac2a75755429967731025dc"
+  },
+  {
+    "uid": "17f15f71-30b7-4beb-a054-f659fd1e6a43",
+    "claim": "The movie. in which David Zayas acted in, is the movie that John Gavin Malkovich had played in with Matt Damon and Edward Norton.",
+    "supporting_facts": [
+      [
+        "John Malkovich",
+        3
+      ],
+      [
+        "Rounders (film)",
+        0
+      ],
+      [
+        "David Zayas",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ac2a75755429967731025dc"
+  },
+  {
+    "uid": "d7bb4fca-9b73-4901-a441-912471dba0ff",
+    "claim": "The 2005 black comedy sequel to \"Forgetting Sarah Marshall\" starred an Australian actress who started in the 2003 film \"The Rage in Placid Lake\" alongside Ben Lee.",
+    "supporting_facts": [
+      [
+        "Rose Byrne",
+        0
+      ],
+      [
+        "Rose Byrne",
+        5
+      ],
+      [
+        "Get Him to the Greek",
+        1
+      ],
+      [
+        "The Rage in Placid Lake",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a8656ca554299211dda2afc"
+  },
+  {
+    "uid": "3a6722ab-5875-49e6-9672-3a8c57b0617c",
+    "claim": "The black comedy sequel to \"Forgetting Sarah Marshall\" starred an British actress who started in the 2003 film \"The Rage in Placid Lake\" alongside Ben Lee.",
+    "supporting_facts": [
+      [
+        "Rose Byrne",
+        0
+      ],
+      [
+        "Rose Byrne",
+        5
+      ],
+      [
+        "Get Him to the Greek",
+        1
+      ],
+      [
+        "The Rage in Placid Lake",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a8656ca554299211dda2afc"
+  },
+  {
+    "uid": "3afb6d32-27db-43df-9441-76211d11703e",
+    "claim": "The black comedy sequel to \"Forgetting Sarah Marshall\" starred an Australian actress who started in the 2003 film \"The Rage in Placid Lake\" alongside Ben Lee.",
+    "supporting_facts": [
+      [
+        "Rose Byrne",
+        0
+      ],
+      [
+        "Rose Byrne",
+        5
+      ],
+      [
+        "Get Him to the Greek",
+        1
+      ],
+      [
+        "The Rage in Placid Lake",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a8656ca554299211dda2afc"
+  },
+  {
+    "uid": "92d5ef1a-cf21-40ce-b9aa-4b05f8c4b85c",
+    "claim": "The black comedy sequel to \"Forgetting Sarah Marshall\" starred an Australian actress who didn't star in the 2003 film \"The Rage in Placid Lake\" alongside Ben Lee.",
+    "supporting_facts": [
+      [
+        "Rose Byrne",
+        0
+      ],
+      [
+        "Rose Byrne",
+        5
+      ],
+      [
+        "Get Him to the Greek",
+        1
+      ],
+      [
+        "The Rage in Placid Lake",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a8656ca554299211dda2afc"
+  },
+  {
+    "uid": "a811e96d-67c8-4163-beba-cc5a2a46b2fe",
+    "claim": "The black comedy sequel to \"Forgetting Sarah Marshall\" starred an Australian actress Rose Byrne.",
+    "supporting_facts": [
+      [
+        "Rose Byrne",
+        0
+      ],
+      [
+        "Rose Byrne",
+        5
+      ],
+      [
+        "Get Him to the Greek",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a8656ca554299211dda2afc"
+  },
+  {
+    "uid": "55bdd903-e3a1-4058-9be9-974ea17698e7",
+    "claim": "The comedy sequel to \"Forgetting Sarah Marshall\" starred an Australian actress who started in the 2003 film \"The Rage in Placid Lake\" alongside Ben Lee.",
+    "supporting_facts": [
+      [
+        "Rose Byrne",
+        0
+      ],
+      [
+        "Rose Byrne",
+        5
+      ],
+      [
+        "Get Him to the Greek",
+        1
+      ],
+      [
+        "The Rage in Placid Lake",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a8656ca554299211dda2afc"
+  },
+  {
+    "uid": "3e48dc0f-9b7a-452a-86e2-98428f333f57",
+    "claim": "September 8, 2010 is the year exact date that the Linkin Park album with the song \"Wretches and Kings\"was  released.",
+    "supporting_facts": [
+      [
+        "Wretches and Kings",
+        1
+      ],
+      [
+        "A Thousand Suns",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a8328895542993344745fd0"
+  },
+  {
+    "uid": "f9d5a8b8-522c-4b2a-aa16-3b215a50839d",
+    "claim": "The film Christopher Robin has more writers than the film Splash.",
+    "supporting_facts": [
+      [
+        "Splash (film)",
+        0
+      ],
+      [
+        "Christopher Robin (film)",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a7f3361554299306751369a"
+  },
+  {
+    "uid": "b38f865e-ec16-426e-bcbd-69a404d0c154",
+    "claim": "The film Christopher Robin has fewer writers than the 1984 film that Mermaid Got Married was based on.",
+    "supporting_facts": [
+      [
+        "Splash (film)",
+        0
+      ],
+      [
+        "Christopher Robin (film)",
+        0
+      ],
+      [
+        "Mermaid Got Married",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a7f3361554299306751369a"
+  },
+  {
+    "uid": "f2cbf2a9-cc79-42ae-91da-b1fd414c7a75",
+    "claim": "The film Christopher Robin has more writers than the 1980s film that Mermaid Got Married was based on.",
+    "supporting_facts": [
+      [
+        "Splash (film)",
+        0
+      ],
+      [
+        "Christopher Robin (film)",
+        0
+      ],
+      [
+        "Mermaid Got Married",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a7f3361554299306751369a"
+  },
+  {
+    "uid": "f7112517-dfed-4ebc-a987-409d649b2624",
+    "claim": "The film Christopher Robin has six more writers than the 1984 film that Mermaid Got Married was based on.",
+    "supporting_facts": [
+      [
+        "Splash (film)",
+        0
+      ],
+      [
+        "Christopher Robin (film)",
+        0
+      ],
+      [
+        "Mermaid Got Married",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a7f3361554299306751369a"
+  },
+  {
+    "uid": "27aedf8a-d2f6-4694-a789-7bd6d12b28be",
+    "claim": "The film Christopher Robin has more writers than the 1984 film that Mermaid Got Married was based on.",
+    "supporting_facts": [
+      [
+        "Splash (film)",
+        0
+      ],
+      [
+        "Christopher Robin (film)",
+        0
+      ],
+      [
+        "Mermaid Got Married",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a7f3361554299306751369a"
+  },
+  {
+    "uid": "10ac957e-9b87-4db0-aaa1-cd4db3b4459d",
+    "claim": "Peter Chelsom was the director of the 2001 American romantic comedy film written by Marc Klein in which Lucy Gordon had a small role.",
+    "supporting_facts": [
+      [
+        "Lucy Gordon (actress)",
+        2
+      ],
+      [
+        "Serendipity (film)",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ac23b6f55429951e9e684b4"
+  },
+  {
+    "uid": "ac4d4a6d-80ae-49cf-a1c4-4836ae632ad9",
+    "claim": "Peter Chelsom was the director of the 2001 American romantic comedy film written by Marc Klein in which Lucy Gordon had a small role as an assassin.",
+    "supporting_facts": [
+      [
+        "Lucy Gordon (actress)",
+        2
+      ],
+      [
+        "Serendipity (film)",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ac23b6f55429951e9e684b4"
+  },
+  {
+    "uid": "832b3f78-b160-450c-844f-fe73b0a025e3",
+    "claim": "Camp Half-Blood Chronicles is the name of the first book in a series. That series precedes The Demigod Diaries in 2012.",
+    "supporting_facts": [
+      [
+        "The Heroes of Olympus",
+        0
+      ],
+      [
+        "Percy Jackson &amp; the Olympians",
+        0
+      ],
+      [
+        "The Demigod Diaries",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5adfa2ef554299025d62a30f"
+  },
+  {
+    "uid": "04565d5a-cdde-4f22-9e85-5ba2c3aacdb4",
+    "claim": "Camp Half-Blood Chronicles is the name of the first novel in the trilogy that precedes The Heroes of Olympus.",
+    "supporting_facts": [
+      [
+        "The Heroes of Olympus",
+        0
+      ],
+      [
+        "Percy Jackson &amp; the Olympians",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5adfa2ef554299025d62a30f"
+  },
+  {
+    "uid": "4efdebde-a91d-4fb1-a2e6-96e687ceef73",
+    "claim": "Camp Half-Blood Chronicles is the name of the first novel in the series that precedes The Heroes of Olympus.",
+    "supporting_facts": [
+      [
+        "The Heroes of Olympus",
+        0
+      ],
+      [
+        "Percy Jackson &amp; the Olympians",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5adfa2ef554299025d62a30f"
+  },
+  {
+    "uid": "92e48cea-a4b8-4223-b970-2d0b436a2168",
+    "claim": "Camp Half-Blood Chronicles is the name of the first book in the trilogy that precedes The Heroes of Olympus.",
+    "supporting_facts": [
+      [
+        "The Heroes of Olympus",
+        0
+      ],
+      [
+        "Percy Jackson &amp; the Olympians",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5adfa2ef554299025d62a30f"
+  },
+  {
+    "uid": "85e0f15a-eed8-4732-89ca-17089551c152",
+    "claim": "Camp Half-Blood Chronicles is the name of the first book in a series. That series precedes The Demigod Diaries.",
+    "supporting_facts": [
+      [
+        "The Heroes of Olympus",
+        0
+      ],
+      [
+        "Percy Jackson &amp; the Olympians",
+        0
+      ],
+      [
+        "The Demigod Diaries",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5adfa2ef554299025d62a30f"
+  },
+  {
+    "uid": "e856c3f8-49c2-4f42-b516-35c50e0cb78b",
+    "claim": "Olympus is the name of the first book in a series. That series precedes The Demigod Diaries.",
+    "supporting_facts": [
+      [
+        "The Heroes of Olympus",
+        0
+      ],
+      [
+        "Percy Jackson &amp; the Olympians",
+        0
+      ],
+      [
+        "The Demigod Diaries",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5adfa2ef554299025d62a30f"
+  },
+  {
+    "uid": "4ff71c0c-a910-4b4e-a69b-c60022dbd974",
+    "claim": "Camp Half-Blood Chronicles is the name of the first book in the series that precedes The Heroes of Olympus.",
+    "supporting_facts": [
+      [
+        "The Heroes of Olympus",
+        0
+      ],
+      [
+        "Percy Jackson &amp; the Olympians",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5adfa2ef554299025d62a30f"
+  },
+  {
+    "uid": "51335b8c-2611-4271-8308-044285104939",
+    "claim": "The American lyricist Tom Jones,  born in 1928, co-authored the screenplay for the musical film The Fantastics.",
+    "supporting_facts": [
+      [
+        "The Fantasticks (film)",
+        1
+      ],
+      [
+        "Tom Jones (writer)",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ae685d65542996d980e7bd8"
+  },
+  {
+    "uid": "6ef32f18-c73c-4b7f-9a01-36e4ef4baca4",
+    "claim": "An American lyricist, born in 1928, co-wrote the screenplay for the musical film The Fantastics. The lyricist co-wrote the Magic Band musical \"Philemon\"",
+    "supporting_facts": [
+      [
+        "The Fantasticks (film)",
+        1
+      ],
+      [
+        "Tom Jones (writer)",
+        0
+      ],
+      [
+        "Philemon (musical)",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ae685d65542996d980e7bd8"
+  },
+  {
+    "uid": "6c3c9478-7170-45d6-b301-0c003d96304b",
+    "claim": "An Urdu lyricist, born in 1928, co-wrote the screenplay for the musical film The Fantastics. The lyricist co-wrote the Off-Broadway musical \"Philemon\"",
+    "supporting_facts": [
+      [
+        "The Fantasticks (film)",
+        1
+      ],
+      [
+        "Tom Jones (writer)",
+        0
+      ],
+      [
+        "Philemon (musical)",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ae685d65542996d980e7bd8"
+  },
+  {
+    "uid": "7b86ec5a-3471-4b29-9d5f-e3a6c6e2d53d",
+    "claim": "An American lyricist, born in 1928, co-wrote the screenplay for the musical film The Fantastics. The lyricist co-wrote the Off-Broadway musical \"Philemon\"",
+    "supporting_facts": [
+      [
+        "The Fantasticks (film)",
+        1
+      ],
+      [
+        "Tom Jones (writer)",
+        0
+      ],
+      [
+        "Philemon (musical)",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ae685d65542996d980e7bd8"
+  },
+  {
+    "uid": "f9d3865d-ee95-416d-91a6-100266ab10b4",
+    "claim": "The American author Tom Jones,  born in 1928, co-authored the screenplay for the musical film The Fantastics.",
+    "supporting_facts": [
+      [
+        "The Fantasticks (film)",
+        1
+      ],
+      [
+        "Tom Jones (writer)",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ae685d65542996d980e7bd8"
+  },
+  {
+    "uid": "47e89025-69f1-4526-bac3-afe3fbeddf0d",
+    "claim": "The American lyricist Tom Jones,  born in 1928, co-wrote the screenplay for the musical film The Pajama Game.",
+    "supporting_facts": [
+      [
+        "The Fantasticks (film)",
+        1
+      ],
+      [
+        "Tom Jones (writer)",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ae685d65542996d980e7bd8"
+  },
+  {
+    "uid": "d12aaebf-b402-46ad-aaf4-5dd6d8a06172",
+    "claim": "An American lyricist, born in 1928, co-wrote the screenplay for the musical film the \"Best Musical\". The lyricist co-wrote the Off-Broadway musical \"Philemon\"",
+    "supporting_facts": [
+      [
+        "The Fantasticks (film)",
+        1
+      ],
+      [
+        "Tom Jones (writer)",
+        0
+      ],
+      [
+        "Philemon (musical)",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ae685d65542996d980e7bd8"
+  },
+  {
+    "uid": "97980b6d-ac91-4971-aebf-8f7da0824edf",
+    "claim": "The American lyricist Tom Jones,  born in australia, co-wrote the screenplay for the musical film The Fantastics.",
+    "supporting_facts": [
+      [
+        "The Fantasticks (film)",
+        1
+      ],
+      [
+        "Tom Jones (writer)",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ae685d65542996d980e7bd8"
+  },
+  {
+    "uid": "72c7b38b-95d2-4403-93f2-4818ae00bf31",
+    "claim": "The American lyricist Tom Jones,  born in 1928, co-wrote the screenplay for the musical film The Fantastics.",
+    "supporting_facts": [
+      [
+        "The Fantasticks (film)",
+        1
+      ],
+      [
+        "Tom Jones (writer)",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ae685d65542996d980e7bd8"
+  },
+  {
+    "uid": "f5bdb28b-811c-4bb6-91fd-11fe20f2fcbc",
+    "claim": "This species and the relative of the Fir are classified as genus in the naming system. Parnassius nordmanni is a high altitude butterfly which is found the Caucasus. The larva feeds on this species including \"C. alpestris\", \"C. conorhiza\" and \"C. emanueli\".",
+    "supporting_facts": [
+      [
+        "Corydalis",
+        0
+      ],
+      [
+        "Cedrus",
+        0
+      ],
+      [
+        "Parnassius nordmanni",
+        2
+      ],
+      [
+        "Fir",
+        2
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5aba5a4d5542994dbf0198ed"
+  },
+  {
+    "uid": "184dad52-0c0c-4bc9-ad76-1e1a63508e04",
+    "claim": "This species and the relative of the Fir are classified as genus in the naming system. Parnassius nordmanni is a high altitude, blue and red butterfly which is found the Caucasus. The larva feeds on this species including \"C. alpestris\", \"C. conorhiza\" and \"C. emanueli\".",
+    "supporting_facts": [
+      [
+        "Corydalis",
+        0
+      ],
+      [
+        "Cedrus",
+        0
+      ],
+      [
+        "Parnassius nordmanni",
+        2
+      ],
+      [
+        "Fir",
+        2
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5aba5a4d5542994dbf0198ed"
+  },
+  {
+    "uid": "3a21878e-155e-4b09-b4af-2476979714dd",
+    "claim": "1: Parnassius nordmanni is a high altitude butterfly which is found the Caucasus. 2:The larva feeds on a species including \"C. alpestris\", \"C. conorhiza\" and \"C. emanueli\". \n3:That species and Cedrus are classified as genus in the naming system.",
+    "supporting_facts": [
+      [
+        "Corydalis",
+        0
+      ],
+      [
+        "Cedrus",
+        0
+      ],
+      [
+        "Parnassius nordmanni",
+        2
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5aba5a4d5542994dbf0198ed"
+  },
+  {
+    "uid": "11fcfba4-e11d-4127-a053-e61f662261a9",
+    "claim": "1: Parnassius nordmanni is a butterfly which is found the Caucasus. 2:The larva feeds on a species including \"C. alpestris\", \"C. conorhiza\" and \"C. emanueli\". 3:That species and Cedrus are classified as genus in the naming system.",
+    "supporting_facts": [
+      [
+        "Corydalis",
+        0
+      ],
+      [
+        "Cedrus",
+        0
+      ],
+      [
+        "Parnassius nordmanni",
+        2
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5aba5a4d5542994dbf0198ed"
+  },
+  {
+    "uid": "c344a74a-32e7-4460-872f-ab0927019866",
+    "claim": "Both Corydalis and Cedrus are classified as genus in the naming system.",
+    "supporting_facts": [
+      [
+        "Corydalis",
+        0
+      ],
+      [
+        "Cedrus",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5aba5a4d5542994dbf0198ed"
+  },
+  {
+    "uid": "09828af9-74d3-4344-afbb-4e8cbfc91dac",
+    "claim": "Dacryopinax spathularia is included in the dish Buddha's delight that is also sometimes called Lu\u00f3h\u00e0n c\u00e0i.",
+    "supporting_facts": [
+      [
+        "Dacryopinax spathularia",
+        4
+      ],
+      [
+        "Buddha's delight",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ab9ccef55429955dce3ed86"
+  },
+  {
+    "uid": "4d384bb2-545c-4dee-ad70-5109d0bb9a65",
+    "claim": "The plant commonly affected by  Rhodococcus fascians is a genus of pine trees. Encyclia\u00a0is as well.",
+    "supporting_facts": [
+      [
+        "Nicotiana",
+        0
+      ],
+      [
+        "Encyclia",
+        0
+      ],
+      [
+        "Rhodococcus fascians",
+        2
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ab6b71d5542995eadef006c"
+  },
+  {
+    "uid": "0a2298ff-ae5e-4330-ab6a-423a2380a539",
+    "claim": "Nicotiana nor Encyclia are genus of pine trees.",
+    "supporting_facts": [
+      [
+        "Nicotiana",
+        0
+      ],
+      [
+        "Encyclia",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ab6b71d5542995eadef006c"
+  },
+  {
+    "uid": "398750af-dbbc-4c54-9d72-e2a88b9962d8",
+    "claim": "The plant commonly affected by Rhodococcus fascians is a genus of northern pine trees. Encyclia is as well.",
+    "supporting_facts": [
+      [
+        "Nicotiana",
+        0
+      ],
+      [
+        "Encyclia",
+        0
+      ],
+      [
+        "Rhodococcus fascians",
+        2
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ab6b71d5542995eadef006c"
+  },
+  {
+    "uid": "1320f9fe-717c-4da9-b166-27c4c893d728",
+    "claim": "Unchained Memories was the documentary made before The Shame of a City.",
+    "supporting_facts": [
+      [
+        "The Shame of a City",
+        0
+      ],
+      [
+        "Unchained Memories",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a76404b5542994ccc91873d"
+  },
+  {
+    "uid": "b7d753c0-0e30-4879-a638-6212b7170c40",
+    "claim": "Unchained Memories was the film made before filmmaker Tigre Hill's first documentary.",
+    "supporting_facts": [
+      [
+        "The Shame of a City",
+        0
+      ],
+      [
+        "Unchained Memories",
+        0
+      ],
+      [
+        "Tigre Hill",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a76404b5542994ccc91873d"
+  },
+  {
+    "uid": "410aab21-5f37-47d7-8302-f1e76f0313f6",
+    "claim": "Unchained Memories was the documentary made before filmmaker Tigre Hill's first documentary.",
+    "supporting_facts": [
+      [
+        "The Shame of a City",
+        0
+      ],
+      [
+        "Unchained Memories",
+        0
+      ],
+      [
+        "Tigre Hill",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a76404b5542994ccc91873d"
+  },
+  {
+    "uid": "4380ac7f-ec51-4903-b652-f8dc0ca909e1",
+    "claim": "A film was the documentary made before filmmaker Tigre Hill's first documentary. Juliet Weber co-produced this film.",
+    "supporting_facts": [
+      [
+        "The Shame of a City",
+        0
+      ],
+      [
+        "Unchained Memories",
+        0
+      ],
+      [
+        "Tigre Hill",
+        1
+      ],
+      [
+        "Juliet Weber",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5a76404b5542994ccc91873d"
+  },
+  {
+    "uid": "f7d83e15-a36c-4323-9551-ff5eb3d3c5a9",
+    "claim": "Unchained Memories was the noted documentary made before filmmaker Tigre Hill's first documentary.",
+    "supporting_facts": [
+      [
+        "The Shame of a City",
+        0
+      ],
+      [
+        "Unchained Memories",
+        0
+      ],
+      [
+        "Tigre Hill",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a76404b5542994ccc91873d"
+  },
+  {
+    "uid": "fb586022-0bdb-44c9-9928-78cb925e0af2",
+    "claim": "British company BBC was involved in recording the audiobook for the book known as The Golden Compass in North America.",
+    "supporting_facts": [
+      [
+        "Northern Lights Audio",
+        1
+      ],
+      [
+        "Northern Lights (novel)",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a80f793554299260e20a1e1"
+  },
+  {
+    "uid": "3071e9d1-63ee-4547-859d-b59bd6e68f1d",
+    "claim": "The actress who was killed off along with Sonny was a model and yoga teacher.",
+    "supporting_facts": [
+      [
+        "Sonny Valentine",
+        3
+      ],
+      [
+        "Gemma Merna",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a8750945542996432c57264"
+  },
+  {
+    "uid": "7f9c9882-b43b-4aa1-a331-a75a0fe8e5d7",
+    "claim": "The English actor and film producer who also starred in an adaptation with Renee Zellweger was born in 1960.",
+    "supporting_facts": [
+      [
+        "Bridget Jones's Diary (film)",
+        2
+      ],
+      [
+        "Hugh Grant",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a8f20d655429924144829dc"
+  },
+  {
+    "uid": "e4c9a139-261e-4e94-8d54-2406260d2ece",
+    "claim": "The director of this 2011 drama that was adapted from him and Rosemary Sutcliff is also a writer. He wrote the film True Crimes.",
+    "supporting_facts": [
+      [
+        "Jeremy Brock",
+        0
+      ],
+      [
+        "The Eagle (2011 film)",
+        0
+      ],
+      [
+        "The Eagle (2011 film)",
+        1
+      ],
+      [
+        "True Crimes",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a8c585d554299653c1aa044"
+  },
+  {
+    "uid": "04fc276f-9364-4a22-a7ff-a3694945e175",
+    "claim": "The director of this 2011 drama that was adapted from him and Rickman is also a writer. He wrote the film True Crimes.",
+    "supporting_facts": [
+      [
+        "Jeremy Brock",
+        0
+      ],
+      [
+        "The Eagle (2011 film)",
+        0
+      ],
+      [
+        "The Eagle (2011 film)",
+        1
+      ],
+      [
+        "True Crimes",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a8c585d554299653c1aa044"
+  },
+  {
+    "uid": "8ef12732-54d6-45c4-9659-7cc6c99df86a",
+    "claim": "The director of this 2011 comedy-drama that was adapted from him and Rosemary Sutcliff is also a writer. He wrote the film True Crimes.",
+    "supporting_facts": [
+      [
+        "Jeremy Brock",
+        0
+      ],
+      [
+        "The Eagle (2011 film)",
+        0
+      ],
+      [
+        "The Eagle (2011 film)",
+        1
+      ],
+      [
+        "True Crimes",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a8c585d554299653c1aa044"
+  },
+  {
+    "uid": "71bf72c8-9a48-4e57-ae84-f50abfb3381b",
+    "claim": "Jeremy Brock is the writer and director of this 2011 drama that was adapted from him and Rosemary Sutcliff.",
+    "supporting_facts": [
+      [
+        "Jeremy Brock",
+        0
+      ],
+      [
+        "The Eagle (2011 film)",
+        0
+      ],
+      [
+        "The Eagle (2011 film)",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a8c585d554299653c1aa044"
+  },
+  {
+    "uid": "9c72fed4-e48c-4912-877f-2c6d1e171ed4",
+    "claim": "Mark's Pizzeria and Patxi's Chicago Pizza have the action founded in common.",
+    "supporting_facts": [
+      [
+        "Mark's Pizzeria",
+        1
+      ],
+      [
+        "Patxi's Chicago Pizza",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ab98d70554299753720f82f"
+  },
+  {
+    "uid": "adb5fac0-b26e-43fe-a80a-2cd186a1fcaf",
+    "claim": "The group Leonidas L. Polk led was the organized agrarian economic movement among Catholic farmers. It was supported by the weekly left-wing political newspaper, that was published by Julius Wayland.",
+    "supporting_facts": [
+      [
+        "Appeal to Reason (newspaper)",
+        0
+      ],
+      [
+        "Farmers' Alliance",
+        0
+      ],
+      [
+        "Julius Wayland",
+        1
+      ],
+      [
+        "Leonidas L. Polk",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5ae290015542994d89d5b427"
+  },
+  {
+    "uid": "3d8dbbab-7ea8-4e88-9296-042683b40db1",
+    "claim": "Farmers' Alliance was the organized agrarian economic movement among Progressives farmers. It was supported by the weekly left-wing political newspaper, that was published by a publisher. This publisher was influenced by the thinking of Laurence Gronlund.",
+    "supporting_facts": [
+      [
+        "Appeal to Reason (newspaper)",
+        0
+      ],
+      [
+        "Farmers' Alliance",
+        0
+      ],
+      [
+        "Julius Wayland",
+        1
+      ],
+      [
+        "Laurence Gronlund",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5ae290015542994d89d5b427"
+  },
+  {
+    "uid": "41a9c811-c263-43ed-9985-305d0d5d7c15",
+    "claim": "Farmers' Alliance was the organized agrarian economic movement among American farmers. It was supported by the weekly left-wing political newspaper, that was published by Julius Wayland.",
+    "supporting_facts": [
+      [
+        "Appeal to Reason (newspaper)",
+        0
+      ],
+      [
+        "Farmers' Alliance",
+        0
+      ],
+      [
+        "Julius Wayland",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ae290015542994d89d5b427"
+  },
+  {
+    "uid": "356e549b-c476-48c3-a28b-46c8bb3ef310",
+    "claim": "The group Leonidas L. Polk led was the organized agrarian economic movement among American farmers. It was supported by the weekly left-wing political newspaper, that was published by Julius Wayland.",
+    "supporting_facts": [
+      [
+        "Appeal to Reason (newspaper)",
+        0
+      ],
+      [
+        "Farmers' Alliance",
+        0
+      ],
+      [
+        "Julius Wayland",
+        1
+      ],
+      [
+        "Leonidas L. Polk",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5ae290015542994d89d5b427"
+  },
+  {
+    "uid": "c75cb273-e40c-4898-bd61-6db8f43d151e",
+    "claim": "Farmers' Alliance was the organized agrarian economic movement among American farmers that was supported by the weekly left-wing political newspaper, Appeal to Reason.",
+    "supporting_facts": [
+      [
+        "Appeal to Reason (newspaper)",
+        0
+      ],
+      [
+        "Farmers' Alliance",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ae290015542994d89d5b427"
+  },
+  {
+    "uid": "15c390f1-abf8-4bad-a5ff-e0434d5de09b",
+    "claim": "Farmers' Alliance was the organized agrarian economic movement among Christian farmers. It was supported by the weekly left-wing political newspaper, that was published by Julius Wayland.",
+    "supporting_facts": [
+      [
+        "Appeal to Reason (newspaper)",
+        0
+      ],
+      [
+        "Farmers' Alliance",
+        0
+      ],
+      [
+        "Julius Wayland",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ae290015542994d89d5b427"
+  },
+  {
+    "uid": "d0b1ebcb-d0bb-49fd-a54e-3b3efe06bbdc",
+    "claim": "The group Leonidas L. Polk led was the organized agrarian economic movement among 19th century American farmers. It was supported by the weekly left-wing political newspaper, that was published by Julius Wayland.",
+    "supporting_facts": [
+      [
+        "Appeal to Reason (newspaper)",
+        0
+      ],
+      [
+        "Farmers' Alliance",
+        0
+      ],
+      [
+        "Julius Wayland",
+        1
+      ],
+      [
+        "Leonidas L. Polk",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5ae290015542994d89d5b427"
+  },
+  {
+    "uid": "3c971429-71b3-4ba6-b810-b6b8596c1420",
+    "claim": "Dusty Dvoracek was the former nose tackle that announced ESPN College Football Friday Primetime in 2017.",
+    "supporting_facts": [
+      [
+        "ESPN College Football Friday Primetime",
+        3
+      ],
+      [
+        "Dusty Dvoracek",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a809b575542996402f6a59c"
+  },
+  {
+    "uid": "58768e56-fea0-449b-a5c3-338e367656fb",
+    "claim": "The football team that Aaron Galindo is currently a part of was founded in 1928 in New York state.",
+    "supporting_facts": [
+      [
+        "Aar\u00f3n Galindo",
+        0
+      ],
+      [
+        "CD Toledo",
+        0
+      ],
+      [
+        "CD Toledo",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a7a791f55429941d65f2669"
+  },
+  {
+    "uid": "47c7db66-e8fb-4a4a-9050-1565a5279459",
+    "claim": "The football team that Aaron Galindo is currently a part of was founded in 1928.",
+    "supporting_facts": [
+      [
+        "Aar\u00f3n Galindo",
+        0
+      ],
+      [
+        "CD Toledo",
+        0
+      ],
+      [
+        "CD Toledo",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a7a791f55429941d65f2669"
+  },
+  {
+    "uid": "27ddbf4c-e30c-445a-a52c-7090b1d76f6b",
+    "claim": "The Guardians of the Galaxy, are a fictional spacefaring superhero team, appearing in American comic books published by Marvel Comics. Until it was discontinued due to low sales in 1983, it had an an initial roster, including fictional superhero, Groot, who first appeared in \"Tales to Astonish\" #13 (November 1960).",
+    "supporting_facts": [
+      [
+        "Guardians of the Galaxy (2008 team)",
+        1
+      ],
+      [
+        "Groot",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ab93881554299131ca422cc"
+  },
+  {
+    "uid": "11436842-ce10-456b-bc31-2a0c8698dea8",
+    "claim": "The Guardians of the Galaxy, are a fictional spacefaring superhero team, appearing in American comic books published by Marvel Comics.  It has an an initial roster, including fictional superhero, Groot, who first appeared in \"Tales to Astonish\" #13 (November 1960).",
+    "supporting_facts": [
+      [
+        "Guardians of the Galaxy (2008 team)",
+        1
+      ],
+      [
+        "Groot",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ab93881554299131ca422cc"
+  },
+  {
+    "uid": "a3eb81b8-fc8e-4da6-b59f-b63b3910748a",
+    "claim": "Carlo Buccirosso had a role in a movie that premiered at Cannes Film Festival.",
+    "supporting_facts": [
+      [
+        "Carlo Buccirosso",
+        0
+      ],
+      [
+        "The Great Beauty",
+        0
+      ],
+      [
+        "The Great Beauty",
+        2
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a75b7475542992d0ec05feb"
+  },
+  {
+    "uid": "7bb2671b-d239-4c6d-8953-313fe84dc61b",
+    "claim": "The 2018 Texas gubernatorial election will take place on the same day as the United States Senate election in Texas.",
+    "supporting_facts": [
+      [
+        "Texas gubernatorial election, 2018",
+        0
+      ],
+      [
+        "United States Senate election in Texas, 2018",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a7663665542992d0ec060d3"
+  },
+  {
+    "uid": "fd49bd60-ab27-4e73-8f0c-a8b699a1ee52",
+    "claim": "Roissy Airport connects to Paris and cities in France as well as to Belgium.",
+    "supporting_facts": [
+      [
+        "A\u00e9roport Charles de Gaulle 2 TGV",
+        3
+      ],
+      [
+        "Charles de Gaulle Airport",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ab6b13b554299710c8d1f3f"
+  },
+  {
+    "uid": "b60b5a18-a515-4eb5-b634-068707cd946d",
+    "claim": "Roissy Airport connects to Paris and cities in Brooklyn Park as well as to Belgium.",
+    "supporting_facts": [
+      [
+        "A\u00e9roport Charles de Gaulle 2 TGV",
+        3
+      ],
+      [
+        "Charles de Gaulle Airport",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ab6b13b554299710c8d1f3f"
+  },
+  {
+    "uid": "4ef87712-81d9-4dee-8b97-d6a9bcc19289",
+    "claim": "A large distribution center is for a company with over 13,000 stores and PetSmart, a dog toy manufacturer.",
+    "supporting_facts": [
+      [
+        "Bethel, Berks County, Pennsylvania",
+        6
+      ],
+      [
+        "Dollar General",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a81bb6455429926c1cdad70"
+  },
+  {
+    "uid": "60ed569b-cf08-460f-b560-d3f987d0d955",
+    "claim": "A large distribution center is for a company with over 13,000 stores and PetSmart.",
+    "supporting_facts": [
+      [
+        "Bethel, Berks County, Pennsylvania",
+        6
+      ],
+      [
+        "Dollar General",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a81bb6455429926c1cdad70"
+  },
+  {
+    "uid": "ad1e8c48-9fa5-4ba7-9d88-0134f371a01c",
+    "claim": "The Tennessee Governor's Mansion was built as a private home in 1929. Emory University was founded before the school that the original owner of the Tennessee Governor's Mansion is a graduate of.",
+    "supporting_facts": [
+      [
+        "Vanderbilt University",
+        1
+      ],
+      [
+        "Emory University",
+        1
+      ],
+      [
+        "Emory University",
+        2
+      ],
+      [
+        "William Ridley Wills",
+        0
+      ],
+      [
+        "Tennessee Governor's Mansion",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5ab32fc355429969a97a80fa"
+  },
+  {
+    "uid": "86d3d442-5127-414f-a370-1c20f2f6add8",
+    "claim": "Liberal Arts school Emory University was founded before the school that William Ridley Wills is a graduate of.",
+    "supporting_facts": [
+      [
+        "Vanderbilt University",
+        1
+      ],
+      [
+        "Emory University",
+        1
+      ],
+      [
+        "Emory University",
+        2
+      ],
+      [
+        "William Ridley Wills",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ab32fc355429969a97a80fa"
+  },
+  {
+    "uid": "0a861ddf-5b7d-4b79-b998-8ffe5634fc3a",
+    "claim": "Emory University was founded before Vanderbilt University.",
+    "supporting_facts": [
+      [
+        "Vanderbilt University",
+        1
+      ],
+      [
+        "Emory University",
+        1
+      ],
+      [
+        "Emory University",
+        2
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ab32fc355429969a97a80fa"
+  },
+  {
+    "uid": "dcf75a08-db9f-462c-8554-36ed6db53f22",
+    "claim": "Emory University was founded before the school that William Ridley Wills is a graduate of.",
+    "supporting_facts": [
+      [
+        "Vanderbilt University",
+        1
+      ],
+      [
+        "Emory University",
+        1
+      ],
+      [
+        "Emory University",
+        2
+      ],
+      [
+        "William Ridley Wills",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ab32fc355429969a97a80fa"
+  },
+  {
+    "uid": "9ee34768-a022-4354-b271-4f47370d4e1a",
+    "claim": "The Tennessee Governor's Mansion was built as a private home in 1929. Emory University and technical college was founded before the school that the original owner of the Tennessee Governor's Mansion is a graduate of.",
+    "supporting_facts": [
+      [
+        "Vanderbilt University",
+        1
+      ],
+      [
+        "Emory University",
+        1
+      ],
+      [
+        "Emory University",
+        2
+      ],
+      [
+        "William Ridley Wills",
+        0
+      ],
+      [
+        "Tennessee Governor's Mansion",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5ab32fc355429969a97a80fa"
+  },
+  {
+    "uid": "3acf9356-6527-46d3-9ec8-6892937ed38c",
+    "claim": "Emory University was founded before the school that William Ridley Wills attended.",
+    "supporting_facts": [
+      [
+        "Vanderbilt University",
+        1
+      ],
+      [
+        "Emory University",
+        1
+      ],
+      [
+        "Emory University",
+        2
+      ],
+      [
+        "William Ridley Wills",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ab32fc355429969a97a80fa"
+  },
+  {
+    "uid": "8745fed7-eb1b-46e3-b4a2-743dd3bc4792",
+    "claim": "He was born in a city whose population at the 2010 census was 7,585. His father was Representative Thomas J. Henley.",
+    "supporting_facts": [
+      [
+        "Barclay Henley",
+        1
+      ],
+      [
+        "Charlestown, Indiana",
+        0
+      ],
+      [
+        "Charlestown, Indiana",
+        1
+      ],
+      [
+        "Thomas J. Henley",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ac38c75554299741d48a28a"
+  },
+  {
+    "uid": "f90f5e6d-8fef-4fd4-a479-e66efa202e3f",
+    "claim": "Barclay Henley was born in a city whose population at the 2010 census was 7,585.",
+    "supporting_facts": [
+      [
+        "Barclay Henley",
+        1
+      ],
+      [
+        "Charlestown, Indiana",
+        0
+      ],
+      [
+        "Charlestown, Indiana",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5ac38c75554299741d48a28a"
+  },
+  {
+    "uid": "17bed1d7-3272-485a-ad3b-9e27b42436c2",
+    "claim": "He was born in a city whose population at the 2010 census was in the 7500s. His father was Representative Thomas J. Henley.",
+    "supporting_facts": [
+      [
+        "Barclay Henley",
+        1
+      ],
+      [
+        "Charlestown, Indiana",
+        0
+      ],
+      [
+        "Charlestown, Indiana",
+        1
+      ],
+      [
+        "Thomas J. Henley",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ac38c75554299741d48a28a"
+  },
+  {
+    "uid": "b9267928-a59d-4777-9d1a-8ba9b17ecaba",
+    "claim": "Composer Franz Schreker was also a teacher but the composer, who American Violinist Tim Fain is best known for working with,  was not",
+    "supporting_facts": [
+      [
+        "Philip Glass",
+        0
+      ],
+      [
+        "Franz Schreker",
+        0
+      ],
+      [
+        "Tim Fain",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a7933b255429907847277eb"
+  },
+  {
+    "uid": "f5764bf3-b521-4808-9f0c-59068b85da56",
+    "claim": "Composer Franz Schreker was also a teacher but the composer, who American Tim Fain is best known for working with, was not.",
+    "supporting_facts": [
+      [
+        "Philip Glass",
+        0
+      ],
+      [
+        "Franz Schreker",
+        0
+      ],
+      [
+        "Tim Fain",
+        0
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a7933b255429907847277eb"
+  },
+  {
+    "uid": "f174f153-c127-4903-8ff3-e3d42aabe02c",
+    "claim": "Composer Franz Schreker was also a high school teacher but the composer, who American Violinist Tim Fain is best known for working with, was not.",
+    "supporting_facts": [
+      [
+        "Philip Glass",
+        0
+      ],
+      [
+        "Franz Schreker",
+        0
+      ],
+      [
+        "Tim Fain",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a7933b255429907847277eb"
+  },
+  {
+    "uid": "6e2a9976-9f37-44d8-adfc-08ccdbd34f49",
+    "claim": "Composer Franz Schreker was also a teacher but the composer, who Slovenian Violinist Tim Fain is best known for working with,  was not",
+    "supporting_facts": [
+      [
+        "Philip Glass",
+        0
+      ],
+      [
+        "Franz Schreker",
+        0
+      ],
+      [
+        "Tim Fain",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a7933b255429907847277eb"
+  },
+  {
+    "uid": "e910f807-4bca-44ff-bf5f-69175a6dbe07",
+    "claim": "The man that composed the opera Irrelohe was also a teacher. The composer, who American Violinist and singer Tim Fain is best known for working with, was not.",
+    "supporting_facts": [
+      [
+        "Philip Glass",
+        0
+      ],
+      [
+        "Franz Schreker",
+        0
+      ],
+      [
+        "Tim Fain",
+        0
+      ],
+      [
+        "Irrelohe",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5a7933b255429907847277eb"
+  }
+]

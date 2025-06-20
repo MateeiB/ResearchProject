@@ -1,0 +1,8 @@
+[
+  {
+    "claim": "\"The non-partisan Congressional Budget Office concluded ObamaCare will cost the U.S. more than 800,000 jobs.\"",
+    "taxonomy_label": "statistical",
+    "generated_label": "False",
+    "justification": "False. The evidence provided by the article states that while the health care law may affect the incentives for workers to work more or less, it is not accurate to claim that the number of jobs will be reduced by 800,000. The CBO has estimated that this number is an extrapolation and may not be precise. In its report, the CBO estimates that the amount of labor used in the economy will reduce by half a percent due to changes in incentives for work and job opportunities created through the law. This reduction is expected to affect a small segment of the workforce, about half a percent, which represents a small percentage of jobs in the United States. The number 800,000 was not mentioned in the CBO report and should be taken with caution when considering the impact of the health care law on employment."
+  }
+]

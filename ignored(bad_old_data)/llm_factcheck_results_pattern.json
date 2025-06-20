@@ -1,0 +1,9 @@
+[
+  {
+    "claim": "\"The non-partisan Congressional Budget Office concluded ObamaCare will cost the U.S. more than 800,000 jobs.\"",
+    "taxonomy_label": "statistical",
+    "generated_label": "False",
+    "justification": "Label: False\n\nJustification: The claim that the non-partisan Congressional Budget Office concluded ObamaCare will cost the U.S. more than 800,000 jobs is misleading. The CBO report does not support this statement. While the CBO did project that the health care law would reduce the amount of labor used in the economy by a small amount, primarily by reducing the amount of labor that workers choose to supply, this does not translate to an actual loss of 800,000 jobs. The CBO also noted that the law could actually help economic productivity and that many of the effects of the legislation may not be felt for several years.\n\nThe article provides evidence from the CBO report that contradicts the claim. The CBO did not use the 800,000 jobs number in its report, and then-CBO director Douglas Elmendorf confirmed that number in his February 2011 testimony. However, the CBO also noted that the impact of the law on employment was open to misinterpretation and that it was not clear whether such changes would have a substantial impact on overall economic productivity or output.\n\nTherefore, based solely on the evidence provided in the article, the claim is False.",
+    "original_label": "Conflicting"
+  }
+]

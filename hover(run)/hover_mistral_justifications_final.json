@@ -1,0 +1,1052 @@
+[
+  {
+    "claim": "Skagen Painter Peder Severin Kr\u00f8yer favored naturalism along with Theodor Esbern Philipsen and the artist Ossian Elgstr\u00f6m studied with in the early 1900s.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence shows that Peder Severin Kr\u00f8yer was part of the Danish artistic generation that broke away from traditional Academicism and the heritage of the Golden Age of Danish Painting, in favor of naturalism and realism, along with Theodor Esbern Philipsen. It also mentions that Kristian Zahrtmann was one of the best known and beloved among the Skagen Painters, a community which Kr\u00f8yer was a part of. Although not explicitly stated, it can be inferred that Kr\u00f8yer likely studied with or was influenced by artists such as Kristian Zahrtmann, given their shared movement towards naturalism. However, no direct connection is made between Ossian Elgstr\u00f6m and the favoring of naturalism by Kr\u00f8yer, Philipsen, and the Skagen Painters.\n\n   2. Label: NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "Skagen Painter Peder Severin Kr\u00f8yer favored naturalism along with Theodor Esbern Philipsen and the artist Ossian Elgstr\u00f6m studied with in 1907.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence indicates that Peder Severin Kr\u00f8yer, Theodor Esbern Philipsen, and Kristian Zahrtmann were part of the same generation and favored naturalism and realism, breaking away from traditional Academicism and the heritage of the Golden Age of Danish Painting. While it is not explicitly stated that Elgstr\u00f6m studied with Peder Severin Kr\u00f8yer, he did study with Kristian Zahrtmann in 1907, who was a fellow artist favoring naturalism as per the claim. Therefore, it can be inferred that Elgstr\u00f6m, by studying under Zahrtmann, may have been exposed to and learned from the naturalist style Kr\u00f8yer and Philipsen favored.\n\n2. Label: SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "Skagen Painter Peder Severin Kr\u00f8yer favored naturalism along with Theodor Esbern Philipsen and the muralist Ossian Elgstr\u00f6m studied with in 1907.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: Peder Severin Kr\u00f8yer was a part of the same artistic generation as Kristian Zahrtmann and Theodor Esbern Philipsen, who favored naturalism and realism instead of traditional Academicism. While the evidence does not directly state that Kr\u00f8yer studied with Ossian Elgstr\u00f6m, it does mention that Elgstr\u00f6m did study with another artist from this generation, Kristian Zahrtmann, in 1907, the same year mentioned for Kr\u00f8yer's association with this group. Although there is no specific proof of a studio relationship between Kr\u00f8yer and Elgstr\u00f6m, they were part of the same artistic community and studied with the same teacher during that year, suggesting a shared approach to art, including a preference for naturalism.\n\n2. Label: SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "Skagen Painter, who painted the 1893 painting Roses, favored naturalism. Theodor Esbern Philipsen and the artist that Ossian Elgstr\u00f6m studied with in December of 1907 also favored naturalism.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "Justification: The evidence describes Kristian Zahrtmann as a painter who was part of the Skagen Painters community in Denmark during the late 19th century. This group is identified as favoring naturalism and realism, which aligns with Theodor Esbern Philipsen's preference for naturalism mentioned in the claim. Moreover, Ossian Elgstr\u00f6m studied with Kristian Zahrtmann, who himself favored naturalism. Therefore, it seems reasonable to infer that if Kristian Zahrtmann supported naturalism, Elgstr\u00f6m might have been influenced by this teaching and also favored naturalism.\n\n   Label: SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "Skagen Painter Peder Severin Kr\u00f8yer favored naturalism along with Norderhov and the artist Ossian Elgstr\u00f6m studied with in 1907.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that Peder Severin Kr\u00f8yer was part of the artistic generation that broke away from traditional Academicism and the heritage of the Golden Age of Danish Painting, favoring naturalism and realism. It also mentions that Kristian Zahrtmann, who taught Elgstr\u00f6m in 1907, was one of the best known and beloved Skagen painters, and a proponent of naturalism. As Ossian Elgstr\u00f6m studied with Kr\u00f8yer's fellow naturalist Kristian Zahrtmann, it is reasonable to infer that Elgstr\u00f6m also learned from or was influenced by a teacher who favored naturalism, which may extend to Peder Severin Kr\u00f8yer as well since they were part of the same artistic movement.\n\n2. Label: SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "Skagen Painter and  artist Peder Severin Kr\u00f8yer favored naturalism. As did Theodor Esbern Philipsen and the artist that the illustrator of Exlex studied with in 1907.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that Peder Severin Kr\u00f8yer, Theodor Esbern Philipsen, and Kristian Zahrtmann were part of a generation that favored naturalism and realism, moving away from traditional Academicism and the Golden Age's artistic heritage. It also mentions that Elgstr\u00f6m studied with Kristian Zahrtmann in 1907, who was one of these artists who embraced naturalism. Therefore, it can be inferred that Elgstr\u00f6m's teacher, Kr\u00f8yer, and Philipsen, being part of the same artistic generation, likely also favored naturalism.\n\n2. Label: SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "Skagen Painter, who painted the 1893 painting Roses, favored naturalism. Theodor Esbern Philipsen and the artist that Ossian Elgstr\u00f6m studied with in 1907 also favored naturalism.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that Kristian Zahrtmann, a prominent figure among the Skagen Painters, was known for favoring naturalism and realism. The artist who Ossian Elgstr\u00f6m studied with in 1907, Kristian Zahrtmann, also favored naturalism. Furthermore, other painters associated with the Skagen group such as Theodor Esbern Philipsen were also known to favor naturalism. Therefore, it can be inferred that the Skagen Painter who painted Roses in 1893 (which is not explicitly named in the evidence but can be assumed to be a part of this group due to their shared style and time period) likely favored naturalism as well, since they were part of the same artistic movement.\n\n2. Label: SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "Skagen Painter Peder Severin Kr\u00f8yer favored naturalism along with Theodor Esbern Philipsen and Kristian Zahrtmann.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that Kristian Zahrtmann, Theodor Esbern Philipsen, and Peder Severin Kr\u00f8yer broke away from traditional Academicism and the heritage of the Golden Age of Danish Painting in favor of naturalism and realism. This suggests that all three artists shared a preference for naturalism, which supports the claim that Kr\u00f8yer favored naturalism along with Theodor Esbern Philipsen and Kristian Zahrtmann.\n\n2. Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "Skagen Painter Peder Severin Kr\u00f8yer favored naturalism. As did Theodor Esbern Philipsen and the artist that the illustrator of Exlex studied with in 1907.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that Peder Severin Kr\u00f8yer, Theodor Esbern Philipsen, and Kristian Zahrtmann (the artist Elgstr\u00f6m studied with in 1907) all broke away from traditional Academicism and the heritage of the Golden Age of Danish Painting, favoring naturalism and realism instead. This suggests that these artists favored a more realistic style, which aligns with the notion of naturalism.\n\n2. Label: SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "Red, White & Cr\u00fce and this athlete both fight. The french fighter was trained by Bobby Stewart.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "Justification: The given evidence does not provide any information about an athlete who fights like Red, White & Cr\u00fce. The evidence mentions Mike Tyson, a boxer who is known to have had Bobby Stewart as his first trainer. However, it does not connect this athlete with Red, White & Cr\u00fce or the claim that they fight.\n\n   Label: NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "Red, White & Cr\u00fce and Mike Tyson both died.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "Justification: The evidence does not provide any information about the death of either Red, White & Cr\u00fce or Mike Tyson. It only discusses Nikki Sixx's comparison of their band's reunion to a Mike Tyson fight and details about Tyson's boxing career. Therefore, the claim \"Red, White & Cr\u00fce and Mike Tyson both died\" is NOT_SUPPORTED by the provided evidence.\n\n   Label: NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "Red, White & Cr\u00fce and Mike Tyson both fight.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence provided does not mention any fighting or a connection between Red, White & Cr\u00fce and Mike Tyson in terms of fighting. It only discusses Nikki Sixx comparing the band's reunion to seeing Mike Tyson fight and details about Mike Tyson's professional boxing record.\n\n  2. Label: NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "Red, White & Cr\u00fce and this athlete both fight. The fighter was trained by Bobby Stewart.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence mentions that Bobby Stewart was Mike Tyson's first trainer and that Tyson won his fights by knockout, but it does not provide any information about Red, White & Cr\u00fce or the athlete mentioned in the claim, nor does it connect them with Bobby Stewart as their trainer. Therefore, we cannot confirm that Red, White & Cr\u00fce and this athlete both fight, let alone that they were trained by Bobby Stewart.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "WWE Super Tuesday took place at an arena that currently goes by the name TD Garden.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "Justification: The evidence states that Super Tuesday took place at the FleetCenter in Boston, Massachusetts on November 12, 2002. However, it does not specify whether this venue was known as TD Garden during the time of the event. The venue has been named Shawmut Center, FleetCenter, and TD Banknorth Garden, but there is no mention of it being called TD Garden during the specific date when Super Tuesday took place.\n\n   Label: NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "Kait Parker fills in occasionally for the meteorologist who replaced Ginger Zee.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that Kait Parker works for weather.com and The Weather Channel app, and fills in occasionally for meteorologist Rob Marciano on weekends on \"Good Morning America.\" Marciano is the one currently providing forecasts for the weekend editions of \"GMA\" which were vacated by Ginger Zee when she was chosen to succeed Champion on the daily editions of \"GMA.\" Since Kait Parker fills in for the meteorologist on a program that was previously held by Ginger Zee, it can be inferred that Kait Parker occasionally fills in for the meteorologist who replaced Ginger Zee.\n\n   2. Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "An IndyCar race driver drove a Formula 1 car designed by Peter McCool during the 2007 Formula One season.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence provided does not mention any IndyCar driver driving a Formula 1 car designed by Peter McCool during the 2007 Formula One season. It only discusses Takuma Sato racing full-time in the IndyCar Series since 2010 and mentions that the Super Aguri F1 SA07 was the team's car for the 2007 Formula One season. The evidence does not provide any information about drivers driving a Peter McCool-designed Formula 1 car during that season.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "Mark O'Connor is an Amercian bluegrass singer who performed the song Restless with The New Nashville Cats.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "Justification: The evidence states that Mark O'Connor was part of the all-star recording of the song \"Restless\" with The New Nashville Cats in 1991. It also mentions that O'Connor is an American bluegrass, jazz and country violinist, fiddler, composer, and music teacher. However, it does not explicitly state that he is a singer. Nevertheless, as a multi-instrumentalist, it is plausible for him to perform vocals in addition to playing the violin or fiddle.\n\n   Label: SUPPORTED (with a caveat about his singing ability)",
+    "num_hops": 2
+  },
+  {
+    "claim": "Gina Bramhill was born in a village. The 2011 population of the area that includes this village was 167,446.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that Eastoft is a village and that the population of the Unitary Authority (which encompasses Eastoft) was 167,446 in 2011. Since Gina Bramhill is a British actress and it's not specified that she was born outside Eastoft or another location within this Unitary Authority, it can be inferred that she was potentially born in the village of Eastoft as it is known to be part of this population.\n\n2. Label: SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "Gina Bramhill was born in an Italian village. The 2011 population of the unitary authority area that includes this village was 167,446.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The claim that \"Gina Bramhill was born in an Italian village\" contradicts the information given in the evidence that Eastoft is a village located in North Lincolnshire, England. Therefore, the evidence does not support the claim that Gina Bramhill was born in an Italian village.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "The 2011 population of the unitary authority area that includes the village Eastoft was 167,446.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "Justification: The evidence states that the population of the Unitary Authority at the 2011 census was 167,446. Since Eastoft is located within this Unitary Authority area, it follows logically that the total population given for the Unitary Authority includes the population of Eastoft as well.\n\n   Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "Gina Bramhill was born in a village. The 2011 population of the unitary authority area that includes this village was 167,446.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: Gina Bramhill is a British actress and Eastoft is a village in North Lincolnshire. If we assume that Gina Bramhill is from the village of Eastoft, then it makes sense that she was born in a village (since she is from a village). The evidence also states that the population of the Unitary Authority area, which includes Eastoft, was 167,446 at the 2011 census. However, since we don't have specific information about Gina Bramhill's birthplace within this Unitary Authority area or proof that she is indeed from Eastoft, we cannot definitively say where she was born based on the given evidence.\n\n   2. Label: NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "Love Drunk was the lead single from Boys Like Girls album on which frontman, Martin Johnson co-wrote a song with Taylor Swift.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that \"Love Drunk\" was co-written by Martin Johnson and Taylor Swift, making it clear that they collaborated on the composition of this song. Additionally, the evidence mentions that \"Two Is Better Than One\" (featuring Taylor Swift) is also from the same album as \"Love Drunk\", which implies that Taylor Swift was involved in another track on that album. Therefore, it seems reasonable to conclude that Martin Johnson and Taylor Swift indeed co-wrote a song for Boys Like Girls' album, as stated in the claim.\n\n2. Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "Beatrice Willard served as an economics advisor to President Richard Milhous Nixon, a former Senator from California.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence states that Beatrice Willard served as an advisor to President Nixon, but it does not specify in what capacity she advised him. However, the fact that she served on the Council on Environmental Quality (CEQ) implies that her advice was likely related to environmental issues, rather than economics. The evidence does not mention any specific role she played as an economic advisor to Nixon or Ford.\n\n  2. Label: NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "Beatrice Willard served as an advisor to President Richard Milhous Nixon, a former Senator from California.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence passage mentions that Beatrice Willard served as an adviser to President Nixon while he was on the Council on Environmental Quality (CEQ). However, it does not specify which capacity or in what specific role she served him during his presidency. Nevertheless, since a position on the CEQ is generally associated with advising the president on environmental matters, it can be inferred that Beatrice Willard likely advised President Nixon on environmental issues. The evidence also provides context about Richard Milhous Nixon being the 37th President of the United States and his previous roles as Vice President and Senator from California, which establishes his identity as the person referenced in the claim.\n\n2. Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "Beatrice Willard served as an aide to President Richard Milhous Nixon, a former Senator from California.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that Beatrice Willard served as an adviser to President Nixon on the Council on Environmental Quality (CEQ), which is indeed a role that can be considered as serving as an aide. However, it does not explicitly mention if she served in this capacity while he was a Senator from California or during his presidency. Nevertheless, the fact remains that she did serve as an adviser to President Nixon.\n\n  2. Label: SUPPORTED (with a caveat)",
+    "num_hops": 2
+  },
+  {
+    "claim": "The MV Bessel ran aground at the second largest island in the Mediterranean in 1972.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that the ship, Bessel, ran aground at Portoscuso, Sardinia in 1972. Sardinia is the second largest island in the Mediterranean Sea (after Sicily and before Cyprus). Therefore, the claim that \"The MV Bessel ran aground at the second largest island in the Mediterranean in 1972\" is supported by the evidence.\n\n2. Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "The MV Bessel ran aground at the second largest island in the Mediterranean in summer of 1972.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that the ship named Bessel ran aground at Portoscuso, Sardinia in 1972. Sardinia is indeed the second largest island in the Mediterranean Sea (after Sicily and before Cyprus). Therefore, based on the information provided, it can be inferred that the MV Bessel did run aground at an island in the Mediterranean during summer of 1972, which aligns with the claim.\n\n2. Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "The American film, television and theater actress who was a star in the film the Matchmaker and also received the 40th AFI Life Achievement Award was born April 24, 1934.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence mentions that Shirley MacLaine was born on April 24, 1934, which matches with the birthdate given in the claim. The evidence also states that Shirley MacLaine starred in the film \"The Matchmaker\" and received the 40th AFI Life Achievement Award, both of which are mentioned in the claim. Therefore, the evidence supports the claim.\n\n2. Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "JSOC was created on the recommendation of a colonel who served in the Malayan Emergency and Vietnam War.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that JSOC was established on the recommendation of Colonel Charlie Beckwith, who indeed served in both the Malayan Emergency and the Vietnam War, and attained the rank of colonel. Therefore, it is reasonable to infer that the colonel who recommended the creation of JSOC was the same individual who served in those conflicts.\n\n2. Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "The American cable and satellite television channel that April \"Ape\" Margera appears upon is owned by Viacom Media Networks.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that April \"Ape\" Margera appears on MTV, which is owned by Viacom Media Networks. This means that the channel April Margera appears upon is part of Viacom Media Networks. Therefore, the claim that the American cable and satellite television channel that April \"Ape\" Margera appears upon is owned by Viacom Media Networks is SUPPORTED by the evidence.\n\n2. Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "Substorm was described in qualitative terms by a scientist nominated for Nobel Prize seven times.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that \"Substorms were first described in qualitative terms by Kristian Birkeland.\" This is consistent with the claim as Birkeland was the one who provided the initial, qualitative description of the phenomenon. Furthermore, it is also mentioned that Birkeland was nominated for the Nobel Prize seven times, which supports the claim that he was a scientist of significant repute.\n\n2. Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "\"HMS \"Sussex\" was an 80-gun third-rate ship, of the line of the English Royal Navy, for the Kingdom of England on the island of Great Britain from the 10th century\u2014when it emerged from various Anglo-Saxon kingdoms\u2014until 1707, when it united with Scotland to form the Kingdom of Great Britain.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence states that \"The Kingdom of England was a sovereign state on the island of Great Britain from the 10th century\u2014when it emerged from various Anglo-Saxon kingdoms\u2014until 1707, when it united with Scotland to form the Kingdom of Great Britain.\" This directly supports the claim that the Kingdom of England existed during the specified time frame. The evidence does not provide any information about the specific ship \"HMS Sussex\" or its characteristics like being an 80-gun third-rate ship. Therefore, the evidence does not support the specific details about the ship.\n\n2. Label: NOT_SUPPORTED for the specific details about HMS \"Sussex\". SUPPORTED for the existence of the Kingdom of England during the mentioned time period.",
+    "num_hops": 2
+  },
+  {
+    "claim": "\"HMS \"Sussex\" was an 80-gun third-rate ship, of the line of the English Royal Navy, for the Kingdom of England on the island of Great Britain from the 10th century\u2014when it emerged from 16 Anglo-Saxon kingdoms\u2014until 1707, when it united with Scotland to form the Kingdom of Great Britain.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The given claim states that HMS \"Sussex\" was an 80-gun third-rate ship from the Kingdom of England in the 10th century and beyond, until the unification with Scotland in 1707. However, the provided evidence does not discuss or mention the specifics about the ship itself (i.e., its type, size, or date). The evidence only confirms that the Kingdom of England existed from the 10th century to 1707, and it was located on the island of Great Britain. As for the gold coins being aboard the ship, this information is independent of the claim regarding the HMS \"Sussex.\"\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "The man known as the voice of \"Elgar\" voices the English character in the Manga Love Hina inspired by Keitaro Arima.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence presents the names of the voice actors for Keitaro Urashima, the protagonist from Love Hina, but it does not mention any other characters or works by the voice actor Derek Stephen Prince, such as \"Elgar\" or an English character in a Manga inspired by Keitaro Arima. The information provided does not support the claim that Derek Stephen Prince voices the English character in a Manga Love Hina inspired by Keitaro Arima, or any other English character associated with Elgar.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "The area renamed Northland in Stone Spring, an area that once connected Great Britain to continental the Grand Canyon, is thought to have been submerged around 6,200 BCE by a massive landslide along 290 km of the continental shelf.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence describes a land area named Doggerland, which connected Great Britain to continental Europe during the last glacial period and was submerged gradually due to rising sea levels and possibly a tsunami caused by the Storegga Slide. Although the specific location referred to in the claim as \"Northland in Stone Spring\" is not explicitly mentioned in the evidence, it can be inferred that \"Northland,\" as used in the novel, is likely based on Doggerland. Therefore, since Doggerland was submerged by a tsunami caused by the Storegga Slide and this event occurred before 6,200 BCE (as indicated by the mention of the Mesolithic period), it is plausible that the area referred to as Northland in Stone Spring was also submerged around the same time. However, it should be noted that the evidence does not provide direct confirmation for the exact date or cause of the submergence of \"Northland in Stone Spring.\"\n\n2. Label: SUPPORTED (with caveats regarding the exact date and cause)",
+    "num_hops": 3
+  },
+  {
+    "claim": "Doggerland, an area that once connected Great Britain to continental Europe, is thought to have been submerged around 6,200 BCE by a massive landslide along 290 km of the continental shelf.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that Doggerland was connected to continental Europe during and after the last glacial period, but it does not explicitly say when it was submerged. However, it mentions the Storegga Slide, a series of massive landslides estimated at 290 km in length, which caused a tsunami that could have led to Doggerland's final submergence. Therefore, while the exact timing isn't provided, the evidence suggests that a large landslide similar to the Storegga Slide could have been responsible for the submergence of Doggerland around the time it occurred (estimated to be 6,200 BCE).\n\n   2. Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "The area renamed Northland in Stone Spring, an area that once connected Great Britain to continental Europe, is thought to have been submerged centuries ago by a massive landslide along 290 km of the continental shelf.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence states that an area named Doggerland, which connected Great Britain to continental Europe, was submerged following a massive landslide caused by the Storegga Slide. This area is later referred to as \"Northland\" in a novel, suggesting it might have been submerged centuries ago. The evidence does not specify that this exact location (the area renamed Northland in Stone Spring) was submerged by the Storegga Slide, but it does provide context that similar events can lead to the submersion of landmasses connecting Great Britain to continental Europe.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "The area renamed Northland in Stone Spring, an geographical region that once connected Great Britain to continental Europe, is thought to have been submerged around 6,200 BCE by a massive landslide along 290 km of the continental shelf.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence passage describes Doggerland, an area that connected Great Britain to continental Europe during and after the last glacial period. It states that this land was gradually reduced to low-lying islands due to rising sea levels, and eventually submerged possibly following a tsunami caused by the Storegga Slide. The passage also mentions that the three Storegga Slides are considered to be amongst the largest known landslides, with one involving an estimated 290 km length of coastal shelf. Therefore, it is reasonable to conclude that the area named Northland in Stone Spring, which is set in prehistoric Doggerland, was submerged by a massive landslide along 290 km of the continental shelf, as suggested in the claim.\n\n2. Label: SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "Doggerland, an area that once connected Jutland to continental Europe, is thought to have been submerged around 6,200 BCE by a massive landslide along 290 km of the continental shelf.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence describes Doggerland as an area that connected Great Britain to continental Europe during and after the last glacial period, but it was submerged by rising sea levels and possibly a tsunami caused by the Storegga Slide. It also states that the Storegga Slides are considered among the largest known landslides with an estimated 290 km length of coastal shelf involved in one slide, which could have caused a large tsunami. The timeframe provided for the final submergence is not explicitly stated as 6,200 BCE, but the Storegga Slide is said to be responsible for the final submergence, and it is known that this event occurred around that time.\n\n  2. Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "The area renamed Northland in Stone Spring, an area that once connected Great Britain to continental Europe, is thought to have been submerged around 6,200 BCE by a massive landslide along 290 km of the continental shelf.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that Doggerland, which was an area connecting Great Britain to continental Europe and is referred to as \"Northland\" in the novel, was submerged possibly following a tsunami caused by a massive landslide. While there's no direct date given for this event in the passage, it does mention that the area was gradually reduced to low-lying islands before its final submergence, which implies that this happened around or near the time of rising sea levels during the Mesolithic period (6,200 BCE is within the range of the Mesolithic era). The Storegga Slide, one of the largest known landslides, involved a 290 km length of coastal shelf, which corresponds to the area mentioned in the claim.\n\n2. Label: SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "Hermann Neubacher held a diplomatic post as an Albanian Nazi officer in the Albanian Kingdom, when it was under the control of the Kingdom of Italy.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence states that Hermann Neubacher held a significant position within the German foreign ministry for the Balkans, which included Albania, during World War II. However, it does not specify if he held any diplomatic post within the Albanian Kingdom while it was under Italian control. What the evidence does show is that the Albanian Kingdom existed as an independent country, but before its armistice with the Allied forces in 1943, it was de facto under the control of Italy. Since there is no explicit information about Neubacher's role within the Albanian Kingdom during this period of Italian control, his position as an \"Albanian Nazi officer\" cannot be definitively supported or refuted by the given evidence.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "Hermann Neubacher held a diplomatic passport as an Austrian Nazi politician in the Albanian Kingdom, when it was under the control of the Kingdom of Italy.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence states that during World War II, Hermann Neubacher held a leading position in the German foreign ministry for the Balkans, which included Albania. It also explains that although Albania was officially independent as a \"de jure\" country from 1943 to 1944, it was under de facto control of the Kingdom of Italy before the armistice between Italy and the Allied armed forces on 8 September 1943. However, there is no information in the evidence that confirms or denies whether Neubacher held a diplomatic passport while Albania was under Italian control.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "Hermann Neubacher held a diplomatic post as an Austrian Nazi politician in the Albanian Kingdom, when it was under the control of the Kingdom of Italy.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence states that Hermann Neubacher was appointed as the leading German foreign ministry official for the Balkans, which includes Albania. However, it does not specify whether he held a diplomatic post within the Albanian Kingdom specifically while it was under Italian control. Although Neubacher's role during this time is mentioned, the evidence does not provide information about his activities or position in relation to the Albanian Kingdom as an Austrian Nazi politician when it was under Italian control.\n\n  2. Label: NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "Don Ashley Turlington graduated from Saint Joseph's College, a private Catholic liberal arts college in Standish.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence provided mentions that Saint Joseph's College is located in Standish, Maine. However, it does not specify whether Don Ashley Turlington graduated from this college. Although the college provides both on-campus and online education, there is no mention of Turlington receiving a degree from the institution.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "The previous Vice President of Production at the animation studio that is owned and operated by Viacom, currently works for Cartoon Network Studios.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The provided evidence states that Brian A. Miller, the current Senior Vice President and General Manager of Cartoon Network Studios, has a history of working at various production studios including Nickelodeon Animation Studio, which is owned by Viacom (through Nickelodeon). However, it does not explicitly state that he was previously employed by Cartoon Network Studios. Therefore, the evidence does not directly support the claim that he currently works for Cartoon Network Studios.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "The British monarch (Elizabeth II) is the head of state of the territory where the Ibrahim-al-Ibrahim Mosque is located.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that the Ibrahim-al-Ibrahim Mosque is located in Gibraltar, which is a British overseas territory and shares the British monarch (Elizabeth II) as head of state. Therefore, by logical deduction, it can be inferred that Elizabeth II serves as the head of state for the location where the mosque is situated.\n\n2. Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "The British monarch (Elizabeth II) is the head of state of the territory where Keightley Way  connects Plaza Kotaraya at Little Bay to the place worship for Muslims and Nun's Well at Europa Point.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence passage clearly states that the Ibrahim-al-Ibrahim Mosque, located in Gibraltar (a British overseas territory), shares the same head of state with other regions in Gibraltar - Elizabeth II. It is also stated that this mosque connects Rosia Road at Little Bay to Nun's Well at Europa Point within Gibraltar. However, there is no mention or implication that Keightley Way specifically connects these locations as mentioned in the claim.\n\n  2. Label: NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "The British monarch (Elizabeth II) is the head of state of the territory where Keightley Way connects Rosia Road at Little Bay to the place worship for Muslims and Nun's Well at Europa Point in Turkey.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that the Ibrahim-al-Ibrahim Mosque, located in Gibraltar, shares the same British monarch (Elizabeth II) as its head of state. It also mentions that it connects to Rosia Road at Little Bay and Europa Point, which includes Nun's Well. Therefore, we can conclude that the claim is correct for the territory where the Ibrahim-al-Ibrahim Mosque is located.\n\n2. Label: SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "The British monarch (Elizabeth II) is the head of state of the territory where Keightley Way  connects Rosia Road at Little Bay to the place worship for Muslims and Nun's Well at Europa Point.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that both the Ibrahim-al-Ibrahim Mosque and Nun's Well are located in Gibraltar, a British overseas territory for which Elizabeth II serves as the head of state. Furthermore, the passage indicates that Keightley Way connects Rosia Road at Little Bay to the Ibrahim-al-Ibrahim Mosque and Nun's Well at Europa Point within this same territory. Therefore, it follows that Elizabeth II is indeed the head of state for the territory where Keightley Way connects Rosia Road, the mosque, and Nun's Well.\n\n2. Label: SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "The British monarch (Elizabeth II) is the head of state of the territory where Keightley Way  connects Rosia Road at Shusha to the place worship for Muslims and Nun's Well at Europa Point.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence states that the Ibrahim-al-Ibrahim Mosque, located at Europa Point in Gibraltar, shares the British monarch (Elizabeth II) as head of state. It is also stated that Keightley Way connects to Rosia Road, and then to the Ibrahim-al-Ibrahim Mosque, and finally to Nun's Well, all within Europa Point in Gibraltar. However, there is no mention or indication that Keightley Way connects to another location outside of Europa Point where Elizabeth II could be considered the head of state.\n\n   2. Label: NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "The British monarch (Elizabeth II) is the head of state of the territory where Keightley Way connects Rosia Road to the place worship for Muslims and Nun's Well at Europa Point.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that the Ibrahim-al-Ibrahim Mosque, located at Europa Point in Gibraltar, shares the same head of state (Elizabeth II) with Keightley Way, which connects Rosia Road to this mosque and Nun's Well at Europa Point. Therefore, based on the evidence, it can be concluded that the British monarch is the head of state for the territory where Keightley Way connects these locations.\n\n2. Label: SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "The British monarch (Elizabeth II) is the head of state of the territory where Keightley Way  connects Rosia Road at Little Bay to the place worship for British and Nun's Well at Europa Point.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence provided shows that Europa Point, which is home to the Ibrahim-al-Ibrahim Mosque, shares the same head of state as Gibraltar (Elizabeth II). However, it does not mention specifically whether Keightley Way connects Rosia Road at Little Bay to the place worship for British and Nun's Well at Europa Point. Therefore, the information about the connection between the roads and the specific places of worship is not directly supported by this evidence.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "The name of the Dreyse needle gun's succesor was also called Fusil Mle 1886 M93.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "Justification: The evidence states that the Lebel Model 1886 rifle, which succeeded the Dreyse needle gun, is known as the \"Fusil Mle 1886 M93\". However, it does not mention any direct successorship or renaming of this model to a Fusil Mle 1886 M93 for another firearm. Therefore, the claim that \"The name of the Dreyse needle gun's succesor was also called Fusil Mle 1886 M93\" is NOT_SUPPORTED by the evidence provided.\n\n   Label: NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "In the 1990's business executive Petrie Dierman Kughn built one of the three mills landmarks in California in 1994.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence states that the Great Mall of the Bay Area was built by Ford Motor Land Development and Petrie Dierman Kughn in 1994, which is a mill landmark in California. However, it does not specify if this mill was constructed as part of the three existing mill landmarks or if it later became one. The evidence also mentions that the ownership of these mills changed to Simon Property Group in April 2007. Therefore, while we know Petrie Dierman Kughn built a mill (the Great Mall) in California in 1994, it is not clear if this specific mill was one of the three existing ones at that time or became one later.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "In the 1990's Petrie Dierman Kughn built one of the three mills landmarks in California in 1994.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "Justification: The evidence states that the Great Mall of the Bay Area was built by Ford Motor Land Development and Petrie Dierman Kughn in 1994, which is a mill (or a shopping mall in this case) in California. However, it does not specify if this particular mill is one of three landmarks. It also mentions that the ownership of these three mills changed to Simon Property Group in April 2007, but there's no information about who owned them before that. Therefore, the claim cannot be confirmed or refuted based on the given evidence.\n\n   Label: NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "The composer of Longplayer was a banjo player in a band. The musician James McNally was in this band.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence states that Longplayer, the self-extending composition, was composed by Jem Finer. It also mentions that Jem Finer was one of the founding members of The Pogues. Since James McNally is not mentioned as the composer of Longplayer or as a member of the band in this context, there is no direct evidence to support the claim that he was the composer of Longplayer. However, Jem Finer and James McNally were both members of The Pogues, which is one of the bands mentioned in the evidence.\n\n  2. Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "The composer of Longplayer was a player in the band The Pogues.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that Longplayer was composed by Jem Finer and it was featured on an album by The Pogues (Peace and Love). Additionally, it mentions that Finer was one of the founding members of The Pogues. This suggests that at some point in time, Finer was playing a role as a musician in The Pogues. However, the evidence does not explicitly state that Finer was a player in The Pogues when Longplayer was composed. Nevertheless, considering his significant role in the band (as a founding member and a contributor to an album), it is reasonable to infer that he might have been a part of the band at the time of composing Longplayer.\n\n2. Label: SUPPORTED (with caution)",
+    "num_hops": 3
+  },
+  {
+    "claim": "Hoch wie nie was published by the same singer that is also a  composer. This composer was a banjo player in the band The Shane MacGowan.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence provided only mentions that \"Hoch wie nie\" was composed by a banjo player named Jem Finer, who was one of the founding members of The Pogues. However, it does not explicitly state that Jem Finer is also the singer of the song or that he was a composer outside of this specific composition. Therefore, we cannot definitively confirm that the claim \"Hoch wie nie was published by the same singer that is also a composer\" is supported by the evidence.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "Hoch wie nie was published by the same singer that is also a  composer. This composer was a banjo player in the band The Pogues.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: In the provided evidence, we learn that \"Hoch wie nie\" (which is not explicitly stated as a song but can be inferred from the context) was composed by Jem Finer who is also known to be a banjo player and one of the founding members of The Pogues. While it's not mentioned directly that he sang this specific composition, his role as a member of The Pogues implies he has sung for the band at some point. Furthermore, \"Hoch wie nie\" was published on an album (Longplayer) associated with The Pogues, suggesting it could be a collaboration or a solo piece by one of its members.\n\n  2. Label: SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "Hoch wie nie was published by the same blues singer that is also a composer. This composer was a banjo player in the band The Pogues.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence states that \"Hoch wie nie\" was composed by Jem Finer, a member of the band The Pogues. It also mentions that The Longplayer, another composition by Finer, was published on Falco's 50th birthday. However, it does not specify who \"Hoch wie nie\" was published by or if the composer of this song is the same person as the blues singer mentioned in the claim. Since there is no direct information linking the blues singer and Jem Finer, the evidence does not support the claim that the same blues singer who composed \"Hoch wie nie\" was also a member of The Pogues.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "Hoch wie nie was published by the same singer that is also a  composer. This composer was a banjo player in the band The MacGowan.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence provided states that \"Hoch wie nie\" was composed by Jem Finer, a banjo player and founding member of the band The Pogues. However, it doesn't specify if Finer is also a singer or if \"Hoch wie nie\" was published on Falco's 50th birthday. Although Finer composed a long-running piece called \"The Longplayer,\" there's no mention that this composition is \"Hoch wie nie.\" As such, we cannot definitively confirm that Finer, the composer of \"Hoch wie nie,\" is also the singer who published it.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "Jem Finer was a banjo player in the band The Pogues.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that Jem Finer is a banjo player who composed a song for The Pogues and was featured on their fourth album, \"Peace and Love.\" Furthermore, it mentions that he is one of the founding members of the band. Therefore, the evidence supports the claim that Jem Finer was indeed a banjo player in The Pogues.\n\n2. Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "The composer of Longplayer was a banjo player in the band The Alexis Kirke.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The passage states that Longplayer was composed by \"Jem Finer,\" who is described as a banjo player and founding member of The Pogues. However, it does not mention any connection between Jem Finer and the band Alexis Kirke. Therefore, although we know that Jem Finer is a banjo player, there is no evidence in this passage to support the claim that he was also a member of the band Alexis Kirke.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "The composer of Longplayer was a banjo player in a band. The classical musician James McNally was in this band.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence states that Longplayer was composed by banjo player Jem Finer, who was also one of the founding members of The Pogues. James McNally is not mentioned as being the composer or a band member in relation to this specific work. However, it is stated that he was a member of The Pogues along with the composer of Longplayer. Therefore, while we cannot definitively say that James McNally played a role in creating Longplayer, we do know that he was associated with Jem Finer through their shared membership in The Pogues.\n\n   2. Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "The composer of Longplayer was a banjo player and singer in the band The Pogues.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "Justification: The evidence states that Longplayer was composed by Jem Finer, who is identified as a banjo player and founding member of the band The Pogues. It also mentions that Longplayer was featured on their fourth album, \"Peace and Love.\" Therefore, it can be inferred that Jem Finer was not only a musician in The Pogues but also a composer, specifically of Longplayer. As such, based on this evidence, the claim that \"The composer of Longplayer was a banjo player and singer in the band The Pogues\" is SUPPORTED.\n\n   Label: SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "Mashorey is located in Afghanistan.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that Mashorey is a village in Paktika Province, which is located in southeastern-central Afghanistan. Therefore, based on this information, it can be inferred that Mashorey is indeed within the geographical boundaries of Afghanistan.\n\n2. Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "Mashorey is located in Paktika Province.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that Mashorey is specifically mentioned as a village located in Paktika Province. Therefore, it follows logically that Mashorey is indeed located in Paktika Province.\n\n2. Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "Mashorey is located in southern Afghanistan.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that Mashorey is a village located in Paktika Province, which is confirmed to be in southeastern-central Afghanistan. Therefore, it can be logically deduced that Mashorey is indeed in southern Afghanistan, as the southeastern part of Afghanistan would generally be considered as part of the south.\n\n2. Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "Mario Mazzacurati won the 1936 South African Grand Prix with the Bugatti, a type of two door car that was founded in 1909 in the then German city of Molsheim, Alsace.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The given evidence mentions that Mario Mazzacurati won the 1936 South African Grand Prix with Bugatti cars and it also states that Bugatti is a French car manufacturer founded in 1909, confirming that the Bugatti is indeed a type of two-door car. Therefore, it is clear that Mario Mazzacurati did win a race (the 1936 South African Grand Prix) with a Bugatti vehicle, which was founded in Molsheim, Alsace in 1909.\n\n2. Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "Mario Mazzacurati won the 1936 South African Grand Prix with the Bugatti, a type of car that was founded in 1909 in the then German city of Molsheim, Alsace.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence clearly states that Mario Mazzacurati won the 1936 South African Grand Prix with a Bugatti car, and it also mentions that Bugatti was founded in 1909 in Molsheim, Alsace. These facts support the claim that Mario Mazzacurati won the 1936 South African Grand Prix with a type of car (Bugatti) that was founded in 1909 (which is before 1936).\n\n2. Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "This movie is based on a book by the Austrian author who also wrote The Hound of Florence, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The claim states that the movie \"This movie\" is based on a book by Felix Salten, who also wrote \"The Hound of Florence.\" The evidence provided clearly shows that the movie \"Bambi\" was based on a book written by Felix Salten. Since \"The Country Bears\" is a different movie, it cannot be said to have been based on a book by Felix Salten. Additionally, the claim states that \"This movie\" was restored and preserved by John D. Lowry, but no such information about \"The Country Bears\" is provided in the evidence.\n\n  2. Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "This 1938 movie is based on a book by the Austrian author Felix Salten, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "Justification: The claim is that a certain movie (not specified) from 1938 is based on a book by Felix Salten and that The Country Bears, released in 2002, is not. The evidence provided shows two different movies: one is Bambi, released in 1942, and the other is The Country Bears, released in 2002. Bambi is explicitly stated as being based on a book by Felix Salten. No such connection is made for either the 1938 movie or The Country Bears. Therefore, there is no evidence to support that the 1938 movie was based on a book by Felix Salten.\n\n   Label: NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "This 2001 documentary is based on a book by the Austrian author who also wrote The Hound of Florence, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "Justification: The claim states that the 2001 documentary is based on a book by the Austrian author who also wrote The Hound of Florence, and that The Country Bears movie was not. The evidence provides us with information about two movies, Bambi (produced in 1942) and The Country Bears (produced in 2002), both of which are indeed based on books written by Felix Salten. However, it does not mention anything about a 2001 documentary. Additionally, it does not provide information that connects John D. Lowry to the production of either of these movies. Therefore, we cannot support the claim with this evidence as it is lacking relevant information.\n\n   Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "This movie is based on a book by the Austrian author Felix Salten, The film where Candy Ford voiced Salten is not. The movie was restored and preserved by John D. Lowry.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence provided only mentions movies that are based on books written by Felix Salten, namely \"Bambi\" and it is stated that the book for \"The Country Bears\" was based on a Disney theme park attraction, not a book by Felix Salten. Candy Ford's involvement in \"The Country Bears\" does not change the fact that the movie is not based on a book by Felix Salten. Furthermore, John D. Lowry is mentioned as being born in 1932 and having produced/directed other films, but there is no information about his work related to either \"Bambi\" or \"The Country Bears,\" so we cannot determine any connection between him and the books' adaptations.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "Bambi, is based on a book by the Austrian author Felix Salten, The Country Bears is not.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "Justification: The claim states that \"Bambi, is based on a book by the Austrian author Felix Salten, The Country Bears is not.\" The provided evidence supports this claim as it explains that \"Bambi\" was indeed based on the book \"Bambi, a Life in the Woods\" by Austrian author Felix Salten. Conversely, the evidence states that \"The Country Bears\" was based on the Disney theme park attraction \"Country Bear Jamboree\", not any work written by Felix Salten.\n\n   Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "This movie is based on a book by the German author Felix Salten, The film where Candy Ford voiced Trixie is not. The movie was restored and preserved by John D. Lowry.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence provided only mentions two movies, \"Bambi\" and \"The Country Bears\", neither of which was voiced by Candy Ford according to the statement. It also mentions that Felix Salten is the author of the book \"Bambi, a Life in the Woods,\" implying it's the basis for the film \"Bambi\". However, there is no mention or indication that \"The Country Bears\" was based on any work by Felix Salten. Furthermore, John D. Lowry was only mentioned as being born in Canada and having roles related to various productions, but not specifically as the restorer of either \"Bambi\" or \"The Country Bears\". Therefore, there is no evidence that supports the claim that \"This movie (The Country Bears) is based on a book by the German author Felix Salten.\"\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "This movie is based on a book by the Austrian author Felix Salten, The film where Candy Ford voiced Trixie is not. The movie was restored and preserved by John D. Lowry.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence provided describes two different movies: \"Bambi,\" which is based on a book by Felix Salten, and \"The Country Bears.\" Candy Ford voiced Trixie in \"The Country Bears,\" a movie that was produced in 2002 by Walt Disney Pictures. There is no mention of the book used as a basis for this movie or any connection to Felix Salten, the Austrian author. Therefore, the claim that \"This movie is based on a book by the Austrian author Felix Salten\" is NOT_SUPPORTED by the evidence.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "This movie is based on a book by the Austrian author Felix Salten, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The claim states that a specific movie (The Country Bears) is not based on a book by Felix Salten. This assertion is supported by the evidence provided because it mentions two different movies - \"Bambi\" and \"The Country Bears\", with \"Bambi\" being confirmed as a film adaptation of Felix Salten's book, while \"The Country Bears\" has no mention or indication that it is based on any work by Felix Salten.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "Bambi, is based on a book by the American author Felix Salten, The Country Bears is not.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "Justification: The evidence clearly states that \"Bambi\" is a film based on the book \"Bambi, a Life in the Woods\" by Felix Salten. In contrast, \"The Country Bears\" is a different film, also produced by Disney, but based on the theme park attraction \"Country Bear Jamboree.\" Therefore, the claim that \"The Country Bears\" is based on the same book as \"Bambi\" is not supported by the provided evidence.\n\nLabel: NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "This movie is based on a book by the German author who also wrote The Hound of Florence, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "Justification: The claim states that the movie \"The Country Bears\" is not based on a book by the author who also wrote \"The Hound of Florence.\" The evidence provided clearly shows that \"Bambi,\" not \"The Country Bears,\" was based on a book by Felix Salten, who also wrote \"The Hound of Florence.\" Therefore, the claim that \"The Country Bears\" is based on a book by this author is NOT_SUPPORTED by the evidence.\n\n   Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "This movie is based on a book by the Austrian author Faline, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The claim states that \"This movie is based on a book by the Austrian author Faline.\" The evidence provides information about two movies - Bambi and The Country Bears, but it does not mention any of them being based on a book by an author named Faline. However, Bambi is indeed based on a book by an Austrian author Felix Salten, which the evidence confirms. But there's no information about The Country Bears being based on a book by Faline in the provided evidence, thus the claim is NOT_SUPPORTED by the given evidence.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "This horror movie is based on a book by the Austrian author Felix Salten, The film where Candy Ford voiced Trixie is not. The movie was restored and preserved by John D. Lowry.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The given evidence describes two films - \"Bambi\" (based on Felix Salten's book) and \"The Country Bears.\" It also provides information about Candy Ford, including her roles in various television programs and voicing Trixie in the film \"The Country Bears.\" However, there is no mention of a horror movie or any connection between it and Felix Salten's book, or any restoration and preservation by John D. Lowry in relation to the horror movie mentioned in the claim. Therefore, the evidence does not support the claim that the horror movie in question is based on a book by Felix Salten or was restored and preserved by John D. Lowry.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "Bambi, is based on a book by the Austrian photographer Felix Salten, The Country Bears is not.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The claim states that \"Bambi\" is not based on a book by Felix Salten while \"The Country Bears\" is. In the evidence provided, it is explicitly mentioned that \"Bambi\" is indeed based on the book \"Bambi, a Life in the Woods\" by Felix Salten. On the other hand, it is stated that \"The Country Bears\" was based on the Disney theme park attraction and not a specific book by Felix Salten.\n\n2. Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "This movie is based on a book by the German author Felix Salten, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence states that \"Bambi\" is a movie based on a book by Felix Salten, while \"The Country Bears\" is a movie not based on any work by Felix Salten, but rather a Disney theme park attraction. Additionally, John D. Lowry was born in Canada and worked as a restorer and preservationist, however there's no mention of him being involved with either \"Bambi\" or \"The Country Bears\". Therefore, the claim that this movie (The Country Bears) is based on a book by Felix Salten is not supported by the given evidence.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "In the 2004 Hockey film produced by a former major league baseball pitcher Kurt Russell played the USA coach.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that Mark Thomas Ciardi is a film producer and former Major League Baseball pitcher who produced \"Miracle\", a movie about the US hockey team's 1980 Winter Olympics victory, with Kurt Russell playing the role of head coach Herb Brooks in the film. Since Kurt Russell played the USA coach in Miracle, it is reasonable to conclude that he was indeed the USA coach in the 2004 Hockey film as claimed.\n\n  2. Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "Gael and Fitness are not published in the same country.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that Gael is published in Mechelen, Belgium, while Fitness is published in the United States. Since both publications are located in different countries, it follows that they are not published in the same country.\n\n2. Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "Dollar Days was the sixth track on Bowie's twenty-fifth and final studio album. The album that was released was recorded in secret.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "Justification: The claim states that Dollar Days was the sixth track on Bowie's twenty-fifth and final studio album, which is correct according to the evidence. Additionally, the claim implies that the album was recorded in secret, a detail also supported by the evidence as it mentions that \"the album was largely recorded in secret\".\n\n   Label: SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "Dollar Days was a track on Bowie's twenty-fifth and final studio album. The album that was released was recorded in secret.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "Justification: The evidence states that \"Dollar Days\" is the sixth track on Bowie's twenty-fifth and final studio album, \"Blackstar,\" which was recorded in secret. However, it does not explicitly mention that \"Dollar Days\" was a track recorded in secret as well. Therefore, we cannot confirm whether \"Dollar Days\" was indeed a track recorded in secret.\n\n   Label: NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "Blackstar is the name of the album released by David Bowie that was recorded in secret.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that the album \"Blackstar\" was recorded in secret between The Magic Shop and Human Worldwide Studios in New York City, and it was released two days before Bowie's death. This suggests that the album was likely being worked on in secrecy during the time of his illness, which supports the claim that \"Blackstar\" was an album recorded in secret.\n\n2. Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "Dollar Days was the sixth track on award winning Bowie's twenty-fifth and final studio album. The album that was released was recorded in secret.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "Justification: The evidence clearly states that \"Dollar Days\" is the sixth track on David Bowie's twenty-fifth and final studio album, which was indeed recorded in secret. It was released on 8 January 2016, two days before his death. This information supports the claim that \"Dollar Days\" was the sixth track on the album.\n\n   Label: SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "A hockey team calls the venue of the Survivor Series (2011) PPV event it's home. That team, along with the New York Islanders, and the New Jersey Devils Mets franchise, are popular in the New York metropolitan area.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence provided does not specify the hockey team that calls the venue of the Survivor Series (2011) PPV event its home. It only mentions that the New York Rangers, along with the New Jersey Devils and New York Islanders, are NHL franchises in the New York metropolitan area, and that Madison Square Garden is home to the New York Rangers of the NHL. However, it does not indicate that any other hockey team uses this venue as its \"home.\" Therefore, there is no evidence to support the claim that a specific hockey team calls the venue of the Survivor Series (2011) PPV event its home.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and the New Jersey Devils Giants franchise, are popular in the New York metropolitan area. That team, along with the New York Islanders, and the New Jersey Devils Giants franchise, are popular in the a part of a city.  Coverage of news on Vos Iz Neias? focuses on this part of a city.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "Justification: The evidence passage only mentions three NHL franchises in the New York metropolitan area - the New York Rangers, the New Jersey Devils, and the New York Islanders. However, it does not specify where the \"home\" of any of these teams is located or if they share a common location with Madison Square Garden. Therefore, there is no direct evidence to support that the team whose home is Madison Square Garden is popular in the \"part of a city,\" as mentioned in the claim.\n\n   Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and the New Jersey Devils the Metropolitan Division of the Eastern Conference franchise, are popular in the New York metropolitan area.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence does not specify which hockey team calls Madison Square Garden home. It only mentions the New York Rangers as one of three NHL franchises in the New York metropolitan area. Therefore, we cannot determine if the hockey team that calls Madison Square Garden its home is popular in the New York metropolitan area based solely on this evidence.\n\n  2. Label: NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the a part of a city.  Coverage of news on Vos Iz Neias? focuses on this part of a city.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence provided states that Madison Square Garden is home to three NHL franchises: the New York Rangers, the New Jersey Devils, and the New York Islanders. It also mentions that the coverage of Vos Iz Neias? focuses on the New York metropolitan area. However, the claim does not specify which team calls Madison Square Garden as its home; it only mentions that a certain team resides in Madison Square Garden but doesn't confirm that this is the same team mentioned in the claim. As such, the evidence does not directly support or contradict the claim about the team's geographical location being a part of a city.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "Along with the New York Islanders and the New York Rangers, the New Jersey Devils NHL franchise is popular in the New York metropolitan area.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that the New York Rangers is one of three NHL franchises in the New York metropolitan area, along with the New Jersey Devils and the New York Islanders. Therefore, it indicates that the New Jersey Devils are popular in the New York metropolitan area as they share this region with the Rangers and the Islanders. However, the evidence does not provide information about the popularity of each team individually or relative to one another, so we cannot definitively say which is the most popular.\n\n2. Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "A hockey team calls the 70,000 capacity Madison Square Garden it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence passage does not specify which NHL team is associated with Madison Square Garden. While it states that the Rangers are one of three teams in the metropolitan area and mentions that MSG hosts all three teams, there's no information linking any of them to being the \"home\" team at Madison Square Garden. Therefore, we cannot conclude based on this evidence whether the claim about a hockey team calling Madison Square Garden its home is supported or not.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "Along with the New York Islanders and the New York Rangers, the New Jersey Devils NFL franchise is popular in the New York metropolitan area.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "Justification: The evidence provided mentions that the New York Rangers and the New Jersey Devils are two of three NHL franchises in the New York metropolitan area (the third being the New York Islanders). However, it does not discuss their popularity. Therefore, we cannot definitively say whether they are \"popular\" or not based solely on this evidence.\n\n   Label: NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and Major League Soccer NHL franchise, are popular in the New York metropolitan area. That team, along with the New York Islanders, and Major League Soccer NHL franchise, are popular in the a part of a city.  Coverage of news on Vos Iz Neias? focuses on this part of a city.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "Justification: The evidence passage states that Madison Square Garden is home to three NHL franchises in the New York metropolitan area - the New York Rangers, New Jersey Devils, and New York Islanders. However, it does not specify which of these teams or any other team based in this area is featured on Vos Iz Neias?, nor does it indicate the popularity of a specific team beyond stating that the coverage is focused on the New York metropolitan area. Therefore, we cannot determine if the claim about the team being popular in \"a part of a city\" or \"any part of the city\" is supported by the evidence provided.\n\n   Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "A hockey team calls the venue of the Survivor Series (2011) PPV event it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence passage discusses the venues of various sports teams such as the New York Rangers (NHL), New York Knicks (NBA), and New York Liberty (WNBA) in the New York metropolitan area, but it does not mention any specific hockey team that calls Madison Square Garden, where the Survivor Series (2011) PPV event took place, as its home. Therefore, there is no direct evidence provided to support the claim that a particular hockey team called the venue of the Survivor Series event their home, nor does it provide information about other popular teams in the New York metropolitan area apart from the Rangers, Devils, and Islanders.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "A hockey team calls the venue of the Boxing fight Survivor Series (2011) PPV event it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "Justification: The evidence provides no information about the hockey team's venue or its popularity outside of the New York Rangers, New Jersey Devils, and New York Islanders being mentioned as NHL franchises in the New York metropolitan area. It does not specify which team hosted the Survivor Series 2011 PPV event, nor does it provide any information about the claim that the specified hockey team is popular alongside these teams. Therefore, the claim is NOT_SUPPORTED by the evidence.\n\n   Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and the Brooklyn Nets NHL franchise, are popular in the New York metropolitan area. That team, along with the New York Islanders, and the Brooklyn Nets NHL franchise, are popular in the a part of a city.  Coverage of news on Vos Iz Neias? focuses on this part of a city.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence states that Madison Square Garden is home to three NHL franchises in the New York metropolitan area: the New York Rangers, the New Jersey Devils, and the New York Islanders. However, it does not specify which of these teams the claim refers to as being popular in \"a part of a city.\" The evidence also implies that Vos Iz Neias? primarily covers the New York metropolitan area but does not explicitly confirm or deny whether the hockey team playing at Madison Square Garden is one of the teams this news outlet focuses on.\n\n  2. Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence does not provide any information about which specific team out of the three NHL franchises in the New York metropolitan area (the Rangers, Devils, and Islanders) calls Madison Square Garden home. It only mentions that Madison Square Garden is the home of the New York Rangers, the Knicks (NBA), and since 1997, the Liberty (WNBA). As such, the evidence does not support the claim about which hockey team specifically calls Madison Square Garden its home.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "A hockey team calls the venue of the Survivor Series (2011) PPV event it's home. That team, along with the New York Islanders, and National Basketball Association NHL franchise, are popular in the New York metropolitan area.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence does not provide information about which hockey team calls the venue of the Survivor Series (2011) PPV event as its home. However, it does mention that New York (implicitly referring to New York City) is home to three NHL franchises: the New York Rangers, the New Jersey Devils, and the New York Islanders. The evidence also states that Survivor Series (2011) was held at Madison Square Garden in New York City, but it doesn't specify which of these teams call this venue their home. Therefore, there is no information in this evidence to support or refute the claim about a specific hockey team calling the Survivor Series venue its home.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the a part of a city. Coverage of news on Vos Iz Neias? focuses on this part of a city and broadcasts in German only.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence does not mention which specific team out of the New York Rangers, New York Islanders, or New Jersey Devils calls Madison Square Garden its home. However, it does confirm that all three teams are popular in the New York metropolitan area and that coverage is primarily focused on this area. Therefore, while the claim mentions that the team in question calls Madison Square Garden home, the evidence does not provide enough information to verify if this claim is accurate for any of the specific teams mentioned.\n\n  2. Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "A hockey team calls the venue of the Survivor Series (2011) Blueshirts event it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "Justification: The evidence provides details about the 2011 Survivor Series wrestling event held at Madison Square Garden, which is home to multiple sports teams including the New York Rangers (NHL). However, it does not mention that this team calls the venue of the Survivor Series its home in a hockey sense. Also, while it is stated that the New York metropolitan area has three NHL franchises, there's no information about which one, if any, hosted the Survivor Series event. Therefore, the claim cannot be supported by the provided evidence.\n\n   Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "Robert Earl Holding owned an oil company that was originally founded by Harry F. Sinclair.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The claim states that Robert Earl Holding owned an oil company originally founded by Harry F. Sinclair. The evidence reveals that Sinclair Oil Corporation, which was indeed founded by Harry F. Sinclair in 1916, is the company that Robert Earl Holding later owned. Therefore, the fact that Holding owned a petroleum corporation that was originally founded by Sinclair supports the claim that he owned an oil company originally founded by Sinclair.\n\n2. Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "The man unseated by Rick Galindo in 2009, and the winner of the San Antonio mayoral election of 2009 belong to the same party. They are both democrats.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: In the evidence passage, it is stated that Julian Castro won the San Antonio mayoral election of 2009 and took office on June 1, 2009. It's also mentioned that he unseated Philip Cortez in the election of 2014. However, there is no indication that these two elections were for the same position (mayor or representative). Furthermore, neither Cortez nor Castro's party affiliation is directly stated to be Democrat for the 2009 mayoral election, only for their current positions. The connection between the claim and the evidence is not clearly established.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "The Georgia man unseated by Rick Galindo and Julian Castro are democratic and not Republican.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The passage mentions that Julian Castro unseated a one-term incumbent Democrat named Philip Cortez in the 2014 elections. This event occurred in Texas, not Georgia. Moreover, neither the passage nor any other information provided states the political party of Rick Galindo, who is also mentioned but not described as having been involved in the unseating of Cortez. Therefore, it's not possible to definitively determine the political affiliation of the person unseated by Rick Galindo and Julian Castro based on this evidence.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "The person unseated by Rick Galindo and Julian Castro are democratic and not Republican.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "Justification: The evidence passage states that Rick Galindo (not mentioned, but we can assume he is the person who unseated someone) unseated a one-term incumbent Democrat named Philip Cortez in a general election. Since Philip Cortez is identified as a Democrat, it follows that the person who was unseated by both Rick Galindo and Julian Castro (who are also Democrats) is also a Democrat.\n\n   Label: SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "The man unseated by Rick Galindo and Julian Castro are democratic and not Republican.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The passage provides information about two individuals, Philip A. Cortez and Julian Castro, stating that they are Democrats. It also mentions that Castro unseated a one-term incumbent Democrat named Cortez in an election. Since the unseated representative was a Democrat, this implies that the man who unseated him (Julian Castro) is also democratic and not Republican, as per the claim.\n\n2. Label: SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "The man unseated by Rick Galindo and Julian Castro are democratic and not Democratic.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence provided states that Philip A. Cortez is a Democratic member of the Texas House of Representatives and that Rick Galindo (not mentioned in the passage) unseated him in an election. It does not mention anything about Cortez being a Democrat or Republican after being unseated. However, if we assume that an elected representative would likely remain with their party unless they choose to switch, then it could be inferred that Cortez was likely still a Democrat when he was unseated. However, this is not explicitly stated in the passage.\n\n2. Label: NOT_SUPPORTED - The claim cannot be definitively supported or refuted based on the provided evidence.",
+    "num_hops": 3
+  },
+  {
+    "claim": "Philip Cortez and Julian Castro are democratic and not Republican.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "Justification: The evidence states that Philip A. Cortez and Juli\u00e1n Castro are both Democrats, as noted by their affiliation with the Democratic Party in their respective positions. Since there is no mention or indication of them being members of the Republican Party, the claim \"Philip Cortez and Julian Castro are democratic and not Republican\" is SUPPORTED by the evidence.",
+    "num_hops": 2
+  },
+  {
+    "claim": "The man unseated by Rick Galindo,  and the winner of the  San Antonio mayoral election of 2009  belong to the same party. They are both democrats.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: In the provided evidence, it is stated that Philip Cortez is a Democrat and he was unseated in a different election year (2014) than the one mentioned in the claim (2009). The winner of the 2009 San Antonio mayoral election was Julian Castro, who is also identified as a Democrat. Therefore, although Philip Cortez and Julian Castro are Democrats, they did not compete against each other in the same election and hence it cannot be definitively stated that they belong to the same party in the context of the 2009 San Antonio mayoral election.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "The nationality of the dancer who partnered Tom Chambers in the sixth season of Strictly Come Dancing is Danish.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "Justification: The evidence states that Camilla Sacre-Dallerup, who partnered with Tom Chambers in the sixth season of Strictly Come Dancing, is Danish by nationality as she was born in Denmark. Therefore, the claim is SUPPORTED by the evidence.\n\n   Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "The nationality of the dancer who represented Tom Chambers in the fifth season of Strictly Come Dancing is Danish.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "Justification: The evidence provided states that Camilla Sacre-Dallerup, the winner of the sixth season of Strictly Come Dancing, is a Danish ballroom dancer. In the fifth season, Tom Chambers was partnered with Camilla Sacre-Dallerup. Therefore, it can be inferred that Tom Chambers' dancing partner in the fifth season, who won in the sixth season, is also Danish.\n\n   Label: SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "claim": "The film The Book Thief, released in 1990, was directed by same director of the film About a Girl. The Book Thief is based on a book by Markus Zusak.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence states that Brian Percival directed \"The Book Thief,\" which was based on the book by Markus Zusak. It also mentions that About a Girl, a different film, was also directed by Brian Percival. However, there's no information provided about the release year of About a Girl or whether it is the same as The Book Thief. Therefore, we cannot determine if they were both released in 1990. However, since we can confirm that Brian Percival directed both films and one of them (The Book Thief) was indeed released in 1990, it is plausible that he also directed About a Girl in the same year, although the evidence does not explicitly support or contradict this claim.\n\n2. Label: NOT_SUPPORTED (with caveat that it could potentially be SUPPORTED if additional information were available about the release year of About a Girl)",
+    "num_hops": 3
+  },
+  {
+    "claim": "The film The Book Thief was directed by same director of the film About a Girl. The Book Thief is based on a book by Markus Zusak.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that \"Brian Percival\" is the director of \"The Book Thief.\" Since the claim also mentions that Brian Percival is the director of \"The Book Thief,\" this means that the claim and the evidence align. Additionally, the claim states that \"About a Girl\" is another film directed by Brian Percival, which is also stated in the evidence. The claim about the book \"The Book Thief\" being written by Markus Zusak is not directly related to the director but is confirmed to be true by the evidence as well.\n\n2. Label: SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "The film that featured Nico Liersch in the role of Rudy Steiner was directed by same director of the film About a Girl. That film is based on a young adult novel by Markus Zusak.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence states that Brian Percival directed \"About a Girl\" and is also known for his role as Rudy Steiner in \"The Book Thief\". It's further mentioned that \"The Book Thief\" is based on the novel by Markus Zusak. However, the evidence does not specify which film features Nico Liersch as Rudy Steiner. Since we don't know if it's the same film directed by Brian Percival (as per the claim), we cannot confirm that the claim is supported by the evidence.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "The film that featured Nico Liersch in the role of Winnie Markus was directed by same director of the film About a Girl. That film is based on a book by Markus Zusak.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence shows that Brian Percival directed the film \"The Book Thief\", which is based on a book by Markus Zusak. It also mentions that he directed a short film called \"About a Girl\". However, there's no information about whether Nico Liersch played Winnie Markus in \"The Book Thief\" or if it's the same movie where Liersch played Rudy Steiner. Therefore, we cannot definitively say if the claim is supported by the evidence provided.\n\n2. Label: NOT_SUPPORTED (as the provided evidence does not provide enough information to confirm or refute the given claim)",
+    "num_hops": 4
+  },
+  {
+    "claim": "The film that featured Nico Liersch in the role of Rudy Steiner was directed by same director of the film About a Girl. That film is based on a book by Liesel Meminger.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence states that Brian Percival, who is the director of the film \"The Book Thief,\" directed a short film titled \"About a Girl.\" It also mentions Nico Liersch's role as Rudy Steiner in \"The Book Thief.\" However, it does not provide information about whether or not the same director (Brian Percival) directed the film where Nico Liersch played Rudy Steiner and that film was based on a book by Liesel Meminger. Therefore, we cannot confirm the claim based solely on the provided evidence.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "The film that featured Nico Liersch in the role of Rudy Steiner was directed by same director of the film About a Girl. That film is based on a book by Markus Zusak.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence states that \"The Book Thief\" is a film directed by Brian Percival, and it's based on a book by Markus Zusak. It also mentions that the same director, Brian Percival, directed the short film \"About a Girl\". Furthermore, the actor Nico Liersch played the role of Rudy Steiner in \"The Book Thief\", which is a movie directed by Brian Percival. However, there is no direct mention of whether \"The Book Thief\" is the film that featured Nico Liersch as Rudy Steiner where he was directed by the same director of \"About a Girl\". Yet, since both films are directed by the same person and share the same actor (Nico Liersch as Rudy Steiner), it's reasonable to assume that they could be connected.\n\n  2. Label: NOT_SUPPORTED (with caveats) - The evidence does not provide direct support for the claim that \"The film that featured Nico Liersch in the role of Rudy Steiner was directed by the same director of the film About a Girl\". However, it offers some suggestive evidence that these two films might be connected.",
+    "num_hops": 4
+  },
+  {
+    "claim": "The president of South Korea was born 24 January 1953. The group that Vietnam-born Euh Yoon-Dae was Chairman of lies under his direct control.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence states that a council lies under the direct control and authority of the President of South Korea, Moon Jae-in. The given claim is about a different individual, Euh Yoon-Dae, who was born in Vietnam and served as Chairman of KB Financial Group and the Presidential Council on Nation Branding, Korea. The claim does not provide any information about this person being directly connected to the council mentioned in the evidence. Therefore, the given claim is not supported by the provided evidence because it concerns a different individual who is not associated with the council under the direct control of the President of South Korea.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "The president of South Korea was born 24 January 1953. The group that Euh Yoon-Dae was Chairman of lies under his direct control.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "Justification: The evidence states that a council lies under the direct control and authority of the President of South Korea, Moon Jae-in. It also provides his name and date of birth, which matches Euh Yoon-Dae (whose name is not explicitly mentioned in the evidence but shares the same birth year as Moon Jae-in). However, the evidence does not specify that Moon Jae-in was Chairman of a specific group that Euh Yoon-Dae was part of. Therefore, while we know that the president has control over certain councils and groups, there is no information to confirm that the group that Euh Yoon-Dae was Chairman of lies under the direct control of the President.\n\n   Label: NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "The writer of the song Girl Talk and song-writer Park So-yeon have both been members of a girl group.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence provided mentions Watkins' involvement with the girl-group TLC in the early 1990s and her membership in the South Korean girl group T-ara. However, it does not mention Park So-yeon at all, nor does it indicate that either of them has ever been a member of the same group. Therefore, the evidence does not support the claim that both the writer of the song \"Girl Talk\" and Park So-yeon have been members of a girl group together.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "Park So-yeon was a members of a three piece girl group. So was the writer of the song that was the second single released from the group TLC, \"Hands Up\".",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence provided does not mention any information about a person named Park So-yeon being a member of TLC or contributing to the song \"Hands Up\". It only mentions Tionne Watkins, also known as T-Boz, as a former member of TLC and the co-writer of \"Hands Up\" along with other band members.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "The writer of the song Girl Talk has been been members of a girl group. The co-host of the 4th APAN Star Awards also has been been members of a girl group.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "Justification: The evidence provides information about two individuals. One is a member of the girl group TLC (Tionne \"T-Boz\" Watkins) and another is a former member of the South Korean girl group T-ara (Park So-yeon). However, there is no mention of either of them being the writer of the song \"Girl Talk.\" Therefore, it cannot be confirmed whether the claim that the writer of \"Girl Talk\" has been a member of a girl group is supported by the evidence.\n\n   Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "The writer of the song Girl Talk and Park So-yeon have both been members of a girl group.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The given evidence only discusses the members of two different girl groups - TLC featuring Lisa Lopes (Tionne Watkins) and South Korean group T-ara featuring Park So-yeon. It does not provide any information about either of them being members of a single girl group together, hence it does not support the claim that they have both been members of a girl group jointly.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "Park So-yeon  was a members of a girl group. So was the writer of the song that was the second single released from the group TLC, \"Hands Up\".",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence provided discusses two individuals named Watkins - one who was a member of TLC (Tionne \"T-Boz\" Watkins) and another who was a former member of South Korean girl group T-ara (Sonyeon Watkins). However, there is no information in the given passage about either individual being the writer of the song \"Hands Up\". The song \"Hands Up\" was written by band members Lisa Lopes, Anita McLoud, Edmund Clement, and Kandi Burruss for TLC's album \"3D\".\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "The writer of the song Girl Talk and Park So-yeon have both been members of a girl group.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence provided only mentions Crystal Watkins, who was a member of TLC and later T-ara. However, it doesn't mention any connection between her and the Korean artist Park So-yeon in terms of being members of the same girl group. Therefore, the evidence does not support the claim that both the writer of the song Girl Talk (presumably Lisa Lopes or Tionne Watkins) and Park So-yeon have been members of a girl group together.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "The writer of the song Girl Talk and Park So-yeon have both been members of a group.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "Justification: The evidence provided mentions Crystal Watkins, who is a former main vocalist of T-ara in South Korea. However, it does not mention if she was ever a member of another group named \"Girl Talk.\" Therefore, the evidence does not support the claim that the writer of the song Girl Talk and Park So-yeon have both been members of a group.\n\nLabel: NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "The writer of the song Girl Talk has been been members of a J-pop girl group. The co-host of the 4th APAN Star Awards also has been been members of a girl group.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "Justification: The evidence states that Lisa Lopes (Tionne Watkins) was a member of the girl group TLC in the early 1990s and also later became a member of the South Korean girl group T-ara. However, it does not mention any connection between T-ara's Park So-yeon and any J-pop girl group. Therefore, while it is supported that Lisa Lopes (Tionne Watkins) has been a member of two girl groups as claimed, the same cannot be said for Park So-yeon regarding a J-pop girl group.\n\n   Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "The North Central town that licenses WCJB-TV is home to the punk rock band Against Me! formed in 1991.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provides three facts about Gainesville, Florida \u2013 it's home to the punk rock band Against Me!, it's the largest city in North Central Florida, and WCJB-TV is licensed there. Since the claim states that the North Central town where WCJB-TV is licensed is home to Against Me! formed in 1991, the evidence supports this claim as the provided information aligns with all elements of the claim.\n\n2. Label: SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "The North Central town that licenses WCJB-TV is home to the music band Against Me!.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence states that \"WCJB-TV is the ABC-affiliated television station licensed to Gainesville, Florida.\" It does not provide information about the location of Against Me!, but it confirms that Gainesville is where WCJB-TV is licensed. Since Against Me! is a band from Gainesville (as stated in the evidence), and Gainesville is the town that licenses WCJB-TV, it can be logically deduced that the town where Against Me! is from is likely the same as the town that licenses WCJB-TV. However, without additional information about the location of Against Me!, we cannot definitively confirm this claim.\n\n2. Label: NOT_SUPPORTED (with a caveat that the claim could potentially be SUPPORTED with more information about the location of Against Me!)",
+    "num_hops": 3
+  },
+  {
+    "claim": "The Mars town that licenses WCJB-TV is home to the punk rock band Against Me!.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence states that Against Me! is a punk rock band from Gainesville, Florida. It also mentions WCJB-TV as an ABC-affiliated television station licensed to Gainesville, Florida. However, there is no information about the town that licenses WCJB-TV being home to Against Me!, so it's not possible to conclude definitively whether the band resides in the same town where the TV station is licensed.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "The North Central town that licenses WCJB-TV is home to the punk rock band Against Me!.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provides information about Against Me! being a punk rock band based in Gainesville, Florida - which is a city in North Central Florida. Additionally, it states that WCJB-TV is licensed to Gainesville, Florida. Therefore, since Gainesville is the home of Against Me! and also where WCJB-TV is licensed, it can be logically inferred that Gainesville could potentially be the North Central town that licenses WCJB-TV. However, the evidence does not explicitly state this claim about licensing, so it only indirectly supports the claim.\n\n2. Label: SUPPORTED (with caution)",
+    "num_hops": 3
+  },
+  {
+    "claim": "The movie. in which David Zayas played Francis Ford Coppola the cop, is the movie that John Gavin Malkovich had played in with Matt Damon and Edward Norton.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence provided lists several movies that David Zayas has appeared in, including \"Rounders.\" However, it does not mention any role played by either John Gavin Malkovich or Francis Ford Coppola in the movie \"Rounders,\" nor does it indicate that this is the movie where David Zayas played a character named Francis Ford Coppola. Therefore, there is no direct evidence to support the claim that John Gavin Malkovich and Matt Damon and Edward Norton played together in the movie \"Rounders,\" or that the movie \"Rounders\" is the one where David Zayas played the role of Francis Ford Coppola.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "The movie. in which David Zayas played Osborne the cop, is the movie that John Gavin Malkovich had played in with Matt Damon and James Moll.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence does mention that David Zayas played Osborne the cop in \"Rounders\" (1998), which is a movie that Matt Damon also starred in. However, it does not specify any role of John Gavin Malkovich or James Moll in this particular film. Therefore, the claim that \"The movie in which David Zayas played Osborne the cop, is the movie that John Gavin Malkovich had played in with Matt Damon and James Moll\" is not supported by the provided evidence.\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "claim": "David Zayas played Osborne the cop in an Academy Award-winning movie. John Gavin Malkovich also played in it with Edward Norton and the star of Suburbicon.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "Justification: While the evidence does not explicitly state that David Zayas played Osborne the cop in an Academy Award-winning movie, it does confirm he played Osborne the cop in \"Rounders,\" a film mentioned among others in his acting resume. However, the Academy Awards do not select the best actor for each individual film; they recognize excellence across all films in a given year. Since no mention of any Academy Award wins is made for Rounders or any other movie in which Zayas has acted, it cannot be definitively confirmed that Rounders was an Academy Award-winning movie with David Zayas as one of its stars.\n\n   Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "The star of the 2015 film, The Wannabe, played Osborne the cop in a movie. In that same movie, John Gavin Malkovich starred in with Matt Damon and Edward Norton.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence provided lists the films that the individual has starred in, and among them is \"Rounders\" (1998). However, it does not explicitly mention that he played Osborne the cop in \"The Wannabe.\" Therefore, we cannot confirm with certainty that the individual played Osborne the cop in \"The Wannabe,\" although they did star in \"Rounders.\"\n\n  2. Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "David Zayas played Osborne the cop in a movie. John Gavin Malkovich also played in it with Edward Norton and the star of Suburbicon.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: From the evidence provided, it is clear that David Zayas played Osborne the cop in the movie \"Rounders\" (1998). It is also mentioned that the film stars Matt Damon, Julianne Moore and Oscar Isaac. However, there is no direct mention of John Gavin Malkovich or Edward Norton being part of the cast for this specific film \"Rounders\". Therefore, while we know Zayas played in a movie with Damon (implied by the statement about Rounders), there is no evidence to support that he played with both Norton and Malkovich in the same movie.\n\n  2. Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "This species and the relative of the Fir are classified as genus in the naming system. Parnassius nordmanni is a high altitude butterfly which is found the Caucasus. The larva feeds on this species including \"C. alpestris\", \"C. conorhiza\" and \"C. emanueli\".",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The claim mentions that \"Parnassius nordmanni\" is a species of butterfly found in the Caucasus and its larva feeds on certain species, specifically \"C. alpestris\", \"C. conorhiza\" and \"C. emanueli\". The evidence passage states that a larva feeds on \"Corydalis\" species, including the specific ones mentioned in the claim (\"C. alpestris\", \"C. conorhiza\" and \"C. emanueli\"). However, it does not specify that these are butterfly larvae or any other type of insect. It also mentions that Firs (a type of tree) are most closely related to the genus \"Cedrus\". Neither this evidence nor the claim provide information about the classification of \"Parnassius nordmanni\" in relation to Firs or Cedars.\n\n  2. Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "This species and the relative of the Fir are classified as genus in the naming system. Parnassius nordmanni is a high altitude, blue and red butterfly which is found the Caucasus. The larva feeds on this species including \"C. alpestris\", \"C. conorhiza\" and \"C. emanueli\".",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The provided evidence discusses two different genera: Corydalis and Cedrus, and it is clear that the larva feeds on species belonging to the Corydalis genus. The claim mentions a species named Parnassius nordmanni which is a high altitude, blue and red butterfly found in the Caucasus, and the larva of this species feeds on certain species including \"C. alpestris\", \"C. conorhiza\" and \"C. emanueli\". However, there is no information provided about the classification of Parnassius nordmanni as a genus or its relationship with Fir (Cedrus).\n\n2. Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "A film was the documentary made before filmmaker Tigre Hill's first documentary. Juliet Weber co-produced this film.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that Tigre Hill is known for his first documentary, \"The Shame of a City,\" which was released in 2006. It also mentions another documentary called \"Unchained Memories\" produced in 2003 and co-produced by Juliet Weber. Although it's not explicitly stated that \"Unchained Memories\" is Tigre Hill's first documentary, the information provided does not contradict this claim either. Therefore, there seems to be a possible implication that \"Unchained Memories\" could have been Tigre Hill's first documentary before \"The Shame of a City.\" However, further evidence is needed to confirm this definitively.\n\n2. Label: SUPPORTED (with qualification)",
+    "num_hops": 4
+  },
+  {
+    "claim": "The group Leonidas L. Polk led was the organized agrarian economic movement among Catholic farmers. It was supported by the weekly left-wing political newspaper, that was published by Julius Wayland.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provided mentions that Julius Wayland published \"The Appeal to Reason,\" which was a weekly left-wing political newspaper, and he was a leader of the Farmers' Alliance, an organized agrarian economic movement among American farmers. This information aligns with the claim that the group Leonidas L. Polk led (the Farmers' Alliance) was an organized agrarian economic movement supported by a weekly left-wing political newspaper (The Appeal to Reason). However, there is no direct statement in the evidence about Wayland supporting this specific publication as a socialist periodical or that it was published \"by\" Polk.\n\n2. Label: SUPPORTED (with caveats)",
+    "num_hops": 4
+  },
+  {
+    "claim": "Farmers' Alliance was the organized agrarian economic movement among Progressives farmers. It was supported by the weekly left-wing political newspaper, that was published by a publisher. This publisher was influenced by the thinking of Laurence Gronlund.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provided states that \"The Appeal to Reason\" was a weekly left-wing political newspaper published by Julius Wayland. It is also noted that Wayland was influenced by the thinking of Laurence Gronlund, who was known for his work on socialism and the American idiom, and for his influence upon the American socialist movement in the 1880s and 1890s. The Farmers' Alliance is identified as an organized agrarian economic movement among American farmers that existed around the same time. Although not explicitly stated, it can be inferred that since Wayland was a publisher of a left-wing newspaper, it is likely his newspaper would support movements like the Farmers' Alliance, which were part of the American socialist movement during the 1880s and 1890s when Wayland was most influential.\n\n2. Label: SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "The group Leonidas L. Polk led was the organized agrarian economic movement among American farmers. It was supported by the weekly left-wing political newspaper, that was published by Julius Wayland.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provided shows that Julius Wayland published \"The Appeal to Reason\", which was a left-wing political newspaper, and he was also a leader of the Farmers' Alliance, an organized agrarian economic movement among American farmers. This suggests that Wayland supported and was part of the same movement as Leonidas L. Polk, who is claimed to have led this group. The evidence therefore implies that there is a connection between the Farmers' Alliance and \"The Appeal to Reason\", which further indicates that the claim could be true.\n\n2. Label: SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "The group Leonidas L. Polk led was the organized agrarian economic movement among 19th century American farmers. It was supported by the weekly left-wing political newspaper, that was published by Julius Wayland.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provided shows that the Farmers' Alliance, which Leonidas L. Polk led, was an organized agrarian economic movement among American farmers in the 19th century. It is also stated that Julius Wayland published a socialist periodical called \"Appeal to Reason.\" Additionally, it is noted that Polk was a leader of the Farmers' Alliance and helped found the Populist Party. Given that Wayland published the most important socialist periodical of the time and he was connected with the Farmers' Alliance led by Polk, it is reasonable to infer that the \"Appeal to Reason\" supported the Farmers' Alliance and the Populist Party. Therefore, the claim that \"The group Leonidas L. Polk led was the organized agrarian economic movement among 19th century American farmers. It was supported by the weekly left-wing political newspaper, that was published by Julius Wayland\" is supported by the evidence.\n\n2. Label: SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "The Tennessee Governor's Mansion was built as a private home in 1929. Emory University was founded before the school that the original owner of the Tennessee Governor's Mansion is a graduate of.",
+    "original_label": "SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "Justification: The evidence states that Emory University, as it currently stands, was founded in 1873 and named after Cornelius Vanderbilt who provided the school with its initial endowment. It also mentions that William Ridley Wills, born in Tennessee, was a graduate of Vanderbilt University but not Emory University. The Tennessee Governor's Mansion was built as a private home for William Ridley Wills and his family in 1929. Since the original owner of the mansion, Wills, is a graduate of Vanderbilt University, not Emory University, it cannot be concluded that Emory University was founded before the school that its original owner attended.\n\n   Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "The Tennessee Governor's Mansion was built as a private home in 1929. Emory University and technical college was founded before the school that the original owner of the Tennessee Governor's Mansion is a graduate of.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "NOT_SUPPORTED",
+    "justification": "1. Justification: The evidence provided states that Emory University was founded in 1836, before William Ridley Wills (who lived from 1897 to presumably after 1929) attended Vanderbilt University. However, it is not specified whether the Tennessee Governor's Mansion, built in 1929, belonged to William Ridley Wills. The connection between Emory University and the Tennessee Governor's Mansion is that both are associated with different members of the Wills family but there is no mention of a direct link or overlap in their timelines.\n\n   2. Label: NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "claim": "The man that composed the opera Irrelohe was also a teacher. The composer, who American Violinist and singer Tim Fain is best known for working with, was not.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provides information about several individuals including Tim Fain (an American violinist), Philip Morris Glass (an American composer), and Franz Schreker (an Austrian composer). The claim is that the man who composed Irrelohe was also a teacher, which is true for Franz Schreker as stated in the evidence that he was not only a composer but also a teacher. Therefore, the information given in the evidence supports the claim about Franz Schreker being both a composer and a teacher. However, there's no direct link between Tim Fain or Philip Morris Glass with teaching, so we cannot determine if they were teachers based on this evidence.\n\n2. Label: SUPPORTED (for the claim about Franz Schreker)",
+    "num_hops": 4
+  }
+]

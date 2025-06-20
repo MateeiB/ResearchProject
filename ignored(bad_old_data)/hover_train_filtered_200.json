@@ -1,0 +1,902 @@
+[
+  {
+    "uid": "330ca632-e83f-4011-b11b-0d0158145036",
+    "claim": "Skagen Painter Peder Severin Kr\u00f8yer favored naturalism along with Theodor Esbern Philipsen and the artist Ossian Elgstr\u00f6m studied with in the early 1900s.",
+    "label": "SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "ca7db8e1-799a-4498-b31b-b1a430b5874e",
+    "claim": "Skagen Painter Peder Severin Kr\u00f8yer favored naturalism along with Theodor Esbern Philipsen and the artist Ossian Elgstr\u00f6m studied with in 1907.",
+    "label": "SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "2e9cf58a-40e1-47ee-aaa8-3b84ebe94cd0",
+    "claim": "Skagen Painter Peder Severin Kr\u00f8yer favored naturalism along with Theodor Esbern Philipsen and the muralist Ossian Elgstr\u00f6m studied with in 1907.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "f2f4b69d-d833-4f6d-a630-f156a2559af6",
+    "claim": "Skagen Painter, who painted the 1893 painting Roses, favored naturalism. Theodor Esbern Philipsen and the artist that Ossian Elgstr\u00f6m studied with in December of 1907 also favored naturalism.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "824c8ffa-da36-45ea-9f68-0342e3893a63",
+    "claim": "Skagen Painter Peder Severin Kr\u00f8yer favored naturalism along with Norderhov and the artist Ossian Elgstr\u00f6m studied with in 1907.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "3b6757f3-0505-45a0-9f26-3f0daecf11d7",
+    "claim": "Skagen Painter and  artist Peder Severin Kr\u00f8yer favored naturalism. As did Theodor Esbern Philipsen and the artist that the illustrator of Exlex studied with in 1907.",
+    "label": "SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "b07fde45-fda5-49ab-b845-4ad2c88d46c6",
+    "claim": "Skagen Painter, who painted the 1893 painting Roses, favored naturalism. Theodor Esbern Philipsen and the artist that Ossian Elgstr\u00f6m studied with in 1907 also favored naturalism.",
+    "label": "SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "80ca66bd-2535-4ec3-8421-ad9dcbebf06d",
+    "claim": "Skagen Painter Peder Severin Kr\u00f8yer favored naturalism along with Theodor Esbern Philipsen and Kristian Zahrtmann.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "c7dacde1-d47f-48e2-87dc-7f46ae9b97c0",
+    "claim": "Skagen Painter Peder Severin Kr\u00f8yer favored naturalism. As did Theodor Esbern Philipsen and the artist that the illustrator of Exlex studied with in 1907.",
+    "label": "SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "3be7b926-2b30-4130-86a1-3fccc4ee2655",
+    "claim": "Red, White & Cr\u00fce and this athlete both fight. The french fighter was trained by Bobby Stewart.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "1632da2c-c6ca-4d12-9545-6469f24ea3a2",
+    "claim": "Red, White & Cr\u00fce and Mike Tyson both died.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "e1e9cda2-49a1-4117-a5a7-974563c58676",
+    "claim": "Red, White & Cr\u00fce and Mike Tyson both fight.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "c21c7c39-d282-4958-a333-e6572b75487f",
+    "claim": "Red, White & Cr\u00fce and this athlete both fight. The fighter was trained by Bobby Stewart.",
+    "label": "SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "ef4c721f-0a92-4739-9e74-b5c7dba711a4",
+    "claim": "WWE Super Tuesday took place at an arena that currently goes by the name TD Garden.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "8a3d7423-9b02-4f94-9d03-733a244c40a3",
+    "claim": "Kait Parker fills in occasionally for the meteorologist who replaced Ginger Zee.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "7c55bf49-1230-4df0-aa9e-08e23fb4a892",
+    "claim": "An IndyCar race driver drove a Formula 1 car designed by Peter McCool during the 2007 Formula One season.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "642ef759-aec2-4cec-97cc-7ecdc104dfca",
+    "claim": "Mark O'Connor is an Amercian bluegrass singer who performed the song Restless with The New Nashville Cats.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "dc40701b-6f65-4291-a6ef-3c3ca8359a23",
+    "claim": "Gina Bramhill was born in a village. The 2011 population of the area that includes this village was 167,446.",
+    "label": "SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "f3b3d95f-0012-45e7-b43d-577cc5c9e2cc",
+    "claim": "Gina Bramhill was born in an Italian village. The 2011 population of the unitary authority area that includes this village was 167,446.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "de03ff7c-eedb-49d0-96d7-ae2622174f08",
+    "claim": "The 2011 population of the unitary authority area that includes the village Eastoft was 167,446.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "e26bdff3-04e8-4c81-894a-850f8395ece9",
+    "claim": "Gina Bramhill was born in a village. The 2011 population of the unitary authority area that includes this village was 167,446.",
+    "label": "SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "25d4468b-735d-4021-9088-321721187dab",
+    "claim": "Love Drunk was the lead single from Boys Like Girls album on which frontman, Martin Johnson co-wrote a song with Taylor Swift.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "ef1b06ba-30a9-455e-a712-9a4840916e75",
+    "claim": "Beatrice Willard served as an economics advisor to President Richard Milhous Nixon, a former Senator from California.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "df25a3b5-7a4e-4194-b2de-06b3cbc5a7d4",
+    "claim": "Beatrice Willard served as an advisor to President Richard Milhous Nixon, a former Senator from California.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "16048bb3-48b9-4c47-bab7-da5769c8c572",
+    "claim": "Beatrice Willard served as an aide to President Richard Milhous Nixon, a former Senator from California.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "82f5d817-104c-4bf6-ad14-a6a1cc3f3ece",
+    "claim": "The MV Bessel ran aground at the second largest island in the Mediterranean in 1972.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "c0f93bd4-5b4d-4a4d-a751-c235e7307e5c",
+    "claim": "The MV Bessel ran aground at the second largest island in the Mediterranean in summer of 1972.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "0d5f5c7d-88f2-40fe-a62e-cab7b8ca8d0b",
+    "claim": "The American film, television and theater actress who was a star in the film the Matchmaker and also received the 40th AFI Life Achievement Award was born April 24, 1934.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "b84accac-576f-4b13-ac44-7387c27debeb",
+    "claim": "JSOC was created on the recommendation of a colonel who served in the Malayan Emergency and Vietnam War.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "f806d594-ac5c-4e7a-870d-234535f0a928",
+    "claim": "The American cable and satellite television channel that April \"Ape\" Margera appears upon is owned by Viacom Media Networks.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "a96a2b44-09d3-4d6e-9f5e-1a2b82aa01bf",
+    "claim": "Substorm was described in qualitative terms by a scientist nominated for Nobel Prize seven times.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "e46bbfa9-987d-4dbb-832a-dec9c9967a49",
+    "claim": "\"HMS \"Sussex\" was an 80-gun third-rate ship, of the line of the English Royal Navy, for the Kingdom of England on the island of Great Britain from the 10th century\u2014when it emerged from various Anglo-Saxon kingdoms\u2014until 1707, when it united with Scotland to form the Kingdom of Great Britain.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "2f7aa88a-0c79-45f4-817d-b4b88261d216",
+    "claim": "\"HMS \"Sussex\" was an 80-gun third-rate ship, of the line of the English Royal Navy, for the Kingdom of England on the island of Great Britain from the 10th century\u2014when it emerged from 16 Anglo-Saxon kingdoms\u2014until 1707, when it united with Scotland to form the Kingdom of Great Britain.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "ae54a521-f2fc-4745-8633-9b938037fd4b",
+    "claim": "The man known as the voice of \"Elgar\" voices the English character in the Manga Love Hina inspired by Keitaro Arima.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "ef70d951-53bb-4761-9f48-f25651aa1545",
+    "claim": "The area renamed Northland in Stone Spring, an area that once connected Great Britain to continental the Grand Canyon, is thought to have been submerged around 6,200 BCE by a massive landslide along 290 km of the continental shelf.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "562e09bb-1c14-4956-8f9c-6525d7496a9c",
+    "claim": "Doggerland, an area that once connected Great Britain to continental Europe, is thought to have been submerged around 6,200 BCE by a massive landslide along 290 km of the continental shelf.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "a63619f5-b0b7-4572-a6f7-0305e5c3a36f",
+    "claim": "The area renamed Northland in Stone Spring, an area that once connected Great Britain to continental Europe, is thought to have been submerged centuries ago by a massive landslide along 290 km of the continental shelf.",
+    "label": "SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "dbe5a86f-5a80-41cf-8377-0e10f0f842e4",
+    "claim": "The area renamed Northland in Stone Spring, an geographical region that once connected Great Britain to continental Europe, is thought to have been submerged around 6,200 BCE by a massive landslide along 290 km of the continental shelf.",
+    "label": "SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "66e63594-163a-4dcb-9406-5e4f98ca0eb2",
+    "claim": "Doggerland, an area that once connected Jutland to continental Europe, is thought to have been submerged around 6,200 BCE by a massive landslide along 290 km of the continental shelf.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "31d32e44-3a37-4737-aa17-9da1a7ccc8aa",
+    "claim": "The area renamed Northland in Stone Spring, an area that once connected Great Britain to continental Europe, is thought to have been submerged around 6,200 BCE by a massive landslide along 290 km of the continental shelf.",
+    "label": "SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "c18fd4fe-4013-4875-998d-5ab41715d3a1",
+    "claim": "Hermann Neubacher held a diplomatic post as an Albanian Nazi officer in the Albanian Kingdom, when it was under the control of the Kingdom of Italy.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "ddcfb80b-e271-4cd7-9f98-4a5ca5482967",
+    "claim": "Hermann Neubacher held a diplomatic passport as an Austrian Nazi politician in the Albanian Kingdom, when it was under the control of the Kingdom of Italy.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "0982491f-a8be-4fa2-b45a-dbca2f6ae17b",
+    "claim": "Hermann Neubacher held a diplomatic post as an Austrian Nazi politician in the Albanian Kingdom, when it was under the control of the Kingdom of Italy.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "992e5b4d-3d54-4b8d-87ea-1faf93a8bcb1",
+    "claim": "Don Ashley Turlington graduated from Saint Joseph's College, a private Catholic liberal arts college in Standish.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "e499796b-0fe1-4a8d-bb57-30625db2b992",
+    "claim": "The previous Vice President of Production at the animation studio that is owned and operated by Viacom, currently works for Cartoon Network Studios.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "c3c53768-5750-4b57-95f9-8040a54fc8ea",
+    "claim": "The British monarch (Elizabeth II) is the head of state of the territory where the Ibrahim-al-Ibrahim Mosque is located.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "a9ea580d-7635-4825-881a-e6608bae3700",
+    "claim": "The British monarch (Elizabeth II) is the head of state of the territory where Keightley Way  connects Plaza Kotaraya at Little Bay to the place worship for Muslims and Nun's Well at Europa Point.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "d04bfc81-0753-45dc-a000-fdc945acb0f2",
+    "claim": "The British monarch (Elizabeth II) is the head of state of the territory where Keightley Way connects Rosia Road at Little Bay to the place worship for Muslims and Nun's Well at Europa Point in Turkey.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "fa7ccaa0-962e-4b36-9a5c-90492f2f1b30",
+    "claim": "The British monarch (Elizabeth II) is the head of state of the territory where Keightley Way  connects Rosia Road at Little Bay to the place worship for Muslims and Nun's Well at Europa Point.",
+    "label": "SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "4d7bcfe3-4a34-4e14-80ac-bfbbfc1a2fb8",
+    "claim": "The British monarch (Elizabeth II) is the head of state of the territory where Keightley Way  connects Rosia Road at Shusha to the place worship for Muslims and Nun's Well at Europa Point.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "1ac9e985-0247-44da-9829-f5bacea2fb75",
+    "claim": "The British monarch (Elizabeth II) is the head of state of the territory where Keightley Way connects Rosia Road to the place worship for Muslims and Nun's Well at Europa Point.",
+    "label": "SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "63977b24-e925-41a8-8369-e5a2ef4e910f",
+    "claim": "The British monarch (Elizabeth II) is the head of state of the territory where Keightley Way  connects Rosia Road at Little Bay to the place worship for British and Nun's Well at Europa Point.",
+    "label": "SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "356af093-a986-457b-8f1e-12b3a4e78f86",
+    "claim": "The name of the Dreyse needle gun's succesor was also called Fusil Mle 1886 M93.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "84e38ae2-5015-47f2-ab44-59bd595ff8c7",
+    "claim": "In the 1990's business executive Petrie Dierman Kughn built one of the three mills landmarks in California in 1994.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "43734774-4eea-4974-8760-d6c3aee0773b",
+    "claim": "In the 1990's Petrie Dierman Kughn built one of the three mills landmarks in California in 1994.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "c795e77d-b199-400f-b95d-0ecb24a1a6f0",
+    "claim": "The composer of Longplayer was a banjo player in a band. The musician James McNally was in this band.",
+    "label": "SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "b71b0c3f-4de0-40a3-92ed-564ef571f90c",
+    "claim": "The composer of Longplayer was a player in the band The Pogues.",
+    "label": "SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "c5f3a21e-ada6-4cce-aaa3-369dd829d917",
+    "claim": "Hoch wie nie was published by the same singer that is also a  composer. This composer was a banjo player in the band The Shane MacGowan.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "e1a4f91d-5a00-4d03-8667-fe95c9bc2a52",
+    "claim": "Hoch wie nie was published by the same singer that is also a  composer. This composer was a banjo player in the band The Pogues.",
+    "label": "SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "24593bc5-5d5e-4675-9430-f9dc6fdcf3f7",
+    "claim": "Hoch wie nie was published by the same blues singer that is also a composer. This composer was a banjo player in the band The Pogues.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "f21ac134-8bb6-4956-8025-ee68ed7bb976",
+    "claim": "Hoch wie nie was published by the same singer that is also a  composer. This composer was a banjo player in the band The MacGowan.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "d2ae0dea-8486-415a-a029-9d6e9d64c53d",
+    "claim": "Jem Finer was a banjo player in the band The Pogues.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "5f665868-1049-4e19-a1e0-f4e89bae675e",
+    "claim": "The composer of Longplayer was a banjo player in the band The Alexis Kirke.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "493296b9-1f2d-4717-a211-833b3ca50783",
+    "claim": "The composer of Longplayer was a banjo player in a band. The classical musician James McNally was in this band.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "5ad3b468-db9f-4475-ab80-3dd6319173a9",
+    "claim": "The composer of Longplayer was a banjo player and singer in the band The Pogues.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "7b1c5f38-b0c8-4356-bffa-143cc4176bcf",
+    "claim": "Mashorey is located in Afghanistan.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "e83fe6c2-d14b-4b30-a245-fa66e7c786e5",
+    "claim": "Mashorey is located in Paktika Province.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "91d7de7e-19c2-4db2-b1d7-dc1a21ee8451",
+    "claim": "Mashorey is located in southern Afghanistan.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "11b73596-e492-471e-a208-5a4365aa3ab1",
+    "claim": "Mario Mazzacurati won the 1936 South African Grand Prix with the Bugatti, a type of two door car that was founded in 1909 in the then German city of Molsheim, Alsace.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "adb8672f-0d2e-45da-8c42-20f7f5c4e7bb",
+    "claim": "Mario Mazzacurati won the 1936 South African Grand Prix with the Bugatti, a type of car that was founded in 1909 in the then German city of Molsheim, Alsace.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "66792374-b611-44aa-b903-4bd8709cb908",
+    "claim": "This movie is based on a book by the Austrian author who also wrote The Hound of Florence, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+    "label": "SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "a61974ff-1adf-469a-b46a-a0903eb50f7f",
+    "claim": "This 1938 movie is based on a book by the Austrian author Felix Salten, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "448c124d-4531-442b-8c3e-052f9344f594",
+    "claim": "This 2001 documentary is based on a book by the Austrian author who also wrote The Hound of Florence, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "b5357553-95dc-4763-bf94-e77f83672342",
+    "claim": "This movie is based on a book by the Austrian author Felix Salten, The film where Candy Ford voiced Salten is not. The movie was restored and preserved by John D. Lowry.",
+    "label": "SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "11670eea-bbc5-412b-8bf6-e1966b743fbe",
+    "claim": "Bambi, is based on a book by the Austrian author Felix Salten, The Country Bears is not.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "570246db-03b2-450b-bc7e-09f15556425c",
+    "claim": "This movie is based on a book by the German author Felix Salten, The film where Candy Ford voiced Trixie is not. The movie was restored and preserved by John D. Lowry.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "a490061f-d7bc-4c1f-814b-3c9f91e83b9a",
+    "claim": "This movie is based on a book by the Austrian author Felix Salten, The film where Candy Ford voiced Trixie is not. The movie was restored and preserved by John D. Lowry.",
+    "label": "SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "1867a82f-24f9-4e92-af74-ec910bc4a418",
+    "claim": "This movie is based on a book by the Austrian author Felix Salten, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+    "label": "SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "115a1123-db02-4e93-9727-63e6ec22e34d",
+    "claim": "Bambi, is based on a book by the American author Felix Salten, The Country Bears is not.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "e68a2a37-a304-4992-aa3f-f525fa0addfc",
+    "claim": "This movie is based on a book by the German author who also wrote The Hound of Florence, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "28b6e328-341a-4206-95ae-61b3bd8ed814",
+    "claim": "This movie is based on a book by the Austrian author Faline, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "61a7b876-e6dd-4f38-a794-4a457d01eca8",
+    "claim": "This horror movie is based on a book by the Austrian author Felix Salten, The film where Candy Ford voiced Trixie is not. The movie was restored and preserved by John D. Lowry.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "f68fce7f-80bf-4cdb-8ed8-96cb00e88362",
+    "claim": "Bambi, is based on a book by the Austrian photographer Felix Salten, The Country Bears is not.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "b79c4050-3cda-4002-ba5a-223ea71ec275",
+    "claim": "This movie is based on a book by the German author Felix Salten, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "afe71f12-340c-4d2e-808c-07d541d8220d",
+    "claim": "In the 2004 Hockey film produced by a former major league baseball pitcher Kurt Russell played the USA coach.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "58888919-18ea-481a-ad64-011738579544",
+    "claim": "Gael and Fitness are not published in the same country.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "c84a8f2a-62e0-465b-93ee-77b553845689",
+    "claim": "Dollar Days was the sixth track on Bowie's twenty-fifth and final studio album. The album that was released was recorded in secret.",
+    "label": "SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "1d80fc54-767c-4647-825c-23bafc0722cd",
+    "claim": "Dollar Days was a track on Bowie's twenty-fifth and final studio album. The album that was released was recorded in secret.",
+    "label": "SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "b3ab6007-f2e8-4e27-a4ea-73c7b69b2fc5",
+    "claim": "Blackstar is the name of the album released by David Bowie that was recorded in secret.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "1c2d98b2-1d9d-4c78-8637-241d6604c128",
+    "claim": "Dollar Days was the sixth track on award winning Bowie's twenty-fifth and final studio album. The album that was released was recorded in secret.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "bfcb6e2c-44c2-45b8-b895-aaa380c71c1d",
+    "claim": "A hockey team calls the venue of the Survivor Series (2011) PPV event it's home. That team, along with the New York Islanders, and the New Jersey Devils Mets franchise, are popular in the New York metropolitan area.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "2297cc35-0ec1-44dc-b62f-81cd8c5d1f7e",
+    "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and the New Jersey Devils Giants franchise, are popular in the New York metropolitan area. That team, along with the New York Islanders, and the New Jersey Devils Giants franchise, are popular in the a part of a city.  Coverage of news on Vos Iz Neias? focuses on this part of a city.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "27b07616-9b1d-425e-9594-5b3552a03226",
+    "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and the New Jersey Devils the Metropolitan Division of the Eastern Conference franchise, are popular in the New York metropolitan area.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "017ca949-aaad-4733-814a-9830b8108ade",
+    "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the a part of a city.  Coverage of news on Vos Iz Neias? focuses on this part of a city.",
+    "label": "SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "131cacf8-3bf9-440f-98c9-2b75c189d405",
+    "claim": "Along with the New York Islanders and the New York Rangers, the New Jersey Devils NHL franchise is popular in the New York metropolitan area.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "9b2d4ae3-ae38-4e44-ba97-ad65e7e17b2b",
+    "claim": "A hockey team calls the 70,000 capacity Madison Square Garden it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "ca4dbf2c-7295-4e39-8085-2d990b270e0e",
+    "claim": "Along with the New York Islanders and the New York Rangers, the New Jersey Devils NFL franchise is popular in the New York metropolitan area.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "cde3a364-2757-4c56-bff8-59b98bd4d28c",
+    "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and Major League Soccer NHL franchise, are popular in the New York metropolitan area. That team, along with the New York Islanders, and Major League Soccer NHL franchise, are popular in the a part of a city.  Coverage of news on Vos Iz Neias? focuses on this part of a city.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "069627f7-35cb-4b0c-b704-c58173d8a35e",
+    "claim": "A hockey team calls the venue of the Survivor Series (2011) PPV event it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area.",
+    "label": "SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "0ebe301c-9e8a-4503-b6e3-58ccc938d2b5",
+    "claim": "A hockey team calls the venue of the Boxing fight Survivor Series (2011) PPV event it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "cb424d8e-0047-4b13-8385-2d6d13af20fd",
+    "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and the Brooklyn Nets NHL franchise, are popular in the New York metropolitan area. That team, along with the New York Islanders, and the Brooklyn Nets NHL franchise, are popular in the a part of a city.  Coverage of news on Vos Iz Neias? focuses on this part of a city.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "2427c810-c00d-4876-8b10-c87c4ba3648b",
+    "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area.",
+    "label": "SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "44f3c7fd-922f-467d-bb1b-15d8c89533e3",
+    "claim": "A hockey team calls the venue of the Survivor Series (2011) PPV event it's home. That team, along with the New York Islanders, and National Basketball Association NHL franchise, are popular in the New York metropolitan area.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "71c5ac8d-2219-4f6a-a662-440107fdf714",
+    "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the a part of a city. Coverage of news on Vos Iz Neias? focuses on this part of a city and broadcasts in German only.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "e6a1912f-c2e9-4664-be9d-52459bb25278",
+    "claim": "A hockey team calls the venue of the Survivor Series (2011) Blueshirts event it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "a152b7c4-4c78-4342-bcb8-2220a717ae35",
+    "claim": "Robert Earl Holding owned an oil company that was originally founded by Harry F. Sinclair.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "2cde647b-0134-4a60-96e5-00ef6042e6e9",
+    "claim": "The man unseated by Rick Galindo in 2009, and the winner of the San Antonio mayoral election of 2009 belong to the same party. They are both democrats.",
+    "label": "SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "da76117c-94a8-45c1-a3a1-d0ee4a565d80",
+    "claim": "The Georgia man unseated by Rick Galindo and Julian Castro are democratic and not Republican.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "7adacd22-00c1-48b2-8f87-bed24b4777f6",
+    "claim": "The person unseated by Rick Galindo and Julian Castro are democratic and not Republican.",
+    "label": "SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "723ae88d-ccd2-4cf0-a882-9c2906aef225",
+    "claim": "The man unseated by Rick Galindo and Julian Castro are democratic and not Republican.",
+    "label": "SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "97c812b0-6d82-4798-8ec7-c84ef3021376",
+    "claim": "The man unseated by Rick Galindo and Julian Castro are democratic and not Democratic.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "08e84a3c-b7be-4d3a-8ab8-783bb711c4c5",
+    "claim": "Philip Cortez and Julian Castro are democratic and not Republican.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "e65d1cde-79ac-4a3b-960a-36af45fb2749",
+    "claim": "The man unseated by Rick Galindo,  and the winner of the  San Antonio mayoral election of 2009  belong to the same party. They are both democrats.",
+    "label": "SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "1ecece55-903e-4870-9f58-c1078ed2d4a6",
+    "claim": "The nationality of the dancer who partnered Tom Chambers in the sixth season of Strictly Come Dancing is Danish.",
+    "label": "SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "e95b3253-608a-4ac9-ad47-a5bf0dd48d01",
+    "claim": "The nationality of the dancer who represented Tom Chambers in the fifth season of Strictly Come Dancing is Danish.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2
+  },
+  {
+    "uid": "b375313d-8035-4da2-85ac-f322122ddb1e",
+    "claim": "The film The Book Thief, released in 1990, was directed by same director of the film About a Girl. The Book Thief is based on a book by Markus Zusak.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "13c18c84-21de-4dce-8a93-9a75b679dd4c",
+    "claim": "The film The Book Thief was directed by same director of the film About a Girl. The Book Thief is based on a book by Markus Zusak.",
+    "label": "SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "61c46eb3-7336-4b18-8447-ecc3e645a5e6",
+    "claim": "The film that featured Nico Liersch in the role of Rudy Steiner was directed by same director of the film About a Girl. That film is based on a young adult novel by Markus Zusak.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "fc547707-7274-41c3-89ca-1cc8f5ab46fa",
+    "claim": "The film that featured Nico Liersch in the role of Winnie Markus was directed by same director of the film About a Girl. That film is based on a book by Markus Zusak.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "ecb85765-b58f-4ca4-9c36-a289cb736cb9",
+    "claim": "The film that featured Nico Liersch in the role of Rudy Steiner was directed by same director of the film About a Girl. That film is based on a book by Liesel Meminger.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "8ee73ca6-03f2-4945-9fd4-2fb206b6da03",
+    "claim": "The film that featured Nico Liersch in the role of Rudy Steiner was directed by same director of the film About a Girl. That film is based on a book by Markus Zusak.",
+    "label": "SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "c364f0f1-5970-4c72-a7f9-1d2012713d57",
+    "claim": "The president of South Korea was born 24 January 1953. The group that Vietnam-born Euh Yoon-Dae was Chairman of lies under his direct control.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "1137bbf6-6dec-4883-a28b-bfc61be5e52b",
+    "claim": "The president of South Korea was born 24 January 1953. The group that Euh Yoon-Dae was Chairman of lies under his direct control.",
+    "label": "SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "b8358aa7-a20e-4095-9d5c-682beabc88fb",
+    "claim": "The writer of the song Girl Talk and song-writer Park So-yeon have both been members of a girl group.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "ee4b2611-6162-496c-a667-76598870ecb5",
+    "claim": "Park So-yeon was a members of a three piece girl group. So was the writer of the song that was the second single released from the group TLC, \"Hands Up\".",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "74328ca2-e362-4a5d-baba-2a5efd76e6c4",
+    "claim": "The writer of the song Girl Talk has been been members of a girl group. The co-host of the 4th APAN Star Awards also has been been members of a girl group.",
+    "label": "SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "f014a2df-d079-4aaa-8823-ef7ef87c681a",
+    "claim": "The writer of the song Girl Talk and Park So-yeon have both been members of a girl group.",
+    "label": "SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "c7e41ec9-e9c7-482f-89ea-4e8a9b1382b3",
+    "claim": "Park So-yeon  was a members of a girl group. So was the writer of the song that was the second single released from the group TLC, \"Hands Up\".",
+    "label": "SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "5f40a5f6-f1ec-4aa8-8558-26190ab95919",
+    "claim": "The writer of the song Girl Talk and Park So-yeon have both been members of a girl group.",
+    "label": "SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "475dc308-0ab1-43a9-80cb-4125f4141234",
+    "claim": "The writer of the song Girl Talk and Park So-yeon have both been members of a group.",
+    "label": "SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "99aa2df0-1290-4a1d-ad04-4d486eed8f3b",
+    "claim": "The writer of the song Girl Talk has been been members of a J-pop girl group. The co-host of the 4th APAN Star Awards also has been been members of a girl group.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "26dc26af-3f56-4712-9872-75b38a8fe80c",
+    "claim": "The North Central town that licenses WCJB-TV is home to the punk rock band Against Me! formed in 1991.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "38310caa-bf75-49e4-978d-6af2ce88a46c",
+    "claim": "The North Central town that licenses WCJB-TV is home to the music band Against Me!.",
+    "label": "SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "fd38dc67-c066-46d2-a49b-a7432389ef58",
+    "claim": "The Mars town that licenses WCJB-TV is home to the punk rock band Against Me!.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "e54b122a-b885-4ab0-a768-280a8e3b2145",
+    "claim": "The North Central town that licenses WCJB-TV is home to the punk rock band Against Me!.",
+    "label": "SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "7fe247ab-60c6-4810-9539-bcf355a999d9",
+    "claim": "The movie. in which David Zayas played Francis Ford Coppola the cop, is the movie that John Gavin Malkovich had played in with Matt Damon and Edward Norton.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "e1801c95-dad0-40ab-a22b-ce7aae27fa2d",
+    "claim": "The movie. in which David Zayas played Osborne the cop, is the movie that John Gavin Malkovich had played in with Matt Damon and James Moll.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3
+  },
+  {
+    "uid": "4729625d-5d4b-4a6a-a68d-3eec5a04b3fc",
+    "claim": "David Zayas played Osborne the cop in an Academy Award-winning movie. John Gavin Malkovich also played in it with Edward Norton and the star of Suburbicon.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "d0366ef4-d715-4cca-999e-f12fca652211",
+    "claim": "The star of the 2015 film, The Wannabe, played Osborne the cop in a movie. In that same movie, John Gavin Malkovich starred in with Matt Damon and Edward Norton.",
+    "label": "SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "8d0bed54-0809-4d60-be40-258112ae5201",
+    "claim": "David Zayas played Osborne the cop in a movie. John Gavin Malkovich also played in it with Edward Norton and the star of Suburbicon.",
+    "label": "SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "f5bdb28b-811c-4bb6-91fd-11fe20f2fcbc",
+    "claim": "This species and the relative of the Fir are classified as genus in the naming system. Parnassius nordmanni is a high altitude butterfly which is found the Caucasus. The larva feeds on this species including \"C. alpestris\", \"C. conorhiza\" and \"C. emanueli\".",
+    "label": "SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "184dad52-0c0c-4bc9-ad76-1e1a63508e04",
+    "claim": "This species and the relative of the Fir are classified as genus in the naming system. Parnassius nordmanni is a high altitude, blue and red butterfly which is found the Caucasus. The larva feeds on this species including \"C. alpestris\", \"C. conorhiza\" and \"C. emanueli\".",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "4380ac7f-ec51-4903-b652-f8dc0ca909e1",
+    "claim": "A film was the documentary made before filmmaker Tigre Hill's first documentary. Juliet Weber co-produced this film.",
+    "label": "SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "adb5fac0-b26e-43fe-a80a-2cd186a1fcaf",
+    "claim": "The group Leonidas L. Polk led was the organized agrarian economic movement among Catholic farmers. It was supported by the weekly left-wing political newspaper, that was published by Julius Wayland.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "3d8dbbab-7ea8-4e88-9296-042683b40db1",
+    "claim": "Farmers' Alliance was the organized agrarian economic movement among Progressives farmers. It was supported by the weekly left-wing political newspaper, that was published by a publisher. This publisher was influenced by the thinking of Laurence Gronlund.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "356e549b-c476-48c3-a28b-46c8bb3ef310",
+    "claim": "The group Leonidas L. Polk led was the organized agrarian economic movement among American farmers. It was supported by the weekly left-wing political newspaper, that was published by Julius Wayland.",
+    "label": "SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "d0b1ebcb-d0bb-49fd-a54e-3b3efe06bbdc",
+    "claim": "The group Leonidas L. Polk led was the organized agrarian economic movement among 19th century American farmers. It was supported by the weekly left-wing political newspaper, that was published by Julius Wayland.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "ad1e8c48-9fa5-4ba7-9d88-0134f371a01c",
+    "claim": "The Tennessee Governor's Mansion was built as a private home in 1929. Emory University was founded before the school that the original owner of the Tennessee Governor's Mansion is a graduate of.",
+    "label": "SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "9ee34768-a022-4354-b271-4f47370d4e1a",
+    "claim": "The Tennessee Governor's Mansion was built as a private home in 1929. Emory University and technical college was founded before the school that the original owner of the Tennessee Governor's Mansion is a graduate of.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  },
+  {
+    "uid": "e910f807-4bca-44ff-bf5f-69175a6dbe07",
+    "claim": "The man that composed the opera Irrelohe was also a teacher. The composer, who American Violinist and singer Tim Fain is best known for working with, was not.",
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4
+  }
+]

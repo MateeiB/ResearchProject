@@ -1,0 +1,8 @@
+[
+  {
+    "claim": "\"The non-partisan Congressional Budget Office concluded ObamaCare will cost the U.S. more than 800,000 jobs.\"",
+    "taxonomy_label": "statistical",
+    "original_label": "Conflicting",
+    "justification": "The label \"Conflicting\" is appropriate for the claim that \"The non-partisan Congressional Budget Office concluded ObamaCare will cost the U.S. more than 800,000 jobs.\" The evidence provided in the article supports this conclusion.\n\nFirstly, the CBO report does not actually use the 800,000 jobs number. Instead, it describes a \"small segment\" of the population who will choose to work less due to changes in incentives in the labor market. This suggests that the actual impact on job numbers may be lower than the exaggerated claim made by Bachmann.\n\nSecondly, the CBO acknowledges that the health care law could actually help economic productivity by improving health status among workers. This contradicts the claim that the law will lead to a significant loss of jobs.\n\nFinally, the article notes that the CBO has not attempted to quantify the potential impact on job numbers due to the law's incentives for lower and higher income people. This suggests that the actual impact may be difficult to estimate and could be less than the 800,000 jobs claimed by Bachmann.\n\nBased on these points, it can be concluded that the claim made by Bachmann is exaggerated and misleading, and therefore the label \"Conflicting\" is appropriate."
+  }
+]

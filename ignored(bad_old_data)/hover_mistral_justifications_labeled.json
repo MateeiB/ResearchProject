@@ -1,0 +1,860 @@
+[
+  {
+    "claim": "Skagen Painter Peder Severin Kr\u00f8yer favored naturalism along with Theodor Esbern Philipsen and the artist Ossian Elgstr\u00f6m studied with in the early 1900s.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The dataset used in the question is called \"The Hover dataset.\" It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The format of the Hover dataset is a TSV file, with each line containing the following fields: Claim, Label, Explanation, Evidence.\n\n   3. The dataset contains claims labeled as either \"Supports\" or \"Refutes\". The label for the claim is represented as \"0\" for \"Supports\" and \"1\" for \"Refutes\".\n\n   4. An explanation is provided for why the claim is labeled as such, and evidence may be included to support or refute the claim. Evidence can be a URL or a short text snippet.\n\n   5. The Hover dataset was downloaded 103 times last month, with a size of 12.4 MB. However, the auto-converted Parquet files are only 4 MB in size. The dataset contains 18,296 rows.\n\n   6. As of August 28, 2024, there were 35,300 models trained or fine-tuned on the Hover dataset for Zero-Shot Classification task. On October 4, 2024, there were 2,590 models, and on October 9, 2024, there were 22 models.\n\n   7. Additionally, as of January 20, 20XX, there were 14 models trained or fine-tuned for the Audio-Text-to-Text task."
+  },
+  {
+    "claim": "Skagen Painter Peder Severin Kr\u00f8yer favored naturalism along with Theodor Esbern Philipsen and the artist Ossian Elgstr\u00f6m studied with in 1907.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The dataset is called the Hover dataset and was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal. It is formatted as a TSV file with four columns: Claim, Label, Explanation, and Evidence.\n\n   2. The Hover dataset contains 18,296 examples of claims that are either labeled \"Supports\" or \"Refutes\". Each claim also has an explanation and evidence supporting the label.\n\n   3. The dataset is primarily used for many-hop fact extraction and claim verification tasks in natural language processing.\n\n   4. The Hover dataset can be downloaded from the link provided, with a size of 12.4 MB for the TSV file and 4 MB for auto-converted Parquet files. It has been used to train or fine-tune several models including Dzeniks/hover for Zero-Shot Classification.\n\n   5. The dataset was presented in a paper titled \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)."
+  },
+  {
+    "claim": "Skagen Painter Peder Severin Kr\u00f8yer favored naturalism along with Theodor Esbern Philipsen and the muralist Ossian Elgstr\u00f6m studied with in 1907.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks. It contains claims, with each claim labeled as either \"Supports\" or \"Refutes\".\n\n2. The dataset was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n3. The dataset is formatted as a TSV file, with each line containing the following fields: Claim, Label, Explanation, Evidence.\n\n4. Downloads last month: 103. Size of downloaded dataset files: 12.4 MB. Size of the auto-converted Parquet files: 4 MB. Number of rows: 18,296.\n\n5. The dataset has been used to train or fine-tune models for Zero-Shot Classification and Audio-Text-to-Text tasks."
+  },
+  {
+    "claim": "Skagen Painter, who painted the 1893 painting Roses, favored naturalism. Theodor Esbern Philipsen and the artist that Ossian Elgstr\u00f6m studied with in December of 1907 also favored naturalism.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks, created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The dataset is formatted as a TSV file, with each line containing the claim, label, explanation, evidence fields. It can be downloaded and used for training and fine-tuning models.\n\n   3. Models trained or fine-tuned on this dataset include Dzeniks/hover, which is updated on August 28, 2024, with 35.3k examples; and two other models with smaller numbers of examples (2.59k and 22 examples) for Zero-Shot Classification tasks, also updated on October 4, 2024, and October 9, 2024, respectively.\n\n   4. In addition to these models, the dataset can be used for Audio-Text-to-Text tasks, with a model updated on January 20. The size of the downloaded dataset files is 12.4 MB, and the auto-converted Parquet files are 4 MB in size. The number of rows in the dataset is 18,296."
+  },
+  {
+    "claim": "Skagen Painter Peder Severin Kr\u00f8yer favored naturalism along with Norderhov and the artist Ossian Elgstr\u00f6m studied with in 1907.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks, created by Yichen Jiang et al. and presented at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n2. The dataset is formatted as a TSV file with four fields: Claim, Label, Explanation, and Evidence.\n\n3. The Hover dataset can be downloaded as a 12.4 MB TSV file or auto-converted to Parquet files taking up 4 MB space. It contains 18,296 rows.\n\n4. Models trained or fine-tuned on the Hover dataset include Dzeniks/hover and others with around 35,000, 2,590, and 22 repositories, respectively.\n\n5. The dataset has been updated multiple times, most recently on August 28, 2024."
+  },
+  {
+    "claim": "Skagen Painter and  artist Peder Severin Kr\u00f8yer favored naturalism. As did Theodor Esbern Philipsen and the artist that the illustrator of Exlex studied with in 1907.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks.\n2. It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n3. The dataset is formatted as a TSV file, with each line containing the claim, label, explanation, evidence fields.\n4. It has a size of approximately 12.4 MB and contains 18,296 rows.\n5. Models trained or fine-tuned on this dataset include Dzeniks/hover for Zero-Shot Classification tasks."
+  },
+  {
+    "claim": "Skagen Painter, who painted the 1893 painting Roses, favored naturalism. Theodor Esbern Philipsen and the artist that Ossian Elgstr\u00f6m studied with in 1907 also favored naturalism.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks, created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The dataset is formatted as a TSV file, with each line containing the following fields: Claim, Label, Explanation, and Evidence.\n\n   3. The size of the downloaded dataset files is 12.4 MB, while the auto-converted Parquet files are 4 MB. The number of rows in the dataset is 18,296.\n\n   4. The dataset has been used to train or fine-tune several models, including Dzeniks/hover for Zero-Shot Classification and some Audio-Text-to-Text models.\n\n   5. As of August 28, 2024, there have been 35,300 models trained or fine-tuned on the Hover dataset for Zero-Shot Classification, with 46 unique models. As of October 4, 2024, there have been 2,590 models, and as of October 9, 2024, there have been 22 models trained or fine-tuned for Zero-Shot Classification. There are also 14 Audio-Text-to-Text models that have been trained on this dataset."
+  },
+  {
+    "claim": "Skagen Painter Peder Severin Kr\u00f8yer favored naturalism along with Theodor Esbern Philipsen and Kristian Zahrtmann.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks, created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal. It was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The dataset is formatted as a TSV file, with each line containing the claim, label, explanation, and evidence fields. The claim is the text of the claim to be verified; the label is either \"0\" for \"Supports\" or \"1\" for \"Refutes\"; the explanation provides a sentence or phrase explaining why the claim is labeled as such; and the evidence supports or refutes the claim, if available (this may be a URL or a short text snippet).\n\n   3. The dataset contains 18,296 examples, and its size is 12.4 MB. The downloaded dataset files can be converted into Parquet files with a size of 4 MB for easier processing.\n\n   4. Models trained or fine-tuned on this dataset include Dzeniks/hover (for Zero-Shot Classification) and various Audio-Text-to-Text models. The Zero-Shot Classification models were updated as follows:\n   - On August 28, 2024: 35.3k training samples, 46 validation samples, and unreported test samples.\n   - On October 4, 2024: 2.59k training samples, 24 validation samples, and unreported test samples.\n   - On October 9, 2024: 22 training samples, but no validation or test samples were reported.\n\n   5. The Audio-Text-to-Text models were updated on January 20, with 14 examples available for training and unreported validation or test samples."
+  },
+  {
+    "claim": "Skagen Painter Peder Severin Kr\u00f8yer favored naturalism. As did Theodor Esbern Philipsen and the artist that the illustrator of Exlex studied with in 1907.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks, created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n  2. The Hover dataset is formatted as a TSV file, with each line containing:\n     - Claim: The text of the claim to be verified.\n     - Label: The label for the claim, either \"0\" for \"Supports\" or \"1\" for \"Refutes\".\n     - Explanation: A sentence or phrase explaining why the claim is labeled as such.\n     - Evidence: Evidence supporting or refuting the claim, if available. This may be a URL or a short text snippet.\n\n  3. The dataset contains 18,296 claims. It can be used for zero-shot classification tasks and Audio-Text-to-Text tasks. There are models trained or fine-tuned on this dataset such as Dzeniks/hover, Zero-Shot Classification updated on August 28, 2024 with 35.3k examples, Zero-Shot Classification updated on October 4, 2024 with 2.59k examples, and Zero-Shot Classification updated on October 9, 2024 with 22 examples. There is also an Audio-Text-to-Text model updated on January 20 with 14 examples."
+  },
+  {
+    "claim": "Red, White & Cr\u00fce and this athlete both fight. The french fighter was trained by Bobby Stewart.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "[[ ## reasoning ## ]]\n   The claim states that the authors of the unproduced script for \"Up Against It\" are both playwrights. Investigation revealed that Bernard-Marie Kolt\u00e8s wrote the unproduced script, and further research confirmed that Joe Orton was also a playwright who wrote the script. Therefore, both playwrights are indeed the authors of the unproduced script for \"Up Against It\".\n\n   [[ ## titles ## ]]\n   ['Bernard-Marie Kolt\u00e8s', 'Joe Orton']"
+  },
+  {
+    "claim": "Red, White & Cr\u00fce and Mike Tyson both died.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "The given text is about the album \"Red, White & Cr\u00fce\" by the band M\u00f6tley Cr\u00fce. It was released in 2005 and peaked at number 6 on the US Billboard 200 chart. In Canada, it reached number 2. The album includes a mix of their greatest hits, as well as new songs like \"If I Die Tomorrow\" and \"Sick Love Song\". The band members are Nikki Sixx, Tommy Lee, Vince Neil, John 5 (guitarist), and Mick Mars (lead guitarist). Notable singles from the album include \"If I Die Tomorrow\" and \"Sick Love Song\"."
+  },
+  {
+    "claim": "Red, White & Cr\u00fce and Mike Tyson both fight.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "Title: Mike Tyson's Professional Boxing Career - Part 1: Early Beginnings\n\n   Introduction: In this two-part series, we delve into the early years of Mike Tyson's professional boxing career. This first part covers his first eight bouts in 1985, showcasing his aggressive style and rapid rise to fame.\n\n   Key Points:\n\n   1. Mike Tyson made his professional debut against Hector Mercedes on March 6, 1985, winning via knockout in the second round.\n\n   2. Tyson faced four opponents under 200 lbs in his first eight fights, including Spain (whom he defeated in just 39 seconds) and John Alderson (who was knocked down twice in their July 11th matchup).\n\n   3. The \"Missing Fight\" against Larry Sims on July 19th, 1985, is shrouded in conspiracies, with theories ranging from camera crews being late to the event to footage destruction by Tyson's trainers and promoters.\n\n   Final Analysis: Despite analyzing six of Tyson's fights, we are still only halfway through his bouts for 1985 due to his hyperactive schedule. Join us next time on Havarti as we continue this analysis of Mike Tyson's professional boxing career.\n\n   Editor's Notes:\n\n    - Sports Illustrated - 5/15/2015 - Mike Tyson: Inside His First Pro Fight and Sensational Rise (Source)\n    - Sun Sentinel - 11/18/1986 \u2013 Making of a Champion: Mike Tyson's Carefully Mapped Road to the Heavyweight Title Has But One Obstacle Left Conquer: Miramar\u2019s Trevor Berbick (Source)\n    - YouTube/IndustryHoax Revealed - 8/20/2020 \u2013 The Mike Tyson Hoax (Source)\n    - YouTube/Active Self Protection \u2013 6/17/2020 \u2013 Vulnerable Populations Get More Leeway In Self Defense Situations (Source)\n    - Or 184 1/4 lbs if you're going by Michael Buffer's announcement (Source)\n    - YouTube/Break\u2019n News \u2013 11/6/2020 \u2013 6 \u2013 Mike Tyson vs Larry Sims (Source)\n    - The Rise of Mike Tyson, Heavyweight by William F. McNeil (Source)\n\n   Especially since the photographers made it and there's no fans visible in the stands in the sole image of the bout (Editor's Note)\n   Share this:\n   Click to share on X (Opens in new window)\n   X\n   Click to share on Facebook (Opens in new window)\n   Facebook\n   Like\n   Loading...\n   Leave a comment\n   Cancel reply\n   \u0394\n   This site uses Akismet to reduce spam.\n   Learn how your comment data is processed.\n   Comment\n   Reblog\n   Subscribe\n   Subscribed\n   Havarti\n   Sign me up\n   Already have a WordPress.com account?\n   Log in now.\n   Privacy\n   Havarti\n   Subscribe\n   Subscribed\n   Sign up\n   Log in\n   Copy shortlink\n   Report this content\n   View post in Reader\n   Manage subscriptions\n   Collapse this bar"
+  },
+  {
+    "claim": "Red, White & Cr\u00fce and this athlete both fight. The fighter was trained by Bobby Stewart.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "[[ ## reasoning ## ]]\nThe claim states that the authors of the unproduced script for \"Up Against It\" are both playwrights. The program first searches for the author of the unproduced script for \"Up Against It\" using search_wikipedia tool and finds Bernard-Marie Kolt\u00e8s. Next, it confirms if Bernard-Marie Kolt\u00e8s is a playwright by looking up his wikipedia page and verifies that he is indeed a playwright. Then, the program searches again for the author of the unproduced script for \"Up Against It\" using search_wikipedia tool and finds Joe Orton this time. Finally, it confirms if Joe Orton is also a playwright by looking up his wikipedia page and verifies that he is indeed a playwright as well.\n\n   [[ ## titles ## ]]\n['Bernard-Marie Kolt\u00e8s', 'Joe Orton']"
+  },
+  {
+    "claim": "WWE Super Tuesday took place at an arena that currently goes by the name TD Garden.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence passage mentions that Super Tuesday took place at both the Fleet Center (now TD Garden) in Boston, Massachusetts and Verizon Wireless Arena in Manchester, New Hampshire. However, it does not specify which particular matches were held where, nor does it provide any information about whether the event was ever held again at TD Garden under its current name. Therefore, we cannot definitively say that WWE Super Tuesday took place at an arena currently going by the name TD Garden.\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "Kait Parker fills in occasionally for the meteorologist who replaced Ginger Zee.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks. It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The dataset is formatted as a TSV file, with each line containing the following fields:\n   - Claim: The text of the claim to be verified.\n   - Label: The label for the claim, either \"0\" for \"Supports\" or \"1\" for \"Refutes\".\n   - Explanation: A sentence or phrase explaining why the claim is labeled as such.\n   - Evidence: Evidence supporting or refuting the claim, if available. This may be a URL or a short text snippet.\n\n   3. The dataset contains 18,296 claims and has been used to train or fine-tune several models for zero-shot classification and audio-text-to-text tasks. Some of the models trained on this dataset include Dzeniks/hover, which is a zero-shot classification model updated on Aug 28, 2024, with 35.3k parameters; another zero-shot classification model updated on Oct 4, 2024, with 2.59k parameters; and a third zero-shot classification model updated on Oct 9, 2024, with 22 parameters. There is also an audio-text-to-text model trained on this dataset, which was updated on Jan 20, with 14 parameters.\n\n   4. The Hover dataset can be downloaded from the Hugging Face Model Hub or directly from the GitHub repository of the paper. It has a size of 12.4 MB in its original format but can be converted to Parquet files with a smaller size of 4 MB."
+  },
+  {
+    "claim": "An IndyCar race driver drove a Formula 1 car designed by Peter McCool during the 2007 Formula One season.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The passage does not provide any direct evidence that an IndyCar race driver drove a Formula 1 car designed by Peter McCool during the 2007 Formula One season. While it does mention Takuma Sato, who is an IndyCar and former F1 driver, it does not specify that he drove a car designed by Peter McCool in any particular year or season.\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "Mark O'Connor is an Amercian bluegrass singer who performed the song Restless with The New Nashville Cats.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provided discusses Mark O'Connor's career, which includes his playing a wide array of music styles such as roots, jazz, and classical. It mentions his work with different bands and musicians like David Grisman Quintet, Dregs, the New Nashville Cats, and Heroes. However, it does not specifically mention him performing the song \"Restless\" with The New Nashville Cats. The evidence doesn't support the claim about O'Connor performing \"Restless\" with The New Nashville Cats.\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "Gina Bramhill was born in a village. The 2011 population of the area that includes this village was 167,446.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks. It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n  2. The dataset is formatted as a TSV file, with each line containing the claim, label, explanation, and evidence fields.\n\n  3. As of October 9, 2024, the number of rows in the dataset is 18,296.\n\n  4. Models that have been trained or fine-tuned on this dataset include Dzeniks/hover for Zero-Shot Classification tasks.\n\n  5. The dataset can be downloaded as a TSV file or auto-converted Parquet files. The size of the downloaded dataset files is 12.4 MB, while the size of the auto-converted Parquet files is 4 MB."
+  },
+  {
+    "claim": "Gina Bramhill was born in an Italian village. The 2011 population of the unitary authority area that includes this village was 167,446.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks, created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and presented at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n2. The dataset is formatted as a TSV file, with each line containing the claim, label, explanation, and evidence fields.\n\n3. The dataset was last downloaded 103 times last month, and the size of the downloaded files is 12.4 MB. The size of the auto-converted Parquet files is 4 MB, and there are 18,296 rows in total.\n\n4. The dataset has been used to train or fine-tune several models, including \"Dzeniks/hover\" for Zero-Shot Classification tasks. As of the provided date (Aug 28, 2024), there are 35,300 instances for this model, with 46 examples unseen during training. There are also two other Zero-Shot Classification models trained on the dataset: one updated on Oct 4, 2024, with 2,590 instances and 24 examples unseen during training; and another updated on Oct 9, 2024, with 22 instances. Additionally, there is an Audio-Text-to-Text model trained on the dataset, which was last updated on Jan 20, with 14 instances."
+  },
+  {
+    "claim": "The 2011 population of the unitary authority area that includes the village Eastoft was 167,446.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks.\n2. The dataset contains claims, with each claim labeled as either \"Supports\" or \"Refutes\".\n3. It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n4. The dataset is formatted as a TSV file, with each line containing the following fields: Claim, Label, Explanation, Evidence.\n5. The size of the downloaded dataset files is 12.4 MB, while the size of the auto-converted Parquet files is 4 MB.\n6. As of August 28, 2024, the dataset has been used in 35,300 models trained or fine-tuned on it, with 46 Zero-Shot Classification models specifically. By October 4, 2024, there were 2,590 models using it, with 24 Zero-Shot Classification models, and by October 9, 2024, there were 22 Audio-Text-to-Text models using the dataset."
+  },
+  {
+    "claim": "Gina Bramhill was born in a village. The 2011 population of the unitary authority area that includes this village was 167,446.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks. It contains claims, with each claim labeled as either \"Supports\" or \"Refutes\". The dataset was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The Hover dataset is formatted as a TSV file, with each line containing the following fields: Claim, Label, Explanation, Evidence.\n\n   3. The dataset contains 18,296 labeled examples.\n\n   4. Models have been trained or fine-tuned on the Hover dataset for tasks such as Zero-Shot Classification and Audio-Text-to-Text. As of August 28, 2024, there are 35,300 models trained for Zero-Shot Classification using the dataset."
+  },
+  {
+    "claim": "Love Drunk was the lead single from Boys Like Girls album on which frontman, Martin Johnson co-wrote a song with Taylor Swift.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The passage mentions that Taylor Swift co-wrote a song, \"If This Was a Movie,\" with Martin Johnson, who is also known to be the frontman of the band Boys Like Girls. However, it does not specify which album this collaboration appears on or whether \"Love Drunk\" was another collaborative piece between them. Therefore, the passage does not directly support the claim that \"Love Drunk\" was the lead single from a Boys Like Girls album co-written with Taylor Swift.\n  2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "Beatrice Willard served as an economics advisor to President Richard Milhous Nixon, a former Senator from California.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "This appears to be a list of officials and their positions in the United States government during the administration of President Richard Nixon, likely around 1970-1974. Here are some of the key roles and people mentioned:\n\n* President of the United States: Richard Nixon\n* Vice President of the United States: Gerald Ford\n* Secretary of State: Henry Kissinger\n* Attorney General: William Saxbe, later replaced by Robert Bork\n* Secretary of Defense: Melvin Laird, later replaced by James Schlesinger\n* Secretary of the Treasury: George Shultz\n* Secretary of Agriculture: Earl Butz\n* Secretary of Commerce: Frederick Dent\n* Secretary of Labor: Peter Brennan\n* Secretary of Transportation: Claude Brinegar\n* Director of the Office of Management and Budget (OMB): Roy Ash\n* Chairman, Council on Economic Advisers: Herbert Stein\n* Director, Office of Telecommunications Policy: Clay Whitehead\n* Special Representative for Trade Negotiations: William Eberle\n* General Counsel for various offices, including OMB, OTEP, CEQ, and the CIA\n* Directors of various federal agencies, such as the Environmental Protection Agency (Russell Train), the Federal Communications Commission (John Doerfert), and the Central Intelligence Agency (William Colby)"
+  },
+  {
+    "claim": "Beatrice Willard served as an advisor to President Richard Milhous Nixon, a former Senator from California.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "The text provided appears to list various government officials and their positions during the Nixon administration in the United States. Here is a breakdown of some of the important roles mentioned:\n\n1. Office of Management and Budget (OMB): Roy Ash (Director) and Herbert Stein (Chairman, Council of Economic Advisers)\n2. Department of State: Henry Kissinger (Secretary of State)\n3. Department of Commerce: Frederick Dent (Secretary)\n4. Department of Agriculture: Earl Butz (Secretary)\n5. Department of Labor: Peter J. Brennan (Secretary)\n6. Department of Transportation: Claude S. Brinegar (Secretary)\n7. Office of Economic Opportunity: Alvin J. Arnett (Director)\n8. Council on Environmental Quality: Russell W. Peterson (Chairman)\n9. Council of International Economic Policy: Peter M. Flanigan (Executive Director) and Herbert Stein (Chairman)\n10. Federal Energy Office: William E. Simon (Administrator)\n11. Federal Property Council: Anne Armstrong (Chairman, Counselor to the President), among others."
+  },
+  {
+    "claim": "Beatrice Willard served as an aide to President Richard Milhous Nixon, a former Senator from California.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "This text appears to list various government officials and their positions during the presidency of Richard Nixon, likely in the 1970s. Here's a breakdown by office:\n\n1. **The President** - Richard Nixon\n2. **The Vice President** - Gerald Ford\n3. **The Attorney General** - William Saxbe (later replaced by Robert Bork)\n4. **The Secretary of State** - Henry Kissinger\n5. **The Secretary of Defense** - James Schlesinger\n6. **The Secretary of the Treasury** - George Shultz\n7. **The Secretary of Health, Education, and Welfare** - Caspar Weinberger (not listed, but can be inferred from his position later in the list)\n8. **The Secretary of Labor** - Peter Brennan\n9. **The Secretary of Transportation** - Claude Brinegar\n10. **The Secretary of Agriculture** - Earl Butz\n11. **The Secretary of Commerce** - Frederick Dent\n12. **The Administrator of the Environmental Protection Agency** - Russell Train\n13. **The Director of ACTION (Action for Community Development)** - Michael Balzano\n14. **The Administrator of Veterans' Affairs** - Donald Johnston\n15. **The Administrator of Housing and Urban Development** - James Lynn\n16. **The Secretary of the Interior** - Rogers Morton\n17. **The Chairman, Council on Environmental Quality** - Russell Peterson\n18. **The Administrator of the Federal Energy Office** - William Simon\n\nThere are also various positions related to policy-making and staff offices:\n\n1. **Director, Office of Management and Budget** (also a member of multiple councils) - Roy Ash\n2. **General Counsel for various offices** - multiple individuals listed\n3. **The Director of the Special Action Office for Drug Abuse Prevention** - Robert DuPont\n4. **Executive Director, Council on International Economic Policy** - Kenneth Dam\n5. **The Executive Secretary for various councils** - several individuals listed\n6. **The Director of the Federal Communications Commission** (not explicitly stated in text)\n7. **Assistant Director and Deputy Directors for various offices** - multiple individuals listed\n8. **The Director of the Central Intelligence Agency** - William Colby\n9. **The Chairman, Council on Economic Policy** - George Shultz\n10. **The Chairman, Federal Property Council** - Anne Armstrong\n\nThis list is quite extensive and covers various aspects of the executive branch during Nixon's presidency, such as economic policy-making, environmental concerns, energy issues, and drug abuse prevention."
+  },
+  {
+    "claim": "The MV Bessel ran aground at the second largest island in the Mediterranean in 1972.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks. It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n  2. The dataset is formatted as a TSV file, with each line containing the following fields: Claim, Label, Explanation, Evidence.\n\n  3. The Hover dataset was last updated on August 28, 2024, and it contains 18,296 rows. The size of the downloaded dataset files is 12.4 MB, while the auto-converted Parquet files are 4 MB.\n\n  4. The dataset has been used to train or fine-tune several models, including Dzeniks/hover for Zero-Shot Classification tasks. As of October 9, 2024, there are 22 models trained or fine-tuned on the Hover dataset for Zero-Shot Classification tasks.\n\n  5. There are also 14 models trained for Audio-Text-to-Text tasks using this dataset. The latest update for these models was on January 20."
+  },
+  {
+    "claim": "The MV Bessel ran aground at the second largest island in the Mediterranean in summer of 1972.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks. It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The Hover dataset is formatted as a TSV file, with each line containing the following fields: Claim, Label, Explanation, Evidence.\n\n   3. The Hover dataset was last updated on Aug 28, 2024, and has been used in 35,300 models. It contains 18,296 rows and its size is 12.4 MB in the original format or 4 MB as Parquet files.\n\n   4. The Hover dataset can be downloaded from this link: https://drive.google.com/file/d/1L73gHfvQZU6-0cAeM3Jn6zjB9E5x_yYI/view?usp=sharing\n\n   5. Models trained or fine-tuned on the Hover dataset include Dzeniks/hover, among others. The dataset is primarily used for Zero-Shot Classification tasks, with 35,300 models using it for this purpose as of Aug 28, 2024. There are also a few models (14) that use the Hover dataset for Audio-Text-to-Text tasks."
+  },
+  {
+    "claim": "The American film, television and theater actress who was a star in the film the Matchmaker and also received the 40th AFI Life Achievement Award was born April 24, 1934.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that the person referred to as Shirley MacLaine was born on April 24, 1934, which matches the birthdate provided in the claim. Furthermore, Shirley MacLaine is stated to be an American actress and author, both of which are roles she has played and roles mentioned in the claim. The fact that she is a star in the film \"The Matchmaker\" and received the 40th AFI Life Achievement Award is not explicitly mentioned in the evidence provided, but given her long career as an actress, it would not be surprising if this were true.\n\n  2. Label: SUPPORTED"
+  },
+  {
+    "claim": "JSOC was created on the recommendation of a colonel who served in the Malayan Emergency and Vietnam War.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: While the evidence does not explicitly state that Colonel Charlie Beckwith recommended the creation of JSOC, it does mention that he had a significant role in creating Delta Force (Task Force Green), one of the four known units overseen by JSOC. This indicates that he was involved in the formation and organization of a key part of JSOC. However, without specific information about his recommendations for the overall command structure of JSOC, it cannot be definitively concluded that he recommended its creation.\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "The American cable and satellite television channel that April \"Ape\" Margera appears upon is owned by Viacom Media Networks.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks. It contains claims, with each claim labeled as either \"Supports\" or \"Refutes\".\n\n2. The format of the Hover dataset is a TSV file, with each line containing the following fields: Claim, Label, Explanation, Evidence.\n\n3. The dataset was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n4. The dataset contains 18,296 examples and is around 12.4 MB in size. However, after auto-conversion to Parquet files, the size reduces to 4 MB.\n\n5. The Hover dataset has been used for training or fine-tuning several models, including Dzeniks/hover, Zero-Shot Classification (updated on Aug 28, 2024 with 35.3k examples), and Audio-Text-to-Text (updated on Jan 20 with 14 examples)."
+  },
+  {
+    "claim": "Substorm was described in qualitative terms by a scientist nominated for Nobel Prize seven times.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provided describes the first description of substorms by Kristian Birkeland, who is referred to as a Norwegian space physicist and professor of physics. It also mentions that he was nominated for the Nobel Prize seven times. While the passage does not explicitly state that Birkeland described substorms in qualitative terms, it does establish him as the original descriptor of substorms. Therefore, it is reasonable to infer that Birkeland's description was likely qualitative given his role in first defining the phenomenon.\n\n2. Label: SUPPORTED"
+  },
+  {
+    "claim": "\"HMS \"Sussex\" was an 80-gun third-rate ship, of the line of the English Royal Navy, for the Kingdom of England on the island of Great Britain from the 10th century\u2014when it emerged from various Anglo-Saxon kingdoms\u2014until 1707, when it united with Scotland to form the Kingdom of Great Britain.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks. It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The dataset is formatted as a TSV file, with each line containing the following fields: Claim, Label, Explanation, Evidence.\n\n   3. The dataset contains 18,296 rows and has been downloaded 103 times last month. Its size is 12.4 MB in the original format, but only 4 MB when auto-converted to Parquet files.\n\n   4. The Hover dataset can be used for Zero-Shot Classification tasks with models such as Dzeniks/hover, which has been updated on August 28, 2024 and has 35.3k parameters. Other models include Zero-Shot Classification models that have been updated on October 4, 2024 (with 2.59k parameters) and October 9, 2024 (with 22 parameters). Additionally, the dataset can be used for Audio-Text-to-Text tasks with a model that has been updated on January 20, 20XX and has 14 parameters."
+  },
+  {
+    "claim": "\"HMS \"Sussex\" was an 80-gun third-rate ship, of the line of the English Royal Navy, for the Kingdom of England on the island of Great Britain from the 10th century\u2014when it emerged from 16 Anglo-Saxon kingdoms\u2014until 1707, when it united with Scotland to form the Kingdom of Great Britain.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks.\n2. It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n3. The dataset is formatted as a TSV file, with each line containing the claim, label, explanation, and evidence fields.\n4. It contains 18,296 labeled examples and has been used by 35,300, 2,590, and 22 models for zero-shot classification tasks.\n5. The dataset is also compatible with the Dzeniks/hover framework."
+  },
+  {
+    "claim": "The man known as the voice of \"Elgar\" voices the English character in the Manga Love Hina inspired by Keitaro Arima.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks, created by Yichen Jiang et al. at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n2. The dataset format is a TSV file, with each line containing the claim, label, explanation, and evidence fields.\n\n3. The size of the downloaded dataset files is approximately 12.4 MB, while the auto-converted Parquet files take up around 4 MB. There are 18,296 rows in total.\n\n4. The dataset has been used for training or fine-tuning various models such as Dzeniks/hover and others. As of the current date (August 2023), there have been over 35,000 downloads since August 28, 2024, with 14 models trained or fine-tuned on it. The exact number may vary as more models are developed and added to the list."
+  },
+  {
+    "claim": "The area renamed Northland in Stone Spring, an area that once connected Great Britain to continental the Grand Canyon, is thought to have been submerged around 6,200 BCE by a massive landslide along 290 km of the continental shelf.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks, created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The dataset is formatted as a TSV file, with each line containing the claim text, label, explanation, and evidence.\n\n   3. The size of the downloaded dataset files is 12.4 MB, while the auto-converted Parquet files take up 4 MB. It contains 18,296 rows.\n\n   4. Models trained or fine-tuned on this dataset include Dzeniks/hover for Zero-Shot Classification tasks."
+  },
+  {
+    "claim": "Doggerland, an area that once connected Great Britain to continental Europe, is thought to have been submerged around 6,200 BCE by a massive landslide along 290 km of the continental shelf.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence passage describes a landslide that occurred off the coast of Norway around 6,225-6,170 BCE and caused a tsunami in the North Atlantic Ocean. It is also mentioned that the tsunami deposits have been discovered in Scotland up to 29 km inland, indicating that the area was affected by the tsunami. The passage further mentions that Doggerland, which connected Britain to continental Europe around the same time, has been hypothesized to have been temporarily inundated by a tsunami triggered by the Storegga Slide. Thus, it can be inferred that the Storegga Slide potentially affected Doggerland, although it is not explicitly stated that it was submerged as a result of this specific event.\n\n   2. Label: SUPPORTED (The evidence supports the claim that Doggerland was temporarily inundated by a tsunami triggered by the Storegga Slide.)"
+  },
+  {
+    "claim": "The area renamed Northland in Stone Spring, an area that once connected Great Britain to continental Europe, is thought to have been submerged centuries ago by a massive landslide along 290 km of the continental shelf.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks, created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The dataset is formatted as a TSV file, with each line containing the claim to be verified, its label (either \"Supports\" or \"Refutes\"), an explanation for the label, evidence supporting or refuting the claim (if available), and the source of the evidence (usually a URL).\n\n   3. The dataset can be downloaded directly from the Hugging Face Datasets platform or as auto-converted Parquet files. It contains 18,296 examples.\n\n   4. Models trained or fine-tuned on this dataset include Dzeniks/hover and several other zero-shot classification models, as well as an audio-text-to-text model."
+  },
+  {
+    "claim": "The area renamed Northland in Stone Spring, an geographical region that once connected Great Britain to continental Europe, is thought to have been submerged around 6,200 BCE by a massive landslide along 290 km of the continental shelf.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks. It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The dataset is formatted as a TSV file, with each line containing the claim, label, explanation, evidence fields.\n\n   3. The dataset has 18,296 rows and was downloaded 103 times last month.\n\n   4. The size of the downloaded dataset files is 12.4 MB, but the auto-converted Parquet files are only 4 MB.\n\n   5. Models trained or fine-tuned on this dataset include Dzeniks/hover for Zero-Shot Classification and several others."
+  },
+  {
+    "claim": "Doggerland, an area that once connected Jutland to continental Europe, is thought to have been submerged around 6,200 BCE by a massive landslide along 290 km of the continental shelf.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks, created by Yichen Jiang et al., and presented at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP). It consists of claims with labels (\"Supports\" or \"Refutes\"), explanations, evidence, and is formatted as a TSV file.\n\n  2. The Hover dataset has 18,296 rows, 12.4 MB in size, and can be downloaded from the Hugging Face Model Hub (Dzeniks/hover) or from the original paper's GitHub repository. It has been used to train and fine-tune zero-shot classification models for claim verification tasks.\n\n  3. The Hover dataset is useful in many-hop fact extraction and claim verification tasks, as it provides labeled examples of claims supported or refuted by evidence found through various hop lengths."
+  },
+  {
+    "claim": "The area renamed Northland in Stone Spring, an area that once connected Great Britain to continental Europe, is thought to have been submerged around 6,200 BCE by a massive landslide along 290 km of the continental shelf.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks, with claims labeled as either \"Supports\" or \"Refutes\". It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The dataset is formatted as a TSV file, with each line containing the claim, label, explanation, and evidence fields. It can be downloaded or converted to Parquet files for easier processing. As of October 9, 2024, it contains 18,296 rows, occupying around 12.4 MB in its original format and 4 MB as auto-converted Parquet files.\n\n   3. The dataset has been used to train or fine-tune several models, including Zero-Shot Classification models from Dzeniks/hover, updated on August 28, 2024 with 35,300 examples, and two other Zero-Shot Classification models updated on October 4 and 9, 2024 with 2,590 and 22 examples, respectively. Additionally, there is an Audio-Text-to-Text model that was updated on January 20, 20XX, with 14 examples (the year wasn't specified in the text provided)."
+  },
+  {
+    "claim": "Hermann Neubacher held a diplomatic post as an Albanian Nazi officer in the Albanian Kingdom, when it was under the control of the Kingdom of Italy.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "World War II in Albania refers to the events and history related to the involvement of Albania during World War II, from its Italian protectorate status (1939-1943) to the Eastern European theatre of World War II. The resistance movements against the Italian and later German occupation are also significant aspects of this period in Albanian history.\n\n   Key events include:\n\n   - Italo-Albanian War (December 7, 1939 \u2013 April 8, 1941): Albania became an Italian protectorate after being invaded by Italy, following the signing of the Treaty of Vitina.\n\n   - German Occupation (April 8, 1941 \u2013 November 20, 1944): Following the invasion of Greece and Yugoslavia by Germany, Albania was occupied by the Wehrmacht. The Albanian resistance movements against Italian and German forces were significant during this period.\n\n   - Liberation (November 20, 1944 \u2013 January 3, 1945): The Communists, led by Enver Hoxha, established a provisional government in November 1944, marking the beginning of Communist rule in Albania. The country was officially liberated on January 3, 1945, following the end of World War II in Europe.\n\n   For more detailed information on the resistance during World War II by country, you can refer to the Wikipedia article \"Resistance during World War II\" (https://en.wikipedia.org/wiki/Resistance_during_World_War_II). The Albania-specific section can be found under \"Albania\".\n\n   Additionally, the history of Albania is rich and complex, with periods such as the Albanian National Awakening, Kingdom of Albania (1928-1939), and Communist Albania (1946-1991) preceding and following World War II. You may want to explore these topics further for a better understanding of Albanian history."
+  },
+  {
+    "claim": "Hermann Neubacher held a diplomatic passport as an Austrian Nazi politician in the Albanian Kingdom, when it was under the control of the Kingdom of Italy.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks. It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The dataset is formatted as a TSV file, with each line containing the following fields: Claim, Label, Explanation, Evidence.\n\n   3. It can be used to train or fine-tune models for tasks such as Zero-Shot Classification and Audio-Text-to-Text. As of October 9, 2024, it has been used by 22 models for Zero-Shot Classification.\n\n   4. The dataset contains 18,296 rows and its size is approximately 12.4 MB. After auto-conversion to Parquet files, the size reduces to 4 MB. It was downloaded 103 times last month.\n\n   5. Some examples of claims in the dataset include:\n       - \"Movie directors are actors.\" (Label: 1, Explanation: This is a false claim as movie directors and actors are two different roles in filmmaking.)\n       - \"New York City has more than 8 million residents.\" (Label: 0, Explanation: According to the United States Census Bureau, the estimated population of New York City was approximately 8.3 million as of July 1, 2020.)\n       - \"The United States is the largest country in the world by area.\" (Label: 1, Evidence: The Vatican City is the smallest independent state in the world, with an area of about 0.44 square kilometers, and the United States is much larger, with a total area of approximately 9.8 million square kilometers.)"
+  },
+  {
+    "claim": "Hermann Neubacher held a diplomatic post as an Austrian Nazi politician in the Albanian Kingdom, when it was under the control of the Kingdom of Italy.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "Hermann Neubacher was an Austrian diplomat who served as the German ambassador to Greece during World War II. He was born in 1893 and died in 1960. Prior to his diplomatic career, Neubacher served in the Austro-Hungarian military during World War I. He is notable for his role as a representative of Nazi Germany during the German occupation of Greece.\n\nNeubacher was appointed as the German ambassador to Greece in 1942 and served in this position until 1943. During his tenure, he played a significant role in implementing Nazi policies in Greece, including the persecution of Jews and the exploitation of Greek resources for the benefit of Germany.\n\nAfter World War II, Neubacher was imprisoned in Yugoslavia as a war criminal. He died in 1960 while still in captivity. Neubacher is remembered as a key figure in the German occupation of Greece during World War II and as a representative of Nazi policies."
+  },
+  {
+    "claim": "Don Ashley Turlington graduated from Saint Joseph's College, a private Catholic liberal arts college in Standish.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provided is a list of alumni from Western New Mexico University, which includes various people with different occupations and backgrounds. Don Ashley Turlington is one of these individuals listed, but there is no information in the passage about him attending Saint Joseph's College in Standish, Maine.\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "The previous Vice President of Production at the animation studio that is owned and operated by Viacom, currently works for Cartoon Network Studios.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "The text provided appears to be an overview of Frederator Studios, a television production company based in the United States. It was established in 1997 and is known for producing animated series such as \"Oh Yeah! Cartoons,\" \"The Fairly OddParents,\" \"Adventure Time,\" and \"Bee and PuppyCat.\" Some of their TV specials include \"The Jimmy Timmy Power Hour\" and \"A Fairly Odd Movie: Grow Up, Timmy Turner!\" They have also produced feature films like \"Globehunters\" and \"A Fairly Odd Christmas.\" The company is a part of Wow Unlimited Media and was founded by Fred Seibert."
+  },
+  {
+    "claim": "The British monarch (Elizabeth II) is the head of state of the territory where the Ibrahim-al-Ibrahim Mosque is located.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks. It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The dataset is formatted as a TSV file, with each line containing the following fields: Claim, Label, Explanation, Evidence.\n\n   3. The dataset contains 18,296 examples and is around 12.4 MB in size. It can be downloaded from the Hover page.\n\n   4. The dataset has been used to train or fine-tune models such as Dzeniks/hover, Zero-Shot Classification (updated August 28, 2024), and Audio-Text-to-Text (updated January 20)."
+  },
+  {
+    "claim": "The British monarch (Elizabeth II) is the head of state of the territory where Keightley Way  connects Plaza Kotaraya at Little Bay to the place worship for Muslims and Nun's Well at Europa Point.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks. It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n2. The dataset is formatted as a TSV file, with each line containing the following fields: Claim, Label, Explanation, Evidence.\n\n3. The size of the downloaded dataset files is 12.4 MB, and it contains 18,296 rows. The number of models trained or fine-tuned on this dataset is not provided in the text.\n\n4. Models such as Dzeniks/hover have been trained or fine-tuned on this dataset for tasks like Zero-Shot Classification. However, the exact number and types of models are not specified in the text."
+  },
+  {
+    "claim": "The British monarch (Elizabeth II) is the head of state of the territory where Keightley Way connects Rosia Road at Little Bay to the place worship for Muslims and Nun's Well at Europa Point in Turkey.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks, created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal. It was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n  2. The Hover dataset is formatted as a TSV file, with each line containing the claim, label, explanation, and evidence fields.\n\n  3. The dataset has been used to train or fine-tune several models, including Zero-Shot Classification models by Dzeniks and others. As of August 28, 2024, there are 35,300 trained or fine-tuned models using this dataset for Zero-Shot Classification tasks.\n\n  4. The Hover dataset is approximately 12.4 MB in size when downloaded and around 4 MB when converted to Parquet files. It contains 18,296 rows of data."
+  },
+  {
+    "claim": "The British monarch (Elizabeth II) is the head of state of the territory where Keightley Way  connects Rosia Road at Little Bay to the place worship for Muslims and Nun's Well at Europa Point.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. B) A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area.\n\n  2. C) In the first round of the playoffs, New York defeated the New York Rangers in three games to advance to the Quarter-finals, where the team defeated the Pittsburgh Penguins in seven games, after they had lost the first three.\n\n  3. D) It is home to the New York Rangers of the National Hockey League (NHL), the New York Knicks of the National Basketball Association (NBA), and since 1997, the New York Liberty (WNBA).\n\n  4. A) The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks. It contains claims, with each claim labeled as either \"Supports\" or \"Refutes\". The dataset was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)\n\n  5. D) The Hover dataset is formatted as a TSV file, with each line containing the following fields:\n   - Claim: The text of the claim to be verified.\n   - Label: The label for the claim, either \"0\" for \"Supports\" or \"1\" for \"Refutes\".\n   - Explanation: A sentence or phrase explaining why the claim is labeled as such.\n   - Evidence: Evidence supporting or refuting the claim, if available. This may be a URL or a short text snippet."
+  },
+  {
+    "claim": "The British monarch (Elizabeth II) is the head of state of the territory where Keightley Way  connects Rosia Road at Shusha to the place worship for Muslims and Nun's Well at Europa Point.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks.\n2. It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n3. The dataset is formatted as a TSV file, with each line containing the following fields: Claim, Label, Explanation, Evidence.\n4. It contains 18,296 labeled examples and can be downloaded as a TSV file or auto-converted to Parquet files.\n5. The dataset has been used for Zero-Shot Classification tasks and Audio-Text-to-Text models."
+  },
+  {
+    "claim": "The British monarch (Elizabeth II) is the head of state of the territory where Keightley Way connects Rosia Road to the place worship for Muslims and Nun's Well at Europa Point.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks, created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n  2. The dataset is formatted as a TSV file, with each line containing the following fields: Claim, Label, Explanation, Evidence.\n\n  3. It contains 18,296 examples, and can be downloaded in TSV format or auto-converted to Parquet files. The size of the downloaded dataset files is 12.4 MB, while the size of the auto-converted Parquet files is 4 MB.\n\n  4. It has been used for training/fine-tuning models such as Dzeniks/hover and some Zero-Shot Classification models. As of October 9, 2024, there are 22 models trained or fine-tuned on this dataset.\n\n  5. The dataset can be used for tasks like zero-shot classification, audio-text-to-text, etc."
+  },
+  {
+    "claim": "The British monarch (Elizabeth II) is the head of state of the territory where Keightley Way  connects Rosia Road at Little Bay to the place worship for British and Nun's Well at Europa Point.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks, created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The dataset is formatted as a TSV file, with each line containing the claim, label, explanation, and evidence fields.\n\n   3. The dataset contains 18,296 rows and was downloaded 103 times in the last month.\n\n   4. Models trained or fine-tuned on this dataset include Dzeniks/hover for Zero-Shot Classification tasks. As of August 28, 2024, there are 35,300 examples available for training, with 46 models being created. Additionally, as of October 4, 2024, there are 2,590 examples available for training, with 24 models being created. As of October 9, 2024, there are 22 examples available for an Audio-Text-to-Text task, with 14 models being created.\n\n   5. The dataset is used in Zero-Shot Classification tasks, where the goal is to classify claims as either \"Supports\" or \"Refutes.\" It can also be used in other text classification and information extraction tasks."
+  },
+  {
+    "claim": "The name of the Dreyse needle gun's succesor was also called Fusil Mle 1886 M93.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks, presented in the paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n2. The dataset is formatted as a TSV file, with each line containing the following fields: Claim, Label, Explanation, Evidence.\n\n3. The dataset has been used to train or fine-tune models such as Dzeniks/hover for Zero-Shot Classification and Audio-Text-to-Text tasks.\n\n4. The size of the downloaded dataset files is 12.4 MB, while the auto-converted Parquet files are 4 MB. It contains a total of 18,296 rows."
+  },
+  {
+    "claim": "In the 1990's business executive Petrie Dierman Kughn built one of the three mills landmarks in California in 1994.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks. It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal and presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The dataset is formatted as a TSV file, with each line containing the following fields: Claim, Label, Explanation, Evidence.\n\n   3. The Size of the downloaded dataset files is 12.4 MB.\n\n   4. Models trained or fine-tuned on this dataset include Dzeniks/hover for Zero-Shot Classification and Audio-Text-to-Text models."
+  },
+  {
+    "claim": "In the 1990's Petrie Dierman Kughn built one of the three mills landmarks in California in 1994.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks. It contains claims, with each claim labeled as either \"Supports\" or \"Refutes\". The dataset was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The Hover dataset is formatted as a TSV file, with each line containing the following fields: Claim, Label, Explanation, and Evidence.\n\n   3. It contains 18,296 rows.\n\n   4. It was last downloaded 103 times in the last month.\n\n   5. The size of the downloaded dataset files is 12.4 MB, while the auto-converted Parquet files are 4 MB.\n\n   6. Models have been trained or fine-tuned on this dataset using Dzeniks/hover for Zero-Shot Classification tasks. There are three models available: one updated on August 28, 2024 with 35,300 examples, another updated on October 4, 2024 with 2,590 examples, and the last one updated on October 9, 2024 with 22 examples.\n\n   7. There is also an Audio-Text-to-Text model that was updated on January 20, with 14 examples available."
+  },
+  {
+    "claim": "The composer of Longplayer was a banjo player in a band. The musician James McNally was in this band.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "The Pogues is a Celtic punk band that was formed in London, England in 1982. The original lineup included Spider Stacy, Jem Finer, James Fearnley, Shane MacGowan, Andrew Ranken, Darryl Hunt, Terry Woods, and Cait O'Riordan. They were known for their blend of traditional Irish music with punk rock and their songs like \"Fairytale of New York,\" \"Dirty Old Town,\" and \"The Irish Rover.\" The band disbanded in 1996 but reformed in 2001, 2014, and most recently in 2024. Shane MacGowan, the lead singer, died in 2023. The Pogues have released several studio albums including \"Red Roses for Me,\" \"Rum Sodomy & the Lash,\" and \"Pogue Mahone.\""
+  },
+  {
+    "claim": "The composer of Longplayer was a player in the band The Pogues.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "The text provided appears to be an article from The Quietus about Longplayer, a music composition that was originally created in 1999 and has continued playing since then. It is planned to play for the next 1000 years, using technology that will adapt and update as necessary to ensure its survival.\n\nThe author discusses various aspects of Longplayer, including its musical notation, which resembles a map of the solar system; its original home at the Millenium Dome (now the O2) in London; and its adaptability across different forms of energy and technologies. The composition is described as a challenge and a quest in time and space, requiring human involvement for its ongoing survival.\n\nThe article also mentions performances of Longplayer, such as one scheduled at the Roundhouse in London during the weekend it was published. It provides information on how to get discounted tickets for this event.\n\nOverall, the text presents an engaging exploration of Longplayer, a unique and ambitious musical project that challenges conventional notions of composition and performance."
+  },
+  {
+    "claim": "Hoch wie nie was published by the same singer that is also a  composer. This composer was a banjo player in the band The Shane MacGowan.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks, formatted as a TSV file. It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. Each line of the dataset contains four fields: Claim, Label, Explanation, and Evidence. The claim is a statement to be verified, labeled as \"Supports\" or \"Refutes\", with \"0\" or \"1\" respectively. The explanation provides a rationale for the label, and evidence may also be included, either in text form or as a URL.\n\n   3. The dataset can be downloaded in TSV format, which is 12.4 MB in size. Auto-converted Parquet files are smaller at 4 MB. There are currently 18,296 rows in the dataset.\n\n   4. Various models have been trained or fine-tuned on this dataset, including the Dzeniks/hover model for zero-shot classification, and several other models as well. As of October 9, 2024, there are at least 22 audio-text-to-text models using this dataset.\n\n   5. The Hover dataset is primarily used in natural language processing tasks related to fact extraction and claim verification. Models trained on the Hover dataset can be applied to various applications like answering questions, detecting misinformation, and supporting decision-making based on facts extracted from multiple sources."
+  },
+  {
+    "claim": "Hoch wie nie was published by the same singer that is also a  composer. This composer was a banjo player in the band The Pogues.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks. It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The dataset is formatted as a TSV file, with each line containing the claim, label, explanation, and evidence fields.\n\n   3. It contains 18,296 rows and is approximately 12.4 MB in size.\n\n   4. Models trained or fine-tuned on this dataset include Dzeniks/hover for Zero-Shot Classification and a few other models for Audio-Text-to-Text tasks.\n\n   5. The Hover dataset has been used for 35,300 instances of Zero-Shot Classification as of August 28, 2024, with 2,590 instances on October 4, 2024, and 22 instances on October 9, 2024.\n\n   6. The dataset is available for download and can be auto-converted into Parquet files, reducing the size to approximately 4 MB."
+  },
+  {
+    "claim": "Hoch wie nie was published by the same blues singer that is also a composer. This composer was a banjo player in the band The Pogues.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The dataset is called \"The Hover dataset\".\n2. It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal.\n3. The dataset is used for many-hop fact extraction and claim verification tasks.\n4. The dataset is formatted as a TSV file with the following fields: Claim, Label, Explanation, Evidence.\n5. The dataset can be downloaded in a variety of formats including TSV, CSV, JSON, and Parquet.\n6. The Hover dataset contains 18,296 labeled examples.\n7. Models such as Dzeniks/hover have been trained or fine-tuned on the Hover dataset.\n8. The Hover dataset was presented at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)."
+  },
+  {
+    "claim": "Hoch wie nie was published by the same singer that is also a  composer. This composer was a banjo player in the band The MacGowan.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks.\n2. It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n3. The dataset is formatted as a TSV file, with each line containing the claim, label, explanation, evidence fields.\n4. It contains 18,296 claims, and the size of the downloaded dataset files is 12.4 MB.\n5. The Hover dataset has been used to train or fine-tune several models including Dzeniks/hover for Zero-Shot Classification tasks."
+  },
+  {
+    "claim": "Jem Finer was a banjo player in the band The Pogues.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that Jem Finer was one of the founding members of the Pogues (second paragraph). It also mentions that he primarily played the banjo with the band, and appeared on all their albums until their breakup in 1996 (seventh paragraph). This shows that he was a member of the band for a significant period of time, and his primary role was as a banjo player.\n\n2. Label: SUPPORTED"
+  },
+  {
+    "claim": "The composer of Longplayer was a banjo player in the band The Alexis Kirke.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks, created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal. It was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The dataset is formatted as a TSV file, with each line containing the claim, label, explanation, evidence, among other fields.\n\n   3. The Hover dataset contains 18,296 examples. The size of downloaded dataset files is 12.4 MB and the size of auto-converted Parquet files is 4 MB.\n\n   4. Models trained or fine-tuned on this dataset include Dzeniks/hover for Zero-Shot Classification, with 35.3k updates as of Aug 28, 2024, and other models for Audio-Text-to-Text tasks.\n\n   5. Citation: Jiang, Y., Bordia, S., Zhong, Z., Dognin, C., Singh, M., & Bansal, M. (2020). HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification. arXiv preprint arXiv:2010.04366.\n\n   6. More information can be found on the Hover page: https://www.tensorflow.org/datasets/catalog/hover"
+  },
+  {
+    "claim": "The composer of Longplayer was a banjo player in a band. The classical musician James McNally was in this band.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "The text provided is about the Irish-British Celtic punk band, The Pogues. They were established in 1982 and disestablished in 1996, but they were reestablished in 2001. Famous for blending traditional Irish music with punk rock, their most famous song is \"Fairytale of New York,\" a Christmas classic. The band has had several lineup changes, with Shane MacGowan being the most recognized member. After MacGowan left in 2015, the band ceased to exist again until it was reestablished in 2024 for their 40th anniversary tour. Notable members include Stacy Spider (vocals), Jem Finer (guitar, harmonica), James Fearnley (accordion), Shane MacGowan (lead vocals, guitar), Andrew Ranken (drums), Darryl Hunt (bass), Terry Woods (violin, mandolin, keyboards, vocals), Cait O'Riordan (bass, keyboards, vocals), Philip Chevron (guitar, vocals), Joe Strummer (guest), Dave Coulter (guest), James McNally (whistle, accordion, vocals), and Jamie Clarke (guitar). Some of their popular songs include \"Dark Streets of London,\" \"A Pair of Brown Eyes,\" \"Dirty Old Town,\" \"Fairytale of New York,\" and \"The Irish Rover.\""
+  },
+  {
+    "claim": "The composer of Longplayer was a banjo player and singer in the band The Pogues.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "The text you provided is the wikipedia page of \"The Pogues\", a British-Irish Celtic punk band formed in 1982. Here's a brief summary of the information presented on this page:\n\n* The Pogues are a Celtic punk band that was formed in 1982. They have been active on and off until their final disestablishment in 1996, but they were reestablished in 2001, 2014, and again in 2024.\n* The original members of the band were Shane MacGowan (lead vocals), Spider Stacy (vocals, harmonica), Jem Finer (guitar), James Fearnley (accordion, keyboards), Andrew Ranken (drums), Darryl Hunt (bass guitar), and Terry Woods (mandolin, tin whistle).\n* Joe Strummer of The Clash briefly joined the band in 1986. Philip Chevron was also a member of the band from 1986 to 2013. Cait O'Riordan was a member from 1986 to 1991, and Jamie Clarke was a member from 1994 to 1996.\n* The Pogues released several studio albums, including \"Red Roses for Me\" (1982), \"Rum Sodomy & the Lash\" (1985), \"If I Should Fall from Grace with God\" (1988), \"Peace and Love\" (1989), \"Hell's Ditch\" (1990), \"Waiting for Herb\" (1991), and \"Pogue Mahone\" (2001).\n* Some of the band's most famous songs include \"Fairytale of New York\", \"The Irish Rover\", \"Dirty Old Town\", and \"A Pair of Brown Eyes\". They also covered songs such as \"Maggie May\" by Rod Stewart, \"Mountain Dew\" by The Dubliners, and \"The Parting Glass\" by The Clancy Brothers.\n* The band's music is characterized by a mix of traditional Irish music with punk rock, with lyrics that often deal with themes of working-class life, Irish identity, and political issues."
+  },
+  {
+    "claim": "Mashorey is located in Afghanistan.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provided indicates that the document is a map of Mashorey, Afghanistan. It was prepared under the direction of the Department of Defense and Published by the U.S. Army Topographic Command. This suggests that it is an official military map of a specific location in Afghanistan, which is Mashorey. Therefore, the evidence supports the claim that Mashorey is located in Afghanistan.\n\n2. Label: SUPPORTED"
+  },
+  {
+    "claim": "Mashorey is located in Paktika Province.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks, created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal. It was presented at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n2. The dataset is formatted as a TSV file, with each line containing the claim, label, explanation, and evidence fields.\n\n3. The dataset can be downloaded from the Hover page and has 18,296 rows. The size of the downloaded dataset files is 12.4 MB, while the auto-converted Parquet files are 4 MB in size.\n\n4. This dataset has been used to train or fine-tune various models, such as the model by Dzeniks/hover for Zero-Shot Classification. The number of models trained or fine-tuned on this dataset is not specified."
+  },
+  {
+    "claim": "Mashorey is located in southern Afghanistan.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The dataset is called \"Hover\". It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and presented at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n2. The dataset is formatted as a TSV file with each line containing the claim, label, explanation, and evidence.\n\n3. The dataset can be used for many-hop fact extraction and claim verification tasks. It contains claims labeled as either \"Supports\" or \"Refutes\".\n\n4. The size of the downloaded dataset files is 12.4 MB. The auto-converted Parquet files are 4 MB. The number of rows is 18,296.\n\n5. Models trained or fine-tuned on this dataset include Dzeniks/hover for Zero-Shot Classification. There are also models for Audio-Text-to-Text."
+  },
+  {
+    "claim": "Mario Mazzacurati won the 1936 South African Grand Prix with the Bugatti, a type of two door car that was founded in 1909 in the then German city of Molsheim, Alsace.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks, created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The dataset is formatted as a TSV file, with each line containing the claim, label, explanation, and evidence fields.\n\n   3. It contains 18,296 examples, with sizes of downloaded datasets files at 12.4 MB and auto-converted Parquet files at 4 MB.\n\n   4. The dataset can be used to train or fine-tune models for Zero-Shot Classification (35.3k models), Audio-Text-to-Text conversion (14 models).\n\n   5. Models updated on August 28, 2024 have 35.3k examples, while those updated on October 4 and October 9, 2024 have 2.59k and 22 examples respectively for Zero-Shot Classification tasks. There is also a model for Audio-Text-to-Text conversion updated on January 20 with 14 examples."
+  },
+  {
+    "claim": "Mario Mazzacurati won the 1936 South African Grand Prix with the Bugatti, a type of car that was founded in 1909 in the then German city of Molsheim, Alsace.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. B\n   2. B\n   3. A\n   4. B\n   5. B\n   6. C\n   7. D\n   8. B\n   9. A\n  10. B\n  11. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks, created by Yichen Jiang et al., presented at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), and formatted as a TSV file containing the claim, label, explanation, and evidence fields.\n  12. The Hover dataset contains claims, each labeled as \"Supports\" or \"Refutes\". Claims that are labeled as \"Supports\" are supported by the provided evidence, while claims that are labeled as \"Refutes\" are refuted by the provided evidence."
+  },
+  {
+    "claim": "This movie is based on a book by the Austrian author who also wrote The Hound of Florence, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks. It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The dataset is formatted as a TSV file, with each line containing the following fields: Claim, Label, Explanation, Evidence.\n\n   3. The dataset contains 18,296 rows and can be downloaded in various formats from the Hover page.\n\n   4. The dataset is used for tasks such as Zero-Shot Classification, Audio-Text-to-Text, etc. Models trained or fine-tuned on this dataset include Dzeniks/hover, among others."
+  },
+  {
+    "claim": "This 1938 movie is based on a book by the Austrian author Felix Salten, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks. It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The Hover dataset is formatted as a TSV file, with each line containing the following fields: Claim, Label, Explanation, Evidence.\n\n   3. The size of the downloaded dataset files is 12.4 MB, while the size of the auto-converted Parquet files is 4 MB. There are a total of 18,296 rows in the dataset.\n\n   4. Models trained or fine-tuned on the Hover dataset include Dzeniks/hover for Zero-Shot Classification, updated on August 28, 2024, with 35,300 examples; an unnamed model for Zero-Shot Classification, updated on October 4, 2024, with 2,590 examples; another unnamed model for Zero-Shot Classification, updated on October 9, 2024, with 22 examples; and an Audio-Text-to-Text model, updated on January 20, with 14 examples."
+  },
+  {
+    "claim": "This 2001 documentary is based on a book by the Austrian author who also wrote The Hound of Florence, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks, created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The dataset is formatted as a TSV file, with each line containing the claim, label, explanation, evidence fields. It contains claims labeled as either \"Supports\" or \"Refutes\".\n\n   3. The dataset size is 12.4 MB and it has 18,296 rows. It can be downloaded from the Hover page on Data Studio. Models trained or fine-tuned on this dataset include Dzeniks/hover and several others, with a total of over 35,000 models as of August 28, 2024."
+  },
+  {
+    "claim": "This movie is based on a book by the Austrian author Felix Salten, The film where Candy Ford voiced Salten is not. The movie was restored and preserved by John D. Lowry.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks. It contains claims, with each claim labeled as either \"Supports\" or \"Refutes\".\n\n2. The dataset was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n3. The dataset is formatted as a TSV file, with each line containing the following fields: Claim, Label, Explanation, Evidence.\n\n4. The size of the downloaded dataset files is 12.4 MB, and it contains 18,296 rows.\n\n5. Models trained or fine-tuned on this dataset include Dzeniks/hover for Zero-Shot Classification, with 35,300 examples and updated on Aug 28, 2024; and two other models for Zero-Shot Classification with a total of 2,590 examples and updated on Oct 4, 2024, and 22 examples and updated on Oct 9, 2024. There is also one model for Audio-Text-to-Text updated on Jan 20, with 14 examples."
+  },
+  {
+    "claim": "Bambi, is based on a book by the Austrian author Felix Salten, The Country Bears is not.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "The text you provided is an extract from the Wikipedia page about the novel \"Bambi, a Life in the Woods\" by Felix Salten. Here are some key points:\n\n1. Title: Bambi, a Life in the Woods\n2. Author: Felix Salten\n3. Original language: German (Eine Lebensgeschichte aus dem Walde)\n4. Publication Year: 1923\n5. Adaptations: The novel has been adapted into several films, plays, and ballets.\n6. Characters: Bambi, Thumper, Flower\n7. Related works by Felix Salten: Josephine Mutzenbacher, The Hound of Florence, etc.\n8. Categories: 1923 books, 1923 German-language novels, Austrian novels, Environmental fiction books, Novels about animals, Deer and moose in popular culture, Austrian novels adapted into films, Austrian novels adapted into plays, Novels adapted into ballets, etc.\n\nThe text also mentions that the novel has been translated into several languages, including English (as \"Bambi, a Life in the Woods\"), and provides links to various sources for more information."
+  },
+  {
+    "claim": "This movie is based on a book by the German author Felix Salten, The film where Candy Ford voiced Trixie is not. The movie was restored and preserved by John D. Lowry.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks.\n\n2. It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n3. The dataset is formatted as a TSV file, with each line containing the claim, label, explanation, and evidence fields.\n\n4. The size of the downloaded dataset files is approximately 12.4 MB, while the auto-converted Parquet files are about 4 MB in size. There are approximately 18,296 rows in the dataset.\n\n5. Models trained or fine-tuned on this dataset include Dzeniks/hover and several Zero-Shot Classification models.\n\n6. The dataset is used for tasks such as zero-shot classification and audio-text-to-text tasks."
+  },
+  {
+    "claim": "This movie is based on a book by the Austrian author Felix Salten, The film where Candy Ford voiced Trixie is not. The movie was restored and preserved by John D. Lowry.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks. It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The Hover dataset is formatted as a TSV file, with each line containing the claim, label, explanation, and evidence fields.\n\n   3. The Hover dataset contains 18,296 examples.\n\n   4. Models trained or fine-tuned on the Hover dataset include Dzeniks/hover for Zero-Shot Classification.\n\n   5. The Hover dataset is used to train models in tasks such as Zero-Shot Classification and Audio-Text-to-Text."
+  },
+  {
+    "claim": "This movie is based on a book by the Austrian author Felix Salten, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks. It contains claims, with each claim labeled as either \"Supports\" or \"Refutes\".\n\n2. The format of the Hover dataset is a TSV file, with each line containing the following fields: Claim, Label, Explanation, Evidence.\n\n3. Downloading the Hover dataset would result in a 12.4 MB file. The auto-converted Parquet files would be 4 MB. The number of rows is 18,296.\n\n4. The Hover dataset has been used to train or fine-tune several models such as Dzeniks/hover and some Zero-Shot Classification models. As of the given date (August 28, 2024), there are 35,300 models trained or fine-tuned on Hover dataset, with 46 being Zero-Shot Classification models. Other Zero-Shot Classification models include 2,590 models as of October 4, 2024 and 22 models as of October 9, 2024. There is also an Audio-Text-to-Text model trained on the Hover dataset with 14 examples as of January 20 (the date is not specified in the text)."
+  },
+  {
+    "claim": "Bambi, is based on a book by the American author Felix Salten, The Country Bears is not.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks, created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal. It was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The dataset is formatted as a TSV file, with each line containing the claim, label, explanation, and evidence.\n\n   3. It contains 18,296 rows and was downloaded 103 times last month.\n\n   4. The dataset can be used to train or fine-tune models for zero-shot classification and Audio-Text-to-Text tasks. As of January 20th, there are 14 models trained or fine-tuned on this dataset."
+  },
+  {
+    "claim": "This movie is based on a book by the German author who also wrote The Hound of Florence, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks, formatted as a TSV file with each line containing the following fields: Claim, Label, Explanation, Evidence. It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal and presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The dataset contains 18,296 rows and has been used to train or fine-tune various models, including Dzeniks/hover for Zero-Shot Classification.\n\n   3. The dataset can be downloaded as a TSV file with a size of 12.4 MB, but auto-converted Parquet files are also available with a size of 4 MB. The number of downloads last month is 103."
+  },
+  {
+    "claim": "This movie is based on a book by the Austrian author Faline, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks, created by Yichen Jiang et al., presented in the paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at EMNLP 2020.\n\n2. The Hover dataset is formatted as a TSV file, with each line containing the claim, label, explanation, and evidence.\n\n3. The size of the downloaded dataset files is 12.4 MB, while the auto-converted Parquet files are 4 MB. There are 18,296 rows in total.\n\n4. This dataset has been used to train or fine-tune various models, including Dzeniks/hover for Zero-Shot Classification and several Audio-Text-to-Text models. The number of rows used for training or fine-tuning varies among these models."
+  },
+  {
+    "claim": "This horror movie is based on a book by the Austrian author Felix Salten, The film where Candy Ford voiced Trixie is not. The movie was restored and preserved by John D. Lowry.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. B, In the first round of the playoffs, New York defeated the New York Rangers in three games to advance to the Quarter-finals, where the team defeated the Pittsburgh Penguins in seven games, after they had lost the first three.\n   2. D, It is home to the New York Rangers of the National Hockey League (NHL), the New York Knicks of the National Basketball Association (NBA), and since 1997, the New York Liberty (WNBA).\n   3. A, The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks. It contains claims, with each claim labeled as either \"Supports\" or \"Refutes\".\n   4. C, The dataset was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n   5. B, The format of the Hover dataset is a TSV file, with each line containing the following fields: Claim, Label, Explanation, Evidence."
+  },
+  {
+    "claim": "Bambi, is based on a book by the Austrian photographer Felix Salten, The Country Bears is not.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks, created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The dataset is formatted as a TSV file, with each line containing the claim, label, explanation, evidence fields.\n\n   3. Models trained or fine-tuned on this dataset include Dzeniks/hover and others, with the number of models varying over time."
+  },
+  {
+    "claim": "This movie is based on a book by the German author Felix Salten, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks. It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The dataset is formatted as a TSV file, with each line containing the claim, label, explanation, evidence fields.\n\n   3. The size of downloaded dataset files is 12.4 MB and there are 18,296 rows in total.\n\n   4. It has been used by models such as Dzeniks/hover for Zero-Shot Classification tasks."
+  },
+  {
+    "claim": "In the 2004 Hockey film produced by a former major league baseball pitcher Kurt Russell played the USA coach.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "\"Miracle\" is a sports drama film directed by Gavin O'Connor and released in the year 2004. It is based on the true story of the U.S. ice hockey team's victory at the 1980 Winter Olympics, also known as the \"Miracle on Ice.\" The film stars Kurt Russell as coach Herb Brooks and Eddie Cahill as captain Mike Eruzione. The film was produced by Walt Disney Pictures. It was filmed in various locations including New York, Minnesota, and Colorado. The score for the film was composed by Mark Isham. The film was released on February 6th, 2004."
+  },
+  {
+    "claim": "Gael and Fitness are not published in the same country.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provided does not mention the country of publication for Fitness magazine. However, it clearly states that Gael is published in Mechelen, Belgium. Since we do not have information about where Fitness is published, we cannot definitively say whether or not it is published in the same country as Gael.\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "Dollar Days was the sixth track on Bowie's twenty-fifth and final studio album. The album that was released was recorded in secret.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "The text you provided is the Wikipedia entry for the album \"Blackstar\" by David Bowie. It provides information about the album such as its release year (2016), production, awards it has won, and where it charted on various music charts around the world. It also mentions that the album was produced by Tony Visconti and was released by Columbia Records. The text also indicates that the album is a jazz fusion, art rock, experimental rock album by an English artist and it won a Grammy Award for Best Alternative Music Album in 2017. The text ends with various categories related to the album and information about where you can find more details about the album on Wikipedia."
+  },
+  {
+    "claim": "Dollar Days was a track on Bowie's twenty-fifth and final studio album. The album that was released was recorded in secret.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "David Bowie's album \"Blackstar\" was released on January 8, 2016. It was produced by Tony Visconti and features a mix of rock, jazz, and experimental music styles. The album received widespread critical acclaim and won the Grammy Award for Best Alternative Music Album in 2017. Some of its notable tracks include \"Blackstar,\" \"Lazarus,\" and \"Sue (Or in a Season of Crime).\" The album was released by Columbia Records, RCA Records, and ISO Records. It topped the charts in several countries, including the UK, US, and Canada, and has been certified platinum or gold in multiple regions. The songs from this album were written and recorded while Bowie was battling liver cancer, which added an extra layer of poignancy to the music."
+  },
+  {
+    "claim": "Blackstar is the name of the album released by David Bowie that was recorded in secret.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provided does not explicitly mention the album \"Blackstar\" was recorded in secret. Instead, it talks about a starfield appearing on the gatefold of the vinyl when exposed to sunlight and that someone discovered this. However, the act of keeping an album recording process secret is typically associated with unveiling the title at a later date, which in this case, was \"Blackstar\".\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "Dollar Days was the sixth track on award winning Bowie's twenty-fifth and final studio album. The album that was released was recorded in secret.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "The text provided is an excerpt from the Wikipedia page for \"Blackstar (album),\" which is the title of David Bowie's final studio album. The information includes details about the production of the album, categories it falls under, awards and chart positions it has received, and links to various certification databases in different countries. It also mentions that the article is considered good quality according to Wikipedia standards."
+  },
+  {
+    "claim": "A hockey team calls the venue of the Survivor Series (2011) PPV event it's home. That team, along with the New York Islanders, and the New Jersey Devils Mets franchise, are popular in the New York metropolitan area.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks, created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal. It was presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The dataset is formatted as a TSV file, with each line containing the following fields: Claim, Label, Explanation, Evidence.\n\n   3. The dataset contains 18,296 rows and its size is 12.4 MB. It can be downloaded here: <https://s3.amazonaws.com/research.metamind.io/hover-dataset.tsv>\n\n   4. Models trained or fine-tuned on the Hover dataset include Dzeniks/hover, Zero-Shot Classification (updated Aug 28, 2024 with 35.4k examples, Oct 4, 2024 with 2.61k examples, and Oct 9, 2024 with 20 examples), and Audio-Text-to-Text (updated Jan 20 with 14 examples).\n\n   5. The Hover dataset can be used for many-hop fact extraction and claim verification tasks."
+  },
+  {
+    "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and the New Jersey Devils Giants franchise, are popular in the New York metropolitan area. That team, along with the New York Islanders, and the New Jersey Devils Giants franchise, are popular in the a part of a city.  Coverage of news on Vos Iz Neias? focuses on this part of a city.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "The New York Rangers are a professional ice hockey team based in New York City, United States. They compete in the National Hockey League (NHL) as a member of the Metropolitan Division of the Eastern Conference. The Rangers were established on January 23, 1926, making them one of the oldest teams in the NHL. They are owned by Madison Square Garden Sports and play their home games at Madison Square Garden. The team's official website is <https://www.nhl.com/rangers>."
+  },
+  {
+    "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and the New Jersey Devils the Metropolitan Division of the Eastern Conference franchise, are popular in the New York metropolitan area.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "The New York Islanders are a professional ice hockey team based in the New York metropolitan area. They play in the Metropolitan Division of the National Hockey League (NHL). The team was established in 1972 and is headquartered in Uniondale, New York. Their home arena is UBS Arena, where they have been playing since 2021. The Islanders have won four Stanley Cup championships: in 1980, 1981, 1982, and 1983."
+  },
+  {
+    "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the a part of a city.  Coverage of news on Vos Iz Neias? focuses on this part of a city.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "This text seems to be about the New York Islanders, a professional ice hockey team based in Uniondale, New York. The text mentions that they were established in 1972 and compete in the National Hockey League (NHL). Their home arena is the UBS Arena. The text also indicates that they are part of the Metropolitan Division within the NHL."
+  },
+  {
+    "claim": "Along with the New York Islanders and the New York Rangers, the New Jersey Devils NHL franchise is popular in the New York metropolitan area.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "The text provided is an excerpt from the Wikipedia page about the New York Islanders, a professional ice hockey team based in Uniondale, New York. Here are some key points about the New York Islanders:\n\n1. They were established in 1972.\n2. Their home arena is the UBS Arena in Elmont, New York.\n3. The team plays in the Metropolitan Division of the National Hockey League (NHL).\n4. The New York Islanders are part of the New York metropolitan area and are based in Long Island.\n5. They have won four Stanley Cup championships: 1980, 1981, 1982, and 1983."
+  },
+  {
+    "claim": "A hockey team calls the 70,000 capacity Madison Square Garden it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "Justification: The evidence states that Madison Square Garden is home to the New York Rangers and it is one of three NHL franchises located in the New York metropolitan area. While it does not explicitly mention other teams such as the New York Islanders, the text implies that there are additional popular hockey teams in this region by stating \"The team (the Rangers) is one of three NHL franchises\". Therefore, the evidence supports the claim that along with the New York Rangers, the New York metropolitan area has popular NHL franchises, which includes the New York Islanders.\n\n   Label: SUPPORTED"
+  },
+  {
+    "claim": "Along with the New York Islanders and the New York Rangers, the New Jersey Devils NFL franchise is popular in the New York metropolitan area.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "The given text appears to be the wikipedia summary of the New York Islanders, a professional ice hockey team based in Uniondale, New York. Here is a brief interpretation of the information provided:\n\n1. The New York Islanders are a professional ice hockey team.\n2. They were established in 1972.\n3. The team plays in the National Hockey League (NHL).\n4. Their home games are played at Nassau Veterans Memorial Coliseum, located in Uniondale, New York.\n5. They are part of the Metropolitan Division within the NHL.\n6. Prior to their current location, the Islanders were based in Brooklyn and Queens.\n7. The team has won four Stanley Cup championships: 1980, 1981, 1982, and 1983.\n8. The New York Islanders are part of the sports teams located in the New York metropolitan area."
+  },
+  {
+    "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and Major League Soccer NHL franchise, are popular in the New York metropolitan area. That team, along with the New York Islanders, and Major League Soccer NHL franchise, are popular in the a part of a city.  Coverage of news on Vos Iz Neias? focuses on this part of a city.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "The text provided appears to be an excerpt from the Wikipedia article for \"Sports in the New York metropolitan area.\" This excerpt provides an overview of sports venues and teams in the New York City metropolitan area. It includes information about active, defunct, and proposed sports venues across the four boroughs (The Bronx, Brooklyn, Manhattan, Queens) and parts of New Jersey and Long Island. The text also mentions various sports teams that have played or currently play in the area."
+  },
+  {
+    "claim": "A hockey team calls the venue of the Survivor Series (2011) PPV event it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks. It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal, and presented in their paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n   2. The dataset is formatted as a TSV file, with each line containing the claim, label, explanation, and evidence fields.\n\n   3. The Hover dataset has been used to train or fine-tune various models, including Dzeniks/hover for Zero-Shot Classification. As of October 9, 2024, there are currently 20 models trained or fine-tuned on the Hover dataset.\n\n   4. The Hover dataset can be downloaded directly from the DeepMind Datasets repository (<https://datasets.deepmind.com/hover/>). It has a size of approximately 12.4 MB, and after auto-conversion to Parquet files, it becomes about 4 MB. As of October 9, 2024, the dataset contains 18,296 rows.\n\n   5. Models trained or fine-tuned on the Hover dataset have been used for tasks such as Zero-Shot Classification, Audio-Text-to-Text, etc. For example, Dzeniks/hover is a model that has been trained on the Hover dataset and can be used for zero-shot classification tasks.\n\n   6. As of August 28, 2024, there are currently 35,400 models trained or fine-tuned on the Hover dataset for Zero-Shot Classification tasks. The accuracy of these models varies, with some achieving up to 61% accuracy.\n\n   7. It's worth noting that the number of models and their accuracy may change over time as new research is conducted and more models are developed or retrained using the Hover dataset."
+  },
+  {
+    "claim": "A hockey team calls the venue of the Boxing fight Survivor Series (2011) PPV event it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks, created by Yichen Jiang et al., presented in the paper \"HoVer: A Dataset for Many-Hop Fact Extraction and Claim Verification\" at EMNLP 2020.\n\n   2. The dataset is formatted as a TSV file with each line containing the claim, label, explanation, and evidence (if available).\n\n   3. It can be downloaded as a TSV file of size 12.4 MB or auto-converted Parquet files of size 4 MB. The number of rows is 18,296.\n\n   4. Models trained or fine-tuned on the dataset include Dzeniks/hover, Zero-Shot Classification models updated on Aug 28, 2024, Oct 4, 2024, and Oct 9, 2024, and an Audio-Text-to-Text model updated on Jan 20.\n\n   5. The dataset has been used in zero-shot classification tasks."
+  },
+  {
+    "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and the Brooklyn Nets NHL franchise, are popular in the New York metropolitan area. That team, along with the New York Islanders, and the Brooklyn Nets NHL franchise, are popular in the a part of a city.  Coverage of news on Vos Iz Neias? focuses on this part of a city.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "The text provided appears to be the Wikipedia entry for the New York Islanders, a professional ice hockey team based in Uniondale, New York. This team is part of the National Hockey League (NHL) and was established in 1972. It plays in the Metropolitan Division of the Eastern Conference.\n\nThe text mentions some important information about the team, such as its year of establishment (1972), its location within the New York metropolitan area, and its division in the NHL (Metropolitan). It also notes that the team has a Wikipedia article in multiple languages (42 languages) and provides links to related articles on sports in New York City, Buffalo, Rochester, Syracuse, and New York's Capital District.\n\nHowever, it seems there might be some inconsistencies with the information provided, such as the date mentioned for reviewing (\"May 2024\") being in the future, and discrepancies between the official website listed on Wikipedia and Wikidata."
+  },
+  {
+    "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "The New York Islanders are a professional ice hockey team based in the borough of Queens, New York City. They were founded in 1972 and currently compete in the National Hockey League (NHL) as part of the Eastern Conference's Metropolitan Division. The Islanders have won four Stanley Cup championships: 1980, 1981, 1982, and 1983."
+  },
+  {
+    "claim": "A hockey team calls the venue of the Survivor Series (2011) PPV event it's home. That team, along with the New York Islanders, and National Basketball Association NHL franchise, are popular in the New York metropolitan area.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "1. The Hover dataset is a collection of labeled examples for many-hop fact extraction and claim verification tasks. It was created by Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal and presented at the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).\n\n2. The dataset is formatted as a TSV file, with each line containing the claim to be verified, its label (either \"Supports\" or \"Refutes\"), an explanation for the label, and evidence supporting or refuting the claim, if available.\n\n3. The dataset has been used in 46 models trained or fine-tuned on it, with the latest model being Dzeniks/hover from August 28, 2024.\n\n4. As of October 9, 2024, there have been 20 Audio-Text-to-Text models using the dataset.\n\n5. The size of the downloaded TSV files is 12.4 MB, while the auto-converted Parquet files are 4 MB in size. The dataset contains 18,296 rows."
+  },
+  {
+    "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the a part of a city. Coverage of news on Vos Iz Neias? focuses on this part of a city and broadcasts in German only.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "The New York Islanders are a professional ice hockey team based in Uniondale, New York. They compete in the National Hockey League (NHL) as a member of the Eastern Conference's Metropolitan Division. The team was established in 1972 and has played at Nassau Veterans Memorial Coliseum since their inaugural season. The Islanders have won four Stanley Cup championships, all during the 1980s."
+  },
+  {
+    "claim": "A hockey team calls the venue of the Survivor Series (2011) Blueshirts event it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "This text appears to be a blog post from the website \"T-Bone and the Hockey Doggz\". The author is discussing various events happening in the week of December 5, 2011. Here are some key points:\n\n1. The Boston Bruins goaltender Tim Thomas wants a big, strong hug after warming up on Saturday. A picture is attached with this statement.\n\n2. The author then discusses a drinking game related to the upcoming hockey match between Boston Bruins and Philadelphia Flyers. They provide instructions for the drinking game and caution that playing it could lead to alcohol poisoning.\n\n3. The author also discusses the finale of Survivor Season 23, suggesting that \"Rick\" might win the million-dollar prize.\n\n4. Finally, the author mentions a picture related to the finale on their website, but the link provided doesn't seem to work.\n\nIt seems the blog post is meant to be humorous and engaging, discussing popular culture events of the time (hockey and Survivor) in an entertaining way. The drinking game segment is likely intended as a joke, given the warning about alcohol poisoning."
+  },
+  {
+    "claim": "Robert Earl Holding owned an oil company that was originally founded by Harry F. Sinclair.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "The text provided appears to be an extract from Wikipedia about the Sinclair Oil Corporation. Here are some key points:\n\n* The Sinclair Oil Corporation was a company based in Salt Lake City, Utah.\n* It was established in 1916 and was primarily involved in the oil industry, including automotive fuel retailing.\n* The company was known for its use of dinosaurs as a trademark and mascot, with the dinosaur known as \"Dino\" being featured in various advertising campaigns and attractions.\n* In 1930, Sinclair Oil Corporation acquired 59 petroleum marketing companies during its first ten months of operation.\n* The company has gone through several mergers and acquisitions since then, and it is currently a subsidiary of HollyFrontier Corporation."
+  },
+  {
+    "claim": "The man unseated by Rick Galindo in 2009, and the winner of the San Antonio mayoral election of 2009 belong to the same party. They are both democrats.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provided discusses the party affiliations of Rick Galindo (Republican) and Philip Cortez (Democrat), who were involved in a different election from the one mentioned in the claim (Texas House of Representatives, not San Antonio mayoral). It also mentions Juli\u00e1n Castro, who was elected as mayor of San Antonio in 2009 but was defeated by Phil Hardberger before that. There is no information about who the man unseated by Rick Galindo in 2009 and the winner of the San Antonio mayoral election of 2009 belong to the same party, thus we cannot determine their party affiliation based on the provided evidence.\n\n   2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "The Georgia man unseated by Rick Galindo and Julian Castro are democratic and not Republican.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provided does not mention any Georgia man being unseated by either Rick Galindo or Julian Castro, so there is no information to support the claim that the person who was unseated is a Democrat and not Republican.\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "The person unseated by Rick Galindo and Julian Castro are democratic and not Republican.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provided only mentions Rick Galindo unseating a Democrat (Philip Cortez) in 2014, but it does not state who Julian Castro unseated or the political affiliation of that person. Therefore, we cannot definitively say whether the claim about the unseated person being democratic is supported by this evidence.\n\n  2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "The man unseated by Rick Galindo and Julian Castro are democratic and not Republican.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provided does not mention the party affiliation of the man unseated by Rick Galindo or Julian Castro. It is only stated that Rick Galindo is a Republican, Cortez is a Democrat who lost to Galindo but later regained his seat, and Castro is also a Democrat. However, neither Cortez nor Castro's predecessor (the man unseated by Rick Galindo) are directly linked to being a democrat or republican in the evidence provided.\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "The man unseated by Rick Galindo and Julian Castro are democratic and not Democratic.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence does not provide information about who the man unseated by Rick Galindo was affiliated with politically, but it is stated that Galindo is a Republican and the man he unseated, Philip Cortez, is a Democrat. Therefore, we cannot definitively say whether the man was democratic or Democratic.\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "Philip Cortez and Julian Castro are democratic and not Republican.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: This passage does not provide any information about the political parties of Philip Cortez and Julian Castro, so it cannot be determined whether they are democratic or Republican based on this evidence alone. The passage discusses their roles in the upcoming conventions, but the fact that they will participate in the Democratic convention does not necessarily mean they are Democrats themselves.\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "The man unseated by Rick Galindo,  and the winner of the  San Antonio mayoral election of 2009  belong to the same party. They are both democrats.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence passage provides information about Rick Galindo unseating Philip Cortez, a Democrat, in a Texas House election, but it does not specify that the man who won the San Antonio mayoral election of 2009 was either Galindo or Cortez, or that they are from the same party. It is also mentioned that Juli\u00e1n Castro, a Democrat, won the San Antonio mayoral election in 2009. However, since neither Galindo nor Cortez is linked to the 2009 San Antonio mayoral election, there is no evidence to support the claim that the man who won the 2009 San Antonio mayoral election and the man unseated by Rick Galindo belong to the same party.\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "The nationality of the dancer who partnered Tom Chambers in the sixth season of Strictly Come Dancing is Danish.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The provided evidence states that Camilla Sacre-Dallerup is a Danish dancer. This means she was born in Denmark and holds Danish nationality. The claim made about the nationality of the dancer who partnered Tom Chambers in the sixth season of Strictly Come Dancing being Danish is supported because this is exactly what the evidence shows.\n\n2. Label: SUPPORTED"
+  },
+  {
+    "claim": "The nationality of the dancer who represented Tom Chambers in the fifth season of Strictly Come Dancing is Danish.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "The text provided seems to be about the British dance competition show \"Strictly Come Dancing\". Here is a summary of the information provided:\n\n- Strictly Come Dancing is a dance competition show that first aired in 2004.\n- The show is produced by BBC Studios and has been shot at Pinewood Studios and Elstree Film Studios.\n- Each season (or series) has celebrities paired with professional dancers, who compete in various ballroom dance styles.\n- Winners of the show have included celebrities such as Jill Halfpenny, Abbey Clancy, Stacey Dooley, Kelvin Fletcher, Rose Ayling-Ellis, and Hamza Yassin among others.\n- Professional dancers who have participated in the show include Brendan Cole, Darren Bennett, Lilia Kopylova, Karen Hardy, Matthew Cutler, Camilla Dallerup, Ola Jordan, Artem Chigvintsev, Aliona Vilani, Flavia Cacace, Alja\u017e \u0160korjanec, Pasha Kovalev, Joanne Clifton, Katya Jones, Kevin Clifton, Oti Mabuse, Giovanni Pernice, Jowita Przysta\u0142, Vito Coppola, Dianne Buswell, Gorka M\u00e1rquez, Luba Mushtuk, Lauren Oakley, Johannes Radebe, Michelle Tsiakkas, Kai Widdrington, and Nancy Xu.\n- The show has also had various spin-offs, such as the companion series \"It Takes Two\", and international versions of the show in countries like the United States, Australia, Germany, France, Spain, South Africa, and many more.\n\nThe text also mentions various awards won by the show, but it does not provide a specific list."
+  },
+  {
+    "claim": "The film The Book Thief, released in 1990, was directed by same director of the film About a Girl. The Book Thief is based on a book by Markus Zusak.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provided describes the plot of the book \"The Book Thief\" and its adaptation into a 2013 film, but it does not mention who directed either the book or the movie. Therefore, there is no information in this evidence that directly supports or contradicts the claim that \"The film The Book Thief, released in 1990, was directed by the same director of the film About a Girl.\"\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "The film The Book Thief was directed by same director of the film About a Girl. The Book Thief is based on a book by Markus Zusak.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "The question appears to be asking for information about the film adaptation of \"The Book Thief\" by Markus Zusak. Here are some key points about the movie:\n\n* It was directed by Brian Percival and released in 2013.\n* It stars Sophie N\u00e9lisse as Liesel Meminger, Geoffrey Rush as Max Vandenburg, Emily Watson as Rosa Hubermann, Nico Liersch as Rudy Steiner, and Ben Schnetzer as Alex Steiner.\n* The screenplay was written by Michael Petroni, based on Zusak's novel of the same name.\n* It was produced by Karen Rosenfelt, with music composed by John Williams.\n* The film is set in Nazi Germany and follows Liesel Meminger, a young girl who is sent to live with a foster family, as she learns to read and ultimately becomes the \"book thief.\" It also explores themes of death, loss, and resilience during the Holocaust.\n* The film was shot in Brandenburg, Germany, and was released by 20th Century Fox. It received nominations for various awards, including Golden Globe Awards and Academy Awards."
+  },
+  {
+    "claim": "The film that featured Nico Liersch in the role of Rudy Steiner was directed by same director of the film About a Girl. That film is based on a young adult novel by Markus Zusak.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provided discusses the book \"The Book Thief\" by Markus Zusak, its film adaptation, and the cast of characters in both versions. Nico Liersch is mentioned as playing Rudy Steiner in the movie, but there's no information about who directed the film or any mention of it being the same director of \"About a Girl.\"\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "The film that featured Nico Liersch in the role of Winnie Markus was directed by same director of the film About a Girl. That film is based on a book by Markus Zusak.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence states that \"The Book Thief\" was directed by Brian Percival, not the director of the film about a girl featuring Nico Liersch in the role of Winnie Markus. Therefore, the claim is NOT_SUPPORTED by the given evidence as it refers to a different film and director.\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "The film that featured Nico Liersch in the role of Rudy Steiner was directed by same director of the film About a Girl. That film is based on a book by Liesel Meminger.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provided discusses several movies, including \"The City at Our Feet\" which seems to be referring to \"Raging Bull\". However, there is no mention of a film that features Nico Liersch in the role of Rudy Steiner or any reference to a director of that movie. There's also no mention of a book by Liesel Meminger, let alone one related to the movie.\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "The film that featured Nico Liersch in the role of Rudy Steiner was directed by same director of the film About a Girl. That film is based on a book by Markus Zusak.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "Justification: The evidence provided does not mention the film that featured Nico Liersch in the role of Rudy Steiner or its director, nor does it state that the film is based on a book by Markus Zusak. Therefore, the claim cannot be supported with the given evidence.\n\nLabel: NOT_SUPPORTED"
+  },
+  {
+    "claim": "The president of South Korea was born 24 January 1953. The group that Vietnam-born Euh Yoon-Dae was Chairman of lies under his direct control.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence passage provides detailed information about Moon Jae-in, including his birthdate (24 January 1953) and various roles he held in South Korea, such as the President of South Korea. However, it does not mention anything about Euh Yoon-Dae's group or its relationship to Moon's direct control.\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "The president of South Korea was born 24 January 1953. The group that Euh Yoon-Dae was Chairman of lies under his direct control.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The passage describes the career and roles of two people: Moon Jae-in (the President of South Korea) and Euh Yoon-Dae. It does not mention any group that Euh Yoon-Dae was Chairman of, nor is there any indication that such a group lies under his direct control.\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "The writer of the song Girl Talk and song-writer Park So-yeon have both been members of a girl group.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provided details about Namie Amuro's life and career as a singer, but it does not mention Girl Talk or any association with Park So-yeon (the songwriter) in terms of being a member of a group or otherwise.\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "Park So-yeon was a members of a three piece girl group. So was the writer of the song that was the second single released from the group TLC, \"Hands Up\".",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provided shows that Park So-yeon was a member of T-ara, a girl group formed in 2009 with multiple members and underwent lineup changes. However, it is not stated that T-ara was ever a three-piece group, nor is there any mention of Park So-yeon being part of the American group TLC or contributing to their song \"Hands Up.\" Therefore, the evidence does not support the claim that Park So-yeon was a member of a three-piece girl group or wrote the second single released from TLC's \"3D\" album.\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "The writer of the song Girl Talk has been been members of a girl group. The co-host of the 4th APAN Star Awards also has been been members of a girl group.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "The provided text appears to be a summary of information about Soyeon, a South Korean rapper, singer, songwriter, and record producer. Here's a brief breakdown of the information presented:\n\n* Soyeon was born in 1998 and is currently living.\n* She is a member of the K-pop girl group I-dle and K/DA, a virtual K-pop band based on League of Legends characters.\n* She is signed to Cube Entertainment and is also associated with other labels such as Kakao M, NetEase Music, and Universal Music Japan.\n* Soyeon was a contestant on Produce 101, a South Korean reality talent show that aired in 2016 and 2017.\n* She is a Buddhist and comes from Gangnam District, Seoul, South Korea.\n* She has released music in English, Japanese, and Mandarin languages.\n* Soyeon is a rapper, singer, songwriter, and record producer, and is also known for her skills as an organist.\n* In addition to her work with I-dle and K/DA, she has collaborated with other artists such as Rainz, MXM, Longguo & Shihyun, Hyeongseop X Euiwoong, Teen Teen, BDC, B.O.Y, H&D, and others.\n* Soyeon attended Chung-Ang University.\n* She is a 21st-century South Korean woman singer, rapper, songwriter, record producer, and idol."
+  },
+  {
+    "claim": "The writer of the song Girl Talk and Park So-yeon have both been members of a girl group.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provided does not mention Girl Talk or any connection between Park So-yeon and Girl Talk. It only talks about her career as a member of T-ara, QBS, and her solo work. No other group is mentioned.\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "Park So-yeon  was a members of a girl group. So was the writer of the song that was the second single released from the group TLC, \"Hands Up\".",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provided shows that Park So-yeon was a member of the South Korean girl group T-ara, but it does not mention any affiliation with the American group TLC or any involvement in writing their song \"Hands Up.\" Therefore, there is no direct connection or overlap between the claim and the information given.\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "The writer of the song Girl Talk and Park So-yeon have both been members of a girl group.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provided does not mention Girl Talk or any other girl group member named \"Girl Talk\" being associated with Namie Amuro or Park So-yeon. Therefore, there is no information to support the claim that they have both been members of a girl group together.\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "The writer of the song Girl Talk and Park So-yeon have both been members of a group.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provided does not mention or suggest any collaboration, group membership, or connection between the two individuals (Girl Talk and Park So-yeon) in question. Therefore, there is no information to support the claim that they have both been members of a group.\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "The writer of the song Girl Talk has been been members of a J-pop girl group. The co-host of the 4th APAN Star Awards also has been been members of a girl group.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provided discusses Namie Amuro's career as a Japanese singer and former lead vocalist of Super Monkey's. It mentions her rise to prominence, various successful songs, and numerous awards. However, there is no mention or indication that she has ever been a member of any J-pop girl group after debuting with Super Monkey's or that she co-hosted the 4th APAN Star Awards. Similarly, the evidence discusses Park So-yeon's career as a South Korean singer and actress, her debut as a member of T-ara, her acting roles, and sub-group activities. It does not mention any connection between Park So-yeon and J-pop girl groups or her involvement in co-hosting the 4th APAN Star Awards.\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "The North Central town that licenses WCJB-TV is home to the punk rock band Against Me! formed in 1991.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "The text provided appears to be an extract from the Wikipedia page for Gainesville, Florida. It includes information about the city's geography, its status as a county seat in Alachua County, and its role as an academic enclave. The text also mentions that it was established in 1853 and provides links to related topics such as the Gainesville metropolitan area, Florida, and other categories like Geography of Florida and Populated places established in 1853. However, the text does not contain a question, so it is not clear what you are asking. If you have a specific question about this information or about Gainesville, please provide it for clarity."
+  },
+  {
+    "claim": "The North Central town that licenses WCJB-TV is home to the music band Against Me!.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provided is an app description for WCJB-TV, a local news station from North Central Florida. However, there is no mention of the town that licenses this station being home to Against Me!, a popular music band. Therefore, the app's information does not support the claim that the mentioned town houses Against Me!.\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "The Mars town that licenses WCJB-TV is home to the punk rock band Against Me!.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence does not provide any information about a Mars town, nor is there mention of a punk rock band called Against Me!, or the licensing of WCJB-TV being related to them. Therefore, based on this specific evidence, there is no supporting information for the claim that \"The Mars town that licenses WCJB-TV is home to the punk rock band Against Me!\"\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "The North Central town that licenses WCJB-TV is home to the punk rock band Against Me!.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "Gainesville is a city located in the state of Florida, United States. It serves as the county seat of Alachua County and has an estimated population of over 130,000 residents. The city is also a significant cultural, educational, and economic center for North Central Florida and is home to the University of Florida, one of the largest universities in the nation. Gainesville was established in 1854 and is known for its warm, humid climate and diverse ecosystems. It is part of the Gainesville metropolitan area and is located approximately 200 miles northwest of Jacksonville and 180 miles northeast of Tampa. The city has been a regional academic enclave since the establishment of the University of Florida in the late 19th century."
+  },
+  {
+    "claim": "The movie. in which David Zayas played Francis Ford Coppola the cop, is the movie that John Gavin Malkovich had played in with Matt Damon and Edward Norton.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provided reviews a movie called \"Rounders\" and mentions its cast members, including Matt Damon (who plays Mike McDermott), Edward Norton (who plays Worm), John Turturro (who plays Joey \"Knish\"), Gretchen Mol (who plays Jo), Martin Landau (in a small but memorable role), but there is no mention of David Zayas or John Gavin Malkovich. Therefore, the claim that \"The movie in which David Zayas played Francis Ford Coppola the cop, is the movie that John Gavin Malkovich had played in with Matt Damon and Edward Norton\" is NOT_SUPPORTED by this evidence.\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "The movie. in which David Zayas played Osborne the cop, is the movie that John Gavin Malkovich had played in with Matt Damon and James Moll.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "The provided text is a list of films released in the United States during the year 1998. Here are some notable movies from the list, along with their directors and main cast members:\n\n1. \"Armageddon\" - Michael Bay, Bruce Willis, Ben Affleck, Liv Tyler\n2. \"Titanic\" - James Cameron, Leonardo DiCaprio, Kate Winslet\n3. \"As Good as It Gets\" - James L. Brooks, Jack Nicholson, Helen Hunt, Greg Kinnear\n4. \"The Lion King\" - Roger Allers, Rob Minkoff (animated), Jeremy Irons, Matthew Broderick, James Earl Jones\n5. \"Saving Private Ryan\" - Steven Spielberg, Tom Hanks, Matt Damon, Tom Sizemore\n6. \"There's Something About Mary\" - Peter Farrelly, Bobby Farrelly, Cameron Diaz, Ben Stiller, Matt Dillon\n7. \"The Truman Show\" - Peter Weir, Jim Carrey, Ed Harris, Laura Linney\n8. \"A Bug's Life\" - John Lasseter (animated), Dave Foley, Kevin Spacey, Julia Louis-Dreyfus, Hayden Panettiere\n9. \"Deep Impact\" - Mimi Leder, Tea Leoni, Elijah Wood, Robert Duvall, Morgan Freeman\n10. \"The Waterboy\" - Frank Coraci, Adam Sandler, Kathy Bates, Fairuza Balk\n11. \"Patch Adams\" - Tom Shadyac, Robin Williams, Monica Potter, Philip Seymour Hoffman\n12. \"Stepmom\" - Chris Columbus, Julia Roberts, Susan Sarandon, Ed Harris\n\nThese films cover a variety of genres, including romance, adventure, comedy, drama, science fiction, and animated movies. They have been critically acclaimed and commercially successful, making them significant contributions to the film industry during that year."
+  },
+  {
+    "claim": "David Zayas played Osborne the cop in an Academy Award-winning movie. John Gavin Malkovich also played in it with Edward Norton and the star of Suburbicon.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provided is about the movie \"Rounders,\" starring Matt Damon, Edward Norton, John Malkovich, and others. However, none of these actors are mentioned in the claim. Therefore, there is no direct connection or evidence that supports the claim that David Zayas played Osborne the cop in an Academy Award-winning movie where John Gavin Malkovich, Edward Norton, and the star of Suburbicon also played.\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "The star of the 2015 film, The Wannabe, played Osborne the cop in a movie. In that same movie, John Gavin Malkovich starred in with Matt Damon and Edward Norton.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provides us with the cast of the movie \"The Wannabe\", and it includes Vincent Piazza, Patricia Arquette, David Zayas, Michael Imperioli, Domenick Lombardozzi, Nick Sandow, Mike Starr, Doug E. Doug, Vincenzo Amato, Slaine, Larry Eudene, Joseph Siravo, Neal Huff, Mark Lotito, Adriana DeMeo, Daniel Sauli, Mario Macaluso, Jay Bulger, Eric Roberts, Mark Vincent, Lino Joe Bevilacqua, and Giuseppe. However, there is no mention of John Gavin Malkovich, Matt Damon, or Edward Norton in the movie's cast. Therefore, it is NOT_SUPPORTED that they starred in \"The Wannabe\" as stated in the claim.\n\n2. Label: NOT_SUPPORTED"
+  },
+  {
+    "claim": "David Zayas played Osborne the cop in a movie. John Gavin Malkovich also played in it with Edward Norton and the star of Suburbicon.",
+    "original_label": "SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence passage does not explicitly mention \"David Zayas played Osborne the cop\" in the movie Rounders, but it does list a cast which includes \"David Zayas as Trooper Osborne\". Although his character is not mentioned in the plot summary, the fact that he is listed among the cast suggests he likely appeared in the film.\n\n  2. Label: SUPPORTED"
+  },
+  {
+    "claim": "The Tennessee Governor's Mansion was built as a private home in 1929. Emory University and technical college was founded before the school that the original owner of the Tennessee Governor's Mansion is a graduate of.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "This text appears to be a description of various historical buildings in Carson City, Nevada. The buildings range from the Nevada State Capitol Building (1870) to the Foreman-Roberts House Museum (1863). Some buildings are government buildings, like the Hero's Memorial Building (1921), Ormsby County Courthouse (1920s), and the former Nevada Supreme Court & State Library (1936), while others were commercial structures such as Kitzmeyer Furniture (1873) and Paul Laxalt Building (1891). The text also mentions a few notable facts about each building, like the three-faced clock on the Paul Laxalt Building or the fact that the Foreman-Roberts House was moved from Old Washoe City.\n\n   If you are interested in visiting these buildings, the text suggests that you might want to look for more information about attractions, food and drink, things to do, places to stay, events, and Nevada's historic capital. However, it does not seem to provide specific suggestions or recommendations in this area."
+  },
+  {
+    "claim": "The Tennessee Governor's Mansion was built as a private home in 1929. Emory University was founded before the school that the original owner of the Tennessee Governor's Mansion is a graduate of.",
+    "original_label": "SUPPORTED",
+    "generated_label": "UNKNOWN",
+    "justification": "This text appears to be a description of various historical buildings and structures located in Carson City, Nevada. It provides facts about each building such as their architecture style, when they were built, notable features, and any significant events associated with them. Some examples include the Nevada State Capitol Building (1870), Hero's Memorial Building (1921), Ormsby County Courthouse (1920s), Kitzmeyer Furniture (1873), Paul Laxalt Building (1891), and Foreman-Roberts House Museum (1863). Additionally, the text mentions that many of these buildings are listed on the National Register of Historic Places. It also provides information about the purpose each building served throughout history, such as serving as a furniture factory, federal government building, or post office. Overall, this text is an informative guide to the historical architecture and significance of various buildings in Carson City."
+  },
+  {
+    "claim": "The man that composed the opera Irrelohe was also a teacher. The composer, who American Violinist and singer Tim Fain is best known for working with, was not.",
+    "original_label": "NOT_SUPPORTED",
+    "generated_label": "SUPPORTED",
+    "justification": "1. Justification: The evidence provided does not mention anything about Franz Schreker being a teacher. It focuses on his career as a composer, conductor, librettist, and administrator, but there is no explicit statement or implication that he was also a teacher.\n\n2. Label: NOT_SUPPORTED"
+  }
+]

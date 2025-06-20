@@ -1,0 +1,8 @@
+[
+  {
+    "claim": "\"The non-partisan Congressional Budget Office concluded ObamaCare will cost the U.S. more than 800,000 jobs.\"",
+    "taxonomy_label": "statistical",
+    "original_label": "Conflicting",
+    "justification": "This claim can be justified as Conflicting because it takes two different statements from the CBO and the statement is misleading. The first sentence provides the source of the claim that \"The non-partisan Congressional Budget Office concluded ObamaCare will cost the U.S. more than 800,000 jobs\" while the second sentence gives some further evidence by providing information about a statement made in a different medium that \"In February 2011, an article on AmericanThinker.com said: The director of the Congressional Budget Office (CBO) has stated that Obamacare will reduce U.S. employment by more than 800,000.\" These two statements have not been validated as accurate and it is possible for both to be true or false depending on the interpretation given by an individual. Therefore, the claim can also be labeled Conflicting because of the ambiguity in the evidence presented."
+  }
+]

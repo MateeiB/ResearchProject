@@ -1,0 +1,8 @@
+[
+  {
+    "claim": "\"The non-partisan Congressional Budget Office concluded ObamaCare will cost the U.S. more than 800,000 jobs.\"",
+    "taxonomy_label": "statistical",
+    "generated_label": "False",
+    "justification": "**Justification:** The claim that the non-partisan Congressional Budget Office concluded Obamacare will cost the U.S. more than 800,000 jobs is inaccurate. While the CBO did project that the healthcare law would reduce the amount of labor used in the economy by roughly half a percent, primarily by reducing the amount of labor that workers choose to supply, they did not use the 800,000 jobs number in their report and cautioned that it was an extrapolation.\n\n**Label:** False"
+  }
+]
